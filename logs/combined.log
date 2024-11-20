@@ -1,0 +1,2491 @@
+2024-11-16T09:03:06.280Z [info]: Server is running on port 3000
+2024-11-16T09:03:11.241Z [info]: MongoDB connected successfully
+2024-11-16T09:03:11.787Z [error]: Error in Edit Role:
+2024-11-16T09:03:11.790Z [error]: Error: Role With the given id 67346f5748bd211a3824adb8 is not found!
+    at Object.editRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:40:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async editRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:79:18)
+2024-11-16T09:03:45.153Z [info]: Server is running on port 3000
+2024-11-16T09:03:49.022Z [info]: MongoDB connected successfully
+2024-11-16T09:04:12.132Z [error]: Error in Edit Role:
+2024-11-16T09:04:12.133Z [error]: Error: Role With the given id 67346f5748bd211a3824adb8 is not found!
+    at Object.editRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:35:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async editRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:79:18)
+2024-11-16T09:04:48.104Z [info]: Server is running on port 3000
+2024-11-16T09:04:51.374Z [info]: MongoDB connected successfully
+2024-11-16T09:05:28.257Z [info]: Server is running on port 3000
+2024-11-16T09:05:33.121Z [info]: Server is running on port 3000
+2024-11-16T09:05:35.735Z [info]: MongoDB connected successfully
+2024-11-16T09:05:37.614Z [error]: Error in Edit Role:
+2024-11-16T09:05:37.614Z [error]: Error: Role With the given id 67346f5748bd211a3824adb8 is not found!
+    at Object.editRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:35:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async editRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:79:18)
+2024-11-16T09:05:58.831Z [info]: Server is running on port 3000
+2024-11-16T09:05:59.710Z [info]: MongoDB connected successfully
+2024-11-16T09:06:46.541Z [info]: Server is running on port 3000
+2024-11-16T09:06:51.361Z [info]: MongoDB connected successfully
+2024-11-16T09:06:51.573Z [error]: Error in Edit Role:
+2024-11-16T09:06:51.577Z [error]: Error: Role With the given id 67346f5748bd211a3824adb8 is not found!
+    at Object.editRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:35:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async editRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:79:18)
+2024-11-16T09:07:53.388Z [info]: Server is running on port 3000
+2024-11-16T09:07:57.581Z [info]: MongoDB connected successfully
+2024-11-16T09:17:19.699Z [info]: Server is running on port 3000
+2024-11-16T09:17:22.131Z [info]: Server is running on port 3000
+2024-11-16T09:17:27.349Z [info]: Server is running on port 3000
+2024-11-16T09:17:27.858Z [info]: MongoDB connected successfully
+2024-11-16T09:17:48.611Z [info]: Server is running on port 3000
+2024-11-16T09:17:49.110Z [info]: MongoDB connected successfully
+2024-11-16T09:17:59.280Z [info]: Server is running on port 3000
+2024-11-16T09:18:00.810Z [info]: MongoDB connected successfully
+2024-11-16T09:18:19.574Z [info]: Server is running on port 3000
+2024-11-16T09:18:20.047Z [info]: MongoDB connected successfully
+2024-11-16T09:23:01.788Z [info]: Server is running on port 3000
+2024-11-16T09:23:05.488Z [info]: MongoDB connected successfully
+2024-11-16T09:23:14.890Z [info]: Server is running on port 3000
+2024-11-16T09:23:17.286Z [info]: Server is running on port 3000
+2024-11-16T09:23:18.865Z [info]: MongoDB connected successfully
+2024-11-16T09:23:27.498Z [info]: Server is running on port 3000
+2024-11-16T09:23:28.169Z [info]: MongoDB connected successfully
+2024-11-16T09:23:38.002Z [info]: Server is running on port 3000
+2024-11-16T09:23:38.680Z [info]: MongoDB connected successfully
+2024-11-16T09:23:49.954Z [error]: Error in Save Role: Role With the given id 6738273516de8a83245e2349 is not found!
+2024-11-16T09:23:49.955Z [error]: Error: Role With the given id 6738273516de8a83245e2349 is not found!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:76:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:24:02.499Z [error]: Error in Save Role: Cast to ObjectId failed for value "6738273516de8a832" (type string) at path "_id" for model "Role"
+2024-11-16T09:24:02.500Z [error]: CastError: Cast to ObjectId failed for value "6738273516de8a832" (type string) at path "_id" for model "Role"
+    at SchemaObjectId.cast (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schema\objectId.js:250:11)
+    at SchemaType.applySetters (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaType.castForQuery (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1653:17)
+    at cast (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\cast.js:390:32)
+    at Query.cast (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4908:12)
+    at Query._castConditions (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2302:10)
+    at model.Query._findOne (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2626:8)
+    at model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:74:16)
+2024-11-16T09:24:28.656Z [error]: Error in Save Role: Role With the given id 6738273516de8a83245e2349 is not found!
+2024-11-16T09:24:28.657Z [error]: Error: Role With the given id 6738273516de8a83245e2349 is not found!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:76:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:24:48.707Z [info]: Server is running on port 3000
+2024-11-16T09:24:52.551Z [info]: MongoDB connected successfully
+2024-11-16T09:25:00.647Z [info]: Server is running on port 3000
+2024-11-16T09:25:01.264Z [info]: MongoDB connected successfully
+2024-11-16T09:26:47.158Z [info]: Server is running on port 3000
+2024-11-16T09:26:53.976Z [info]: Server is running on port 3000
+2024-11-16T09:26:56.889Z [info]: MongoDB connected successfully
+2024-11-16T09:26:59.541Z [info]: Server is running on port 3000
+2024-11-16T09:27:00.768Z [info]: MongoDB connected successfully
+2024-11-16T09:27:48.873Z [info]: Server is running on port 3000
+2024-11-16T09:27:54.448Z [info]: MongoDB connected successfully
+2024-11-16T09:28:31.289Z [info]: Server is running on port 3000
+2024-11-16T09:28:31.914Z [info]: MongoDB connected successfully
+2024-11-16T09:28:36.476Z [info]: Server is running on port 3000
+2024-11-16T09:28:37.204Z [info]: MongoDB connected successfully
+2024-11-16T09:29:08.338Z [info]: Server is running on port 3000
+2024-11-16T09:29:11.785Z [info]: MongoDB connected successfully
+2024-11-16T09:29:26.213Z [info]: Server is running on port 3000
+2024-11-16T09:29:26.709Z [info]: MongoDB connected successfully
+2024-11-16T09:29:42.949Z [info]: Server is running on port 3000
+2024-11-16T09:29:43.476Z [info]: MongoDB connected successfully
+2024-11-16T09:30:09.651Z [info]: Server is running on port 3000
+2024-11-16T09:30:10.785Z [info]: MongoDB connected successfully
+2024-11-16T09:30:14.011Z [info]: Server is running on port 3000
+2024-11-16T09:30:18.458Z [info]: Server is running on port 3000
+2024-11-16T09:30:19.060Z [info]: MongoDB connected successfully
+2024-11-16T09:30:35.105Z [info]: Server is running on port 3000
+2024-11-16T09:30:36.444Z [info]: Server is running on port 3000
+2024-11-16T09:30:37.016Z [info]: MongoDB connected successfully
+2024-11-16T09:30:46.908Z [info]: Server is running on port 3000
+2024-11-16T09:30:49.509Z [info]: MongoDB connected successfully
+2024-11-16T09:35:02.277Z [info]: Server is running on port 3000
+2024-11-16T09:35:04.568Z [info]: MongoDB connected successfully
+2024-11-16T09:35:10.191Z [info]: Server is running on port 3000
+2024-11-16T09:35:10.746Z [info]: MongoDB connected successfully
+2024-11-16T09:35:30.643Z [info]: Server is running on port 3000
+2024-11-16T09:35:31.134Z [info]: MongoDB connected successfully
+2024-11-16T09:35:35.923Z [info]: Server is running on port 3000
+2024-11-16T09:35:36.409Z [info]: MongoDB connected successfully
+2024-11-16T09:35:54.331Z [info]: Server is running on port 3000
+2024-11-16T09:35:54.886Z [info]: MongoDB connected successfully
+2024-11-16T09:36:16.861Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:36:16.864Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:81:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:36:29.537Z [info]: Server is running on port 3000
+2024-11-16T09:36:30.258Z [info]: MongoDB connected successfully
+2024-11-16T09:36:31.258Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:36:31.259Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:81:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:37:55.320Z [info]: Server is running on port 3000
+2024-11-16T09:37:58.192Z [info]: MongoDB connected successfully
+2024-11-16T09:38:37.254Z [info]: Server is running on port 3000
+2024-11-16T09:38:37.733Z [info]: MongoDB connected successfully
+2024-11-16T09:39:04.309Z [info]: Server is running on port 3000
+2024-11-16T09:39:06.115Z [info]: MongoDB connected successfully
+2024-11-16T09:39:57.367Z [info]: Server is running on port 3000
+2024-11-16T09:39:59.478Z [info]: Server is running on port 3000
+2024-11-16T09:40:00.690Z [info]: MongoDB connected successfully
+2024-11-16T09:40:12.116Z [info]: Server is running on port 3000
+2024-11-16T09:40:12.716Z [info]: MongoDB connected successfully
+2024-11-16T09:40:18.235Z [info]: Server is running on port 3000
+2024-11-16T09:40:18.735Z [info]: MongoDB connected successfully
+2024-11-16T09:40:20.446Z [info]: Server is running on port 3000
+2024-11-16T09:40:21.075Z [info]: MongoDB connected successfully
+2024-11-16T09:40:24.788Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:40:24.792Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:84:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:40:29.159Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:40:29.160Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:84:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:40:45.949Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:40:45.950Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:84:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:40:57.338Z [info]: Server is running on port 3000
+2024-11-16T09:41:02.037Z [info]: MongoDB connected successfully
+2024-11-16T09:41:02.689Z [error]: Error in Save Role: This Administrator already exists!
+2024-11-16T09:41:02.690Z [error]: Error: This Administrator already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:84:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:41:12.167Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:41:12.168Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:84:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:41:22.419Z [info]: Server is running on port 3000
+2024-11-16T09:41:25.094Z [info]: MongoDB connected successfully
+2024-11-16T09:42:06.489Z [info]: Server is running on port 3000
+2024-11-16T09:42:11.253Z [info]: MongoDB connected successfully
+2024-11-16T09:42:18.740Z [info]: Server is running on port 3000
+2024-11-16T09:42:19.629Z [info]: MongoDB connected successfully
+2024-11-16T09:42:47.023Z [info]: Server is running on port 3000
+2024-11-16T09:42:47.788Z [info]: MongoDB connected successfully
+2024-11-16T09:43:01.491Z [error]: Error in Save Role: This Administrator already exists!
+2024-11-16T09:43:01.495Z [error]: Error: This Administrator already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:87:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:43:11.195Z [info]: Server is running on port 3000
+2024-11-16T09:43:18.483Z [info]: MongoDB connected successfully
+2024-11-16T09:43:21.498Z [info]: Server is running on port 3000
+2024-11-16T09:43:22.082Z [info]: MongoDB connected successfully
+2024-11-16T09:43:38.095Z [info]: Server is running on port 3000
+2024-11-16T09:43:38.984Z [info]: MongoDB connected successfully
+2024-11-16T09:44:47.055Z [info]: Server is running on port 3000
+2024-11-16T09:44:48.909Z [info]: Server is running on port 3000
+2024-11-16T09:44:49.612Z [info]: MongoDB connected successfully
+2024-11-16T09:45:04.133Z [info]: Server is running on port 3000
+2024-11-16T09:45:05.092Z [info]: MongoDB connected successfully
+2024-11-16T09:45:26.880Z [info]: Server is running on port 3000
+2024-11-16T09:45:27.439Z [info]: MongoDB connected successfully
+2024-11-16T10:12:25.663Z [info]: Server is running on port 3000
+2024-11-16T10:12:28.840Z [info]: MongoDB connected successfully
+2024-11-16T10:12:42.604Z [info]: Server is running on port 3000
+2024-11-16T10:12:49.472Z [info]: MongoDB connected successfully
+2024-11-16T10:12:53.144Z [info]: Server is running on port 3000
+2024-11-16T10:12:53.921Z [info]: MongoDB connected successfully
+2024-11-16T10:12:59.056Z [info]: Server is running on port 3000
+2024-11-16T10:13:00.613Z [info]: MongoDB connected successfully
+2024-11-16T10:13:01.817Z [info]: Server is running on port 3000
+2024-11-16T10:13:02.359Z [info]: MongoDB connected successfully
+2024-11-16T10:13:06.341Z [info]: Server is running on port 3000
+2024-11-16T10:13:06.844Z [info]: MongoDB connected successfully
+2024-11-16T10:13:09.559Z [info]: Server is running on port 3000
+2024-11-16T10:13:10.078Z [info]: MongoDB connected successfully
+2024-11-16T10:13:38.020Z [info]: Server is running on port 3000
+2024-11-16T10:13:41.224Z [info]: MongoDB connected successfully
+2024-11-16T10:14:04.091Z [info]: Server is running on port 3000
+2024-11-16T10:14:05.809Z [info]: MongoDB connected successfully
+2024-11-16T10:14:17.735Z [info]: Server is running on port 3000
+2024-11-16T10:14:18.236Z [info]: MongoDB connected successfully
+2024-11-16T10:14:22.769Z [info]: Server is running on port 3000
+2024-11-16T10:14:23.381Z [info]: MongoDB connected successfully
+2024-11-16T10:14:30.925Z [info]: Server is running on port 3000
+2024-11-16T10:14:31.519Z [info]: MongoDB connected successfully
+2024-11-16T10:15:15.760Z [info]: Server is running on port 3000
+2024-11-16T10:15:17.331Z [info]: MongoDB connected successfully
+2024-11-16T10:15:37.997Z [info]: Server is running on port 3000
+2024-11-16T10:15:38.556Z [info]: MongoDB connected successfully
+2024-11-16T10:15:52.706Z [info]: Server is running on port 3000
+2024-11-16T10:15:53.272Z [info]: MongoDB connected successfully
+2024-11-16T10:15:54.556Z [info]: Server is running on port 3000
+2024-11-16T10:15:55.134Z [info]: MongoDB connected successfully
+2024-11-16T10:19:35.096Z [info]: Server is running on port 3000
+2024-11-16T10:19:36.123Z [info]: MongoDB connected successfully
+2024-11-16T10:19:52.844Z [info]: Server is running on port 3000
+2024-11-16T10:19:53.414Z [info]: MongoDB connected successfully
+2024-11-16T10:20:07.037Z [info]: Server is running on port 3000
+2024-11-16T10:20:07.566Z [info]: MongoDB connected successfully
+2024-11-16T10:20:18.768Z [info]: Server is running on port 3000
+2024-11-16T10:20:23.254Z [info]: MongoDB connected successfully
+2024-11-16T10:20:41.777Z [info]: Server is running on port 3000
+2024-11-16T10:20:44.783Z [info]: MongoDB connected successfully
+2024-11-16T10:20:53.300Z [info]: Server is running on port 3000
+2024-11-16T10:20:53.885Z [info]: MongoDB connected successfully
+2024-11-16T10:20:59.577Z [info]: Server is running on port 3000
+2024-11-16T10:21:00.149Z [info]: MongoDB connected successfully
+2024-11-16T10:21:05.515Z [info]: Server is running on port 3000
+2024-11-16T10:21:06.198Z [info]: MongoDB connected successfully
+2024-11-16T10:21:08.765Z [info]: Server is running on port 3000
+2024-11-16T10:21:09.340Z [info]: MongoDB connected successfully
+2024-11-16T10:22:35.975Z [info]: Server is running on port 3000
+2024-11-16T10:22:38.074Z [info]: Server is running on port 3000
+2024-11-16T10:22:41.101Z [info]: MongoDB connected successfully
+2024-11-16T10:22:45.329Z [info]: Server is running on port 3000
+2024-11-16T10:22:45.864Z [info]: MongoDB connected successfully
+2024-11-16T10:22:56.683Z [info]: Server is running on port 3000
+2024-11-16T10:23:00.489Z [info]: MongoDB connected successfully
+2024-11-16T10:23:11.588Z [error]: Error in Save Role: User is not defined
+2024-11-16T10:23:11.632Z [error]: ReferenceError: User is not defined
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\repositories\roleRepository.js:59:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T10:23:40.612Z [info]: Server is running on port 3000
+2024-11-16T10:23:42.044Z [info]: MongoDB connected successfully
+2024-11-16T10:25:11.912Z [info]: Server is running on port 3000
+2024-11-16T10:25:14.954Z [info]: MongoDB connected successfully
+2024-11-16T10:25:44.443Z [info]: Server is running on port 3000
+2024-11-16T10:25:44.977Z [info]: MongoDB connected successfully
+2024-11-16T10:25:51.197Z [info]: Server is running on port 3000
+2024-11-16T10:25:51.801Z [info]: MongoDB connected successfully
+2024-11-16T10:25:53.042Z [info]: Server is running on port 3000
+2024-11-16T10:25:53.774Z [info]: MongoDB connected successfully
+2024-11-16T10:25:57.720Z [info]: Server is running on port 3000
+2024-11-16T10:25:58.265Z [info]: MongoDB connected successfully
+2024-11-16T10:26:04.416Z [info]: Server is running on port 3000
+2024-11-16T10:26:05.023Z [info]: MongoDB connected successfully
+2024-11-16T10:28:24.578Z [info]: Server is running on port 3000
+2024-11-16T10:28:32.132Z [info]: MongoDB connected successfully
+2024-11-16T10:28:35.858Z [info]: Server is running on port 3000
+2024-11-16T10:28:36.416Z [info]: MongoDB connected successfully
+2024-11-16T10:29:33.504Z [info]: Server is running on port 3000
+2024-11-16T10:29:37.183Z [info]: Server is running on port 3000
+2024-11-16T10:29:38.539Z [info]: MongoDB connected successfully
+2024-11-16T10:29:44.441Z [info]: Server is running on port 3000
+2024-11-16T10:29:45.061Z [info]: MongoDB connected successfully
+2024-11-16T10:31:04.390Z [info]: Server is running on port 3000
+2024-11-16T10:31:11.342Z [info]: MongoDB connected successfully
+2024-11-16T10:32:06.023Z [info]: Server is running on port 3000
+2024-11-16T10:32:08.563Z [info]: MongoDB connected successfully
+2024-11-16T10:32:47.220Z [info]: Server is running on port 3000
+2024-11-16T10:32:50.716Z [info]: MongoDB connected successfully
+2024-11-16T10:32:56.884Z [error]: Error in Save Role: Cannot read properties of undefined (reading 'length')
+2024-11-16T10:32:56.888Z [error]: TypeError: Cannot read properties of undefined (reading 'length')
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:91:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T10:36:53.954Z [info]: Server is running on port 3000
+2024-11-16T10:36:57.513Z [info]: MongoDB connected successfully
+2024-11-16T10:38:31.207Z [info]: Server is running on port 3000
+2024-11-16T10:38:34.963Z [info]: MongoDB connected successfully
+2024-11-16T10:38:35.840Z [error]: Error in Save Role: Please Select at least one Resource!
+2024-11-16T10:38:35.841Z [error]: Error: Please Select at least one Resource!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:95:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T10:39:57.330Z [info]: Server is running on port 3000
+2024-11-16T10:40:02.448Z [info]: MongoDB connected successfully
+2024-11-16T10:40:04.684Z [info]: Server is running on port 3000
+2024-11-16T10:40:05.988Z [info]: MongoDB connected successfully
+2024-11-16T10:40:30.522Z [info]: Server is running on port 3000
+2024-11-16T10:40:31.078Z [info]: MongoDB connected successfully
+2024-11-16T10:40:39.911Z [info]: Server is running on port 3000
+2024-11-16T10:40:40.440Z [info]: MongoDB connected successfully
+2024-11-16T10:41:02.425Z [info]: Server is running on port 3000
+2024-11-16T10:41:05.863Z [info]: MongoDB connected successfully
+2024-11-16T10:41:38.730Z [info]: Server is running on port 3000
+2024-11-16T10:41:41.200Z [info]: Server is running on port 3000
+2024-11-16T10:41:42.303Z [info]: MongoDB connected successfully
+2024-11-16T10:42:08.096Z [info]: Server is running on port 3000
+2024-11-16T10:42:12.714Z [info]: MongoDB connected successfully
+2024-11-16T10:42:15.270Z [info]: Server is running on port 3000
+2024-11-16T10:42:15.781Z [info]: MongoDB connected successfully
+2024-11-16T10:42:19.060Z [info]: Server is running on port 3000
+2024-11-16T10:42:20.628Z [info]: MongoDB connected successfully
+2024-11-16T10:42:53.434Z [info]: Server is running on port 3000
+2024-11-16T10:42:55.213Z [info]: Server is running on port 3000
+2024-11-16T10:42:55.740Z [info]: MongoDB connected successfully
+2024-11-16T10:43:20.580Z [info]: Server is running on port 3000
+2024-11-16T10:43:21.784Z [info]: MongoDB connected successfully
+2024-11-16T10:43:30.885Z [info]: Server is running on port 3000
+2024-11-16T10:43:31.463Z [info]: MongoDB connected successfully
+2024-11-16T10:44:12.299Z [info]: Server is running on port 3000
+2024-11-16T10:44:15.720Z [info]: MongoDB connected successfully
+2024-11-16T10:44:22.456Z [info]: Server is running on port 3000
+2024-11-16T10:44:28.157Z [info]: MongoDB connected successfully
+2024-11-16T10:44:39.984Z [info]: Server is running on port 3000
+2024-11-16T10:44:40.819Z [info]: MongoDB connected successfully
+2024-11-16T10:45:13.256Z [info]: Server is running on port 3000
+2024-11-16T10:45:16.064Z [info]: MongoDB connected successfully
+2024-11-16T10:45:18.401Z [error]: Error in Save Role: session is not defined
+2024-11-16T10:45:18.402Z [error]: ReferenceError: session is not defined
+    at updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:101:63)
+    at Layer.handle [as handle_request] (E:\durulhoda\nodetutorial\ecom\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\durulhoda\nodetutorial\ecom\node_modules\express\lib\router\route.js:149:13)
+    at authMiddleware (E:\durulhoda\nodetutorial\ecom\middlewares\authMiddleware.js:25:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-11-16T10:45:49.419Z [info]: Server is running on port 3000
+2024-11-16T10:45:51.389Z [info]: Server is running on port 3000
+2024-11-16T10:45:59.010Z [info]: MongoDB connected successfully
+2024-11-16T10:46:11.946Z [info]: Server is running on port 3000
+2024-11-16T10:46:12.519Z [info]: MongoDB connected successfully
+2024-11-16T10:46:17.627Z [info]: Server is running on port 3000
+2024-11-16T10:46:21.167Z [info]: MongoDB connected successfully
+2024-11-16T10:46:22.995Z [info]: Server is running on port 3000
+2024-11-16T10:46:25.591Z [info]: MongoDB connected successfully
+2024-11-16T10:46:26.067Z [error]: Error in Save Role: Permisssion.bulkWrite1 is not a function
+2024-11-16T10:46:26.068Z [error]: TypeError: Permisssion.bulkWrite1 is not a function
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\repositories\roleRepository.js:63:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:101:16)
+2024-11-16T10:46:37.331Z [info]: Server is running on port 3000
+2024-11-16T10:46:37.914Z [info]: MongoDB connected successfully
+2024-11-16T10:47:29.548Z [info]: Server is running on port 3000
+2024-11-16T10:47:31.176Z [info]: MongoDB connected successfully
+2024-11-16T10:47:35.892Z [info]: Server is running on port 3000
+2024-11-16T10:47:36.650Z [info]: MongoDB connected successfully
+2024-11-16T10:47:44.233Z [info]: Server is running on port 3000
+2024-11-16T10:47:44.889Z [info]: MongoDB connected successfully
+2024-11-16T10:47:50.955Z [info]: Server is running on port 3000
+2024-11-16T10:47:51.537Z [info]: MongoDB connected successfully
+2024-11-16T10:48:02.173Z [info]: Server is running on port 3000
+2024-11-16T10:48:02.733Z [info]: MongoDB connected successfully
+2024-11-16T10:48:14.318Z [info]: Server is running on port 3000
+2024-11-16T10:48:14.974Z [info]: MongoDB connected successfully
+2024-11-16T10:48:17.380Z [info]: Server is running on port 3000
+2024-11-16T10:48:17.959Z [info]: MongoDB connected successfully
+2024-11-16T10:48:24.907Z [info]: Server is running on port 3000
+2024-11-16T10:48:25.478Z [info]: MongoDB connected successfully
+2024-11-16T10:48:45.395Z [info]: Server is running on port 3000
+2024-11-16T10:48:48.137Z [info]: MongoDB connected successfully
+2024-11-16T10:49:49.353Z [info]: Server is running on port 3000
+2024-11-16T10:49:52.489Z [info]: MongoDB connected successfully
+2024-11-16T10:49:55.501Z [info]: Server is running on port 3000
+2024-11-16T10:49:56.122Z [info]: MongoDB connected successfully
+2024-11-16T10:50:30.133Z [info]: Server is running on port 3000
+2024-11-16T10:50:30.831Z [info]: MongoDB connected successfully
+2024-11-16T10:50:42.533Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T10:50:42.537Z [error]: Error: This Admin already exists!
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:51:12.411Z [info]: Server is running on port 3000
+2024-11-16T10:51:15.690Z [info]: MongoDB connected successfully
+2024-11-16T10:51:31.706Z [error]: Error in Save Role: Cannot read properties of null (reading 'name')
+2024-11-16T10:51:31.708Z [error]: TypeError: Cannot read properties of null (reading 'name')
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:33:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:52:31.681Z [info]: Server is running on port 3000
+2024-11-16T10:52:37.712Z [info]: MongoDB connected successfully
+2024-11-16T10:52:48.086Z [error]: Error in Save Role: Cannot read properties of null (reading 'name')
+2024-11-16T10:52:48.091Z [error]: TypeError: Cannot read properties of null (reading 'name')
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:33:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:52:59.851Z [info]: Server is running on port 3000
+2024-11-16T10:53:00.526Z [info]: MongoDB connected successfully
+2024-11-16T10:53:56.780Z [info]: Server is running on port 3000
+2024-11-16T10:54:03.999Z [info]: MongoDB connected successfully
+2024-11-16T10:54:04.764Z [error]: Error in Save Role: Cannot read properties of null (reading 'name')
+2024-11-16T10:54:04.765Z [error]: TypeError: Cannot read properties of null (reading 'name')
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:33:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:54:12.194Z [info]: Server is running on port 3000
+2024-11-16T10:54:12.749Z [info]: MongoDB connected successfully
+2024-11-16T10:54:14.755Z [error]: Error in Save Role: Cannot read properties of undefined (reading 'map')
+2024-11-16T10:54:14.756Z [error]: TypeError: Cannot read properties of undefined (reading 'map')
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\repositories\roleRepository.js:24:46)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:55:16.413Z [info]: Server is running on port 3000
+2024-11-16T10:55:24.594Z [info]: MongoDB connected successfully
+2024-11-16T10:55:25.409Z [error]: Error in Save Role: Please Select at least one Resource!
+2024-11-16T10:55:25.410Z [error]: Error: Please Select at least one Resource!
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:42:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:55:39.343Z [info]: Server is running on port 3000
+2024-11-16T10:55:40.905Z [info]: MongoDB connected successfully
+2024-11-16T10:55:42.135Z [info]: Server is running on port 3000
+2024-11-16T10:55:42.703Z [info]: MongoDB connected successfully
+2024-11-16T10:56:31.948Z [error]: Error in Save Role: This Employee already exists!
+2024-11-16T10:56:31.949Z [error]: Error: This Employee already exists!
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T11:09:55.091Z [info]: Server is running on port 3000
+2024-11-16T11:09:57.692Z [info]: Server is running on port 3000
+2024-11-16T11:10:02.244Z [info]: MongoDB connected successfully
+2024-11-16T11:10:04.250Z [error]: Error in register: User validation failed: createdBy: Path `createdBy` is required., role: Path `role` is required.
+2024-11-16T11:10:04.251Z [error]: ValidationError: User validation failed: createdBy: Path `createdBy` is required., role: Path `role` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-16T11:10:38.168Z [info]: Server is running on port 3000
+2024-11-16T11:10:38.727Z [info]: MongoDB connected successfully
+2024-11-16T11:10:44.525Z [info]: Server is running on port 3000
+2024-11-16T11:10:45.019Z [info]: MongoDB connected successfully
+2024-11-16T11:11:41.761Z [info]: Server is running on port 3000
+2024-11-16T11:11:46.097Z [info]: MongoDB connected successfully
+2024-11-16T11:12:41.983Z [info]: Server is running on port 3000
+2024-11-16T11:12:43.843Z [info]: MongoDB connected successfully
+2024-11-16T11:12:47.694Z [info]: Server is running on port 3000
+2024-11-16T11:12:52.428Z [info]: MongoDB connected successfully
+2024-11-16T11:12:52.505Z [error]: Error in register: User validation failed: role: Path `role` is required.
+2024-11-16T11:12:52.506Z [error]: ValidationError: User validation failed: role: Path `role` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-16T11:13:17.524Z [info]: Server is running on port 3000
+2024-11-16T11:13:18.083Z [info]: MongoDB connected successfully
+2024-11-16T11:13:53.364Z [info]: Server is running on port 3000
+2024-11-16T11:13:57.005Z [info]: Server is running on port 3000
+2024-11-16T11:13:57.950Z [info]: MongoDB connected successfully
+2024-11-16T11:14:20.274Z [info]: Server is running on port 3000
+2024-11-16T11:14:20.833Z [info]: MongoDB connected successfully
+2024-11-16T11:34:39.284Z [info]: Server is running on port 3000
+2024-11-16T11:34:47.061Z [info]: MongoDB connected successfully
+2024-11-16T11:39:29.793Z [info]: Server is running on port 3000
+2024-11-16T11:39:37.265Z [info]: MongoDB connected successfully
+2024-11-16T12:03:00.626Z [info]: Server is running on port 3000
+2024-11-16T12:03:04.729Z [info]: MongoDB connected successfully
+2024-11-16T12:03:14.922Z [info]: Server is running on port 3000
+2024-11-16T12:03:15.678Z [info]: MongoDB connected successfully
+2024-11-16T12:03:17.648Z [info]: Server is running on port 3000
+2024-11-16T12:03:18.166Z [info]: MongoDB connected successfully
+2024-11-16T12:03:43.630Z [info]: Server is running on port 3000
+2024-11-16T12:03:44.290Z [info]: MongoDB connected successfully
+2024-11-16T12:03:45.551Z [info]: Server is running on port 3000
+2024-11-16T12:03:48.356Z [info]: MongoDB connected successfully
+2024-11-17T03:29:20.077Z [info]: Server is running on port 3000
+2024-11-17T03:29:27.058Z [info]: MongoDB connected successfully
+2024-11-17T03:33:26.137Z [info]: Server is running on port 3000
+2024-11-17T03:33:30.905Z [info]: MongoDB connected successfully
+2024-11-17T03:33:32.132Z [error]: Error in register: E11000 duplicate key error collection: sms.users index: phoneNumber_1 dup key: { phoneNumber: "01726720773" }
+2024-11-17T03:33:32.132Z [error]: MongoServerError: E11000 duplicate key error collection: sms.users index: phoneNumber_1 dup key: { phoneNumber: "01726720773" }
+    at InsertOneOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async Collection.insertOne (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\collection.js:154:16)
+2024-11-17T03:33:56.346Z [info]: Server is running on port 3000
+2024-11-17T03:33:56.914Z [info]: MongoDB connected successfully
+2024-11-17T03:35:54.141Z [info]: Server is running on port 3000
+2024-11-17T03:35:59.763Z [info]: MongoDB connected successfully
+2024-11-17T03:36:08.868Z [info]: Server is running on port 3000
+2024-11-17T03:36:09.508Z [info]: MongoDB connected successfully
+2024-11-17T03:36:11.824Z [info]: Server is running on port 3000
+2024-11-17T03:36:12.338Z [info]: MongoDB connected successfully
+2024-11-17T03:36:16.588Z [info]: Server is running on port 3000
+2024-11-17T03:36:17.201Z [info]: MongoDB connected successfully
+2024-11-17T03:36:40.193Z [info]: Server is running on port 3000
+2024-11-17T03:36:40.732Z [info]: MongoDB connected successfully
+2024-11-17T03:36:57.576Z [info]: Server is running on port 3000
+2024-11-17T03:37:06.751Z [info]: MongoDB connected successfully
+2024-11-17T03:37:34.152Z [info]: Server is running on port 3000
+2024-11-17T03:37:36.784Z [info]: MongoDB connected successfully
+2024-11-17T03:38:18.850Z [info]: Server is running on port 3000
+2024-11-17T03:38:26.284Z [info]: MongoDB connected successfully
+2024-11-17T03:40:06.715Z [info]: Server is running on port 3000
+2024-11-17T03:40:10.047Z [info]: MongoDB connected successfully
+2024-11-17T03:40:15.405Z [info]: Server is running on port 3000
+2024-11-17T03:40:16.004Z [info]: MongoDB connected successfully
+2024-11-17T03:40:41.752Z [info]: Server is running on port 3000
+2024-11-17T03:40:43.482Z [info]: MongoDB connected successfully
+2024-11-17T03:40:51.527Z [info]: Server is running on port 3000
+2024-11-17T03:40:52.334Z [info]: MongoDB connected successfully
+2024-11-17T03:40:54.777Z [info]: Server is running on port 3000
+2024-11-17T03:40:55.484Z [info]: MongoDB connected successfully
+2024-11-17T03:41:31.482Z [info]: Server is running on port 3000
+2024-11-17T03:41:34.764Z [info]: MongoDB connected successfully
+2024-11-17T03:41:46.635Z [info]: Server is running on port 3000
+2024-11-17T03:41:48.750Z [info]: Server is running on port 3000
+2024-11-17T03:41:49.512Z [info]: MongoDB connected successfully
+2024-11-17T03:44:24.026Z [info]: Server is running on port 3000
+2024-11-17T03:44:29.464Z [info]: MongoDB connected successfully
+2024-11-17T03:44:40.301Z [info]: Server is running on port 3000
+2024-11-17T03:44:41.176Z [info]: MongoDB connected successfully
+2024-11-17T03:45:06.954Z [info]: Server is running on port 3000
+2024-11-17T03:45:09.529Z [info]: MongoDB connected successfully
+2024-11-17T03:45:39.553Z [info]: Server is running on port 3000
+2024-11-17T03:45:45.513Z [info]: MongoDB connected successfully
+2024-11-17T03:46:06.798Z [info]: Server is running on port 3000
+2024-11-17T03:46:07.392Z [info]: MongoDB connected successfully
+2024-11-17T03:46:55.760Z [info]: Server is running on port 3000
+2024-11-17T03:47:00.221Z [info]: Server is running on port 3000
+2024-11-17T03:47:02.556Z [info]: MongoDB connected successfully
+2024-11-17T03:47:13.749Z [info]: Server is running on port 3000
+2024-11-17T03:47:14.300Z [info]: MongoDB connected successfully
+2024-11-17T03:48:29.596Z [info]: Server is running on port 3000
+2024-11-17T03:48:36.944Z [info]: MongoDB connected successfully
+2024-11-17T03:48:44.191Z [info]: Server is running on port 3000
+2024-11-17T03:48:48.263Z [info]: MongoDB connected successfully
+2024-11-17T03:48:58.983Z [info]: Server is running on port 3000
+2024-11-17T03:49:00.940Z [info]: Server is running on port 3000
+2024-11-17T03:49:01.454Z [info]: MongoDB connected successfully
+2024-11-17T03:49:08.864Z [info]: Server is running on port 3000
+2024-11-17T03:49:10.382Z [info]: MongoDB connected successfully
+2024-11-17T03:49:15.148Z [info]: Server is running on port 3000
+2024-11-17T03:49:15.657Z [info]: MongoDB connected successfully
+2024-11-17T03:49:16.941Z [error]: Error in register: This User already Registered!
+2024-11-17T03:49:16.942Z [error]: Error: This User already Registered!
+    at exports.registerUser (E:\durulhoda\nodetutorial\ecom\services\userService.js:9:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.register (E:\durulhoda\nodetutorial\ecom\controllers\userController.js:9:18)
+2024-11-17T03:49:34.520Z [info]: Server is running on port 3000
+2024-11-17T03:49:40.009Z [info]: MongoDB connected successfully
+2024-11-17T03:54:16.142Z [error]: Error in register: This User already Registered!
+2024-11-17T03:54:16.143Z [error]: Error: This User already Registered!
+    at exports.registerUser (E:\durulhoda\nodetutorial\ecom\services\userService.js:9:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.register (E:\durulhoda\nodetutorial\ecom\controllers\userController.js:9:18)
+2024-11-17T04:14:04.422Z [info]: Server is running on port 3000
+2024-11-17T04:14:09.768Z [info]: MongoDB connected successfully
+2024-11-17T04:14:46.974Z [info]: Server is running on port 3000
+2024-11-17T04:14:47.660Z [info]: MongoDB connected successfully
+2024-11-17T04:18:01.242Z [info]: Server is running on port 3000
+2024-11-17T04:18:05.482Z [info]: MongoDB connected successfully
+2024-11-17T04:19:44.055Z [info]: Server is running on port 3000
+2024-11-17T04:19:49.883Z [info]: MongoDB connected successfully
+2024-11-17T04:38:56.816Z [info]: Server is running on port 3000
+2024-11-17T04:39:02.833Z [info]: MongoDB connected successfully
+2024-11-17T04:40:12.595Z [info]: Server is running on port 3000
+2024-11-17T04:40:15.710Z [info]: MongoDB connected successfully
+2024-11-17T04:48:14.297Z [info]: Server is running on port 3000
+2024-11-17T04:48:18.011Z [info]: MongoDB connected successfully
+2024-11-17T04:48:41.661Z [info]: Server is running on port 3000
+2024-11-17T04:48:42.204Z [info]: MongoDB connected successfully
+2024-11-17T04:48:51.753Z [info]: Server is running on port 3000
+2024-11-17T04:48:53.474Z [info]: MongoDB connected successfully
+2024-11-17T04:48:57.014Z [info]: Server is running on port 3000
+2024-11-17T04:48:57.570Z [info]: MongoDB connected successfully
+2024-11-17T04:49:46.044Z [info]: Server is running on port 3000
+2024-11-17T04:49:53.880Z [info]: MongoDB connected successfully
+2024-11-17T04:51:05.608Z [info]: Server is running on port 3000
+2024-11-17T04:51:07.139Z [info]: MongoDB connected successfully
+2024-11-17T05:00:48.041Z [info]: Server is running on port 3000
+2024-11-17T05:00:49.243Z [info]: MongoDB connected successfully
+2024-11-17T05:00:59.393Z [info]: Server is running on port 3000
+2024-11-17T05:01:00.043Z [info]: MongoDB connected successfully
+2024-11-17T05:01:01.480Z [info]: Server is running on port 3000
+2024-11-17T05:01:02.014Z [info]: MongoDB connected successfully
+2024-11-17T05:01:05.160Z [info]: Server is running on port 3000
+2024-11-17T05:01:07.890Z [info]: MongoDB connected successfully
+2024-11-17T05:02:11.058Z [info]: Server is running on port 3000
+2024-11-17T05:02:12.149Z [info]: MongoDB connected successfully
+2024-11-17T05:02:25.327Z [info]: Server is running on port 3000
+2024-11-17T05:02:25.878Z [info]: MongoDB connected successfully
+2024-11-17T05:02:27.934Z [info]: Server is running on port 3000
+2024-11-17T05:02:32.345Z [info]: Server is running on port 3000
+2024-11-17T05:02:32.894Z [info]: MongoDB connected successfully
+2024-11-17T05:03:08.032Z [info]: Server is running on port 3000
+2024-11-17T05:03:08.532Z [info]: MongoDB connected successfully
+2024-11-17T05:03:13.044Z [error]: Error in register: This User already Registered!
+2024-11-17T05:03:13.047Z [error]: Error: This User already Registered!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.registerUser (E:\durulhoda\nodetutorial\ecom\services\userService.js:10:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.register (E:\durulhoda\nodetutorial\ecom\controllers\userController.js:9:18)
+2024-11-17T05:03:17.555Z [error]: Error in register: This User already Registered!
+2024-11-17T05:03:17.555Z [error]: Error: This User already Registered!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.registerUser (E:\durulhoda\nodetutorial\ecom\services\userService.js:10:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.register (E:\durulhoda\nodetutorial\ecom\controllers\userController.js:9:18)
+2024-11-17T05:03:35.213Z [info]: Server is running on port 3000
+2024-11-17T05:03:37.014Z [info]: Server is running on port 3000
+2024-11-17T05:03:39.991Z [info]: MongoDB connected successfully
+2024-11-17T05:41:52.325Z [error]: Error in register: This User already Registered!
+2024-11-17T05:41:52.326Z [error]: Error: This User already Registered!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.registerUser (E:\durulhoda\nodetutorial\ecom\services\userService.js:10:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.register (E:\durulhoda\nodetutorial\ecom\controllers\userController.js:9:18)
+2024-11-17T05:43:01.886Z [info]: Server is running on port 3000
+2024-11-17T05:43:03.081Z [info]: MongoDB connected successfully
+2024-11-17T10:46:58.979Z [info]: Server is running on port 3000
+2024-11-17T10:47:06.347Z [info]: MongoDB connected successfully
+2024-11-17T11:01:33.551Z [info]: Server is running on port 3000
+2024-11-17T11:01:38.263Z [info]: MongoDB connected successfully
+2024-11-17T11:01:48.648Z [info]: Server is running on port 3000
+2024-11-17T11:01:49.175Z [info]: MongoDB connected successfully
+2024-11-17T11:01:58.910Z [info]: Server is running on port 3000
+2024-11-17T11:01:59.537Z [info]: MongoDB connected successfully
+2024-11-17T11:02:05.718Z [info]: Server is running on port 3000
+2024-11-17T11:02:06.269Z [info]: MongoDB connected successfully
+2024-11-17T11:02:11.372Z [info]: Server is running on port 3000
+2024-11-17T11:02:13.531Z [info]: Server is running on port 3000
+2024-11-17T11:02:16.272Z [info]: MongoDB connected successfully
+2024-11-17T11:02:24.857Z [info]: Server is running on port 3000
+2024-11-17T11:02:26.092Z [info]: MongoDB connected successfully
+2024-11-17T11:03:37.624Z [info]: Server is running on port 3000
+2024-11-17T11:03:41.009Z [info]: Server is running on port 3000
+2024-11-17T11:03:41.622Z [info]: MongoDB connected successfully
+2024-11-17T11:04:00.666Z [info]: Server is running on port 3000
+2024-11-17T11:04:03.458Z [info]: MongoDB connected successfully
+2024-11-17T11:04:07.949Z [info]: Server is running on port 3000
+2024-11-17T11:04:08.998Z [info]: MongoDB connected successfully
+2024-11-17T11:12:13.134Z [info]: Server is running on port 3000
+2024-11-17T11:12:14.842Z [info]: MongoDB connected successfully
+2024-11-17T11:12:25.519Z [info]: Server is running on port 3000
+2024-11-17T11:12:32.500Z [info]: MongoDB connected successfully
+2024-11-17T11:12:34.972Z [info]: Server is running on port 3000
+2024-11-17T11:12:35.633Z [info]: MongoDB connected successfully
+2024-11-17T11:12:45.457Z [info]: Server is running on port 3000
+2024-11-17T11:12:46.267Z [info]: MongoDB connected successfully
+2024-11-17T11:12:47.942Z [info]: Server is running on port 3000
+2024-11-17T11:12:48.494Z [info]: MongoDB connected successfully
+2024-11-17T11:12:50.283Z [info]: Server is running on port 3000
+2024-11-17T11:12:50.813Z [info]: MongoDB connected successfully
+2024-11-17T11:15:41.158Z [info]: Server is running on port 3000
+2024-11-17T11:15:49.232Z [info]: MongoDB connected successfully
+2024-11-17T11:16:01.629Z [info]: Server is running on port 3000
+2024-11-17T11:16:02.173Z [info]: MongoDB connected successfully
+2024-11-17T11:16:08.052Z [info]: Server is running on port 3000
+2024-11-17T11:16:08.745Z [info]: MongoDB connected successfully
+2024-11-17T11:16:17.246Z [info]: Server is running on port 3000
+2024-11-17T11:16:18.758Z [info]: MongoDB connected successfully
+2024-11-17T11:16:30.331Z [info]: Server is running on port 3000
+2024-11-17T11:16:30.891Z [info]: MongoDB connected successfully
+2024-11-17T11:16:47.825Z [info]: Server is running on port 3000
+2024-11-17T11:16:49.687Z [info]: MongoDB connected successfully
+2024-11-17T11:17:08.254Z [info]: Server is running on port 3000
+2024-11-17T11:17:09.135Z [info]: MongoDB connected successfully
+2024-11-17T11:17:11.059Z [info]: Server is running on port 3000
+2024-11-17T11:17:11.585Z [info]: MongoDB connected successfully
+2024-11-17T11:17:41.030Z [info]: Server is running on port 3000
+2024-11-17T11:17:43.102Z [info]: MongoDB connected successfully
+2024-11-17T11:17:47.881Z [info]: Server is running on port 3000
+2024-11-17T11:17:48.495Z [info]: MongoDB connected successfully
+2024-11-17T11:17:53.122Z [info]: Server is running on port 3000
+2024-11-17T11:17:53.888Z [info]: MongoDB connected successfully
+2024-11-17T11:18:05.763Z [info]: Server is running on port 3000
+2024-11-17T11:18:06.275Z [info]: MongoDB connected successfully
+2024-11-17T11:18:07.602Z [info]: Server is running on port 3000
+2024-11-17T11:18:08.162Z [info]: MongoDB connected successfully
+2024-11-17T11:18:10.520Z [info]: Server is running on port 3000
+2024-11-17T11:18:15.169Z [info]: MongoDB connected successfully
+2024-11-17T11:18:25.535Z [info]: Server is running on port 3000
+2024-11-17T11:18:26.079Z [info]: MongoDB connected successfully
+2024-11-17T11:18:49.505Z [info]: Server is running on port 3000
+2024-11-17T11:18:50.114Z [info]: MongoDB connected successfully
+2024-11-17T11:18:59.142Z [info]: Server is running on port 3000
+2024-11-17T11:19:00.897Z [info]: MongoDB connected successfully
+2024-11-17T11:19:05.730Z [info]: Server is running on port 3000
+2024-11-17T11:19:06.295Z [info]: MongoDB connected successfully
+2024-11-17T11:35:51.432Z [info]: Server is running on port 3000
+2024-11-17T11:35:58.650Z [info]: MongoDB connected successfully
+2024-11-17T11:36:11.229Z [info]: Server is running on port 3000
+2024-11-17T11:36:11.794Z [info]: MongoDB connected successfully
+2024-11-17T11:36:14.171Z [info]: Server is running on port 3000
+2024-11-17T11:36:14.856Z [info]: MongoDB connected successfully
+2024-11-17T11:36:49.301Z [info]: Server is running on port 3000
+2024-11-17T11:36:49.842Z [info]: MongoDB connected successfully
+2024-11-17T11:36:56.040Z [info]: Server is running on port 3000
+2024-11-17T11:36:58.098Z [info]: MongoDB connected successfully
+2024-11-17T11:37:34.173Z [info]: Server is running on port 3000
+2024-11-17T11:37:34.824Z [info]: MongoDB connected successfully
+2024-11-17T11:37:44.004Z [info]: Server is running on port 3000
+2024-11-17T11:37:45.544Z [info]: MongoDB connected successfully
+2024-11-17T11:41:37.375Z [info]: Server is running on port 3000
+2024-11-17T11:41:39.878Z [info]: Server is running on port 3000
+2024-11-17T11:41:43.414Z [info]: MongoDB connected successfully
+2024-11-17T11:41:45.928Z [info]: Server is running on port 3000
+2024-11-17T11:41:46.542Z [info]: MongoDB connected successfully
+2024-11-18T03:05:54.205Z [info]: Server is running on port 3000
+2024-11-18T03:06:06.103Z [info]: MongoDB connected successfully
+2024-11-18T03:13:03.484Z [info]: Server is running on port 3000
+2024-11-18T03:13:07.492Z [info]: Server is running on port 3000
+2024-11-18T03:13:10.268Z [info]: MongoDB connected successfully
+2024-11-18T03:13:30.895Z [info]: Server is running on port 3000
+2024-11-18T03:13:35.966Z [info]: MongoDB connected successfully
+2024-11-18T03:13:56.861Z [info]: Server is running on port 3000
+2024-11-18T03:13:57.611Z [info]: MongoDB connected successfully
+2024-11-18T03:14:33.843Z [info]: Server is running on port 3000
+2024-11-18T03:14:37.746Z [info]: MongoDB connected successfully
+2024-11-18T03:16:52.847Z [info]: Server is running on port 3000
+2024-11-18T03:17:01.809Z [info]: MongoDB connected successfully
+2024-11-18T03:19:47.616Z [error]: Error in Save Role: This Admin already exists!
+2024-11-18T03:19:47.619Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:103:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:101:16)
+2024-11-18T03:22:39.940Z [info]: Server is running on port 3000
+2024-11-18T03:22:47.747Z [info]: MongoDB connected successfully
+2024-11-18T03:23:27.551Z [info]: Server is running on port 3000
+2024-11-18T03:23:28.224Z [info]: MongoDB connected successfully
+2024-11-18T03:23:54.929Z [info]: Server is running on port 3000
+2024-11-18T03:24:00.725Z [info]: MongoDB connected successfully
+2024-11-18T03:25:28.285Z [info]: Server is running on port 3000
+2024-11-18T03:25:33.382Z [info]: MongoDB connected successfully
+2024-11-18T03:25:37.252Z [info]: Server is running on port 3000
+2024-11-18T03:25:37.781Z [info]: MongoDB connected successfully
+2024-11-18T03:26:10.744Z [info]: Server is running on port 3000
+2024-11-18T03:26:11.443Z [info]: MongoDB connected successfully
+2024-11-18T03:27:07.576Z [info]: Server is running on port 3000
+2024-11-18T03:27:11.121Z [info]: MongoDB connected successfully
+2024-11-18T03:28:26.477Z [info]: Server is running on port 3000
+2024-11-18T03:28:32.174Z [info]: MongoDB connected successfully
+2024-11-18T03:28:52.045Z [info]: Server is running on port 3000
+2024-11-18T03:28:52.644Z [info]: MongoDB connected successfully
+2024-11-18T03:28:54.363Z [info]: Server is running on port 3000
+2024-11-18T03:28:55.146Z [info]: MongoDB connected successfully
+2024-11-18T03:29:24.960Z [info]: Server is running on port 3000
+2024-11-18T03:29:25.775Z [info]: MongoDB connected successfully
+2024-11-18T03:30:23.657Z [info]: Server is running on port 3000
+2024-11-18T03:30:25.993Z [info]: MongoDB connected successfully
+2024-11-18T03:31:37.193Z [info]: Server is running on port 3000
+2024-11-18T03:31:39.560Z [info]: Server is running on port 3000
+2024-11-18T03:31:44.814Z [info]: MongoDB connected successfully
+2024-11-18T03:31:48.377Z [info]: Server is running on port 3000
+2024-11-18T03:31:48.927Z [info]: MongoDB connected successfully
+2024-11-18T03:32:48.744Z [info]: Server is running on port 3000
+2024-11-18T03:32:52.050Z [info]: MongoDB connected successfully
+2024-11-18T03:33:15.776Z [info]: Server is running on port 3000
+2024-11-18T03:33:18.932Z [info]: MongoDB connected successfully
+2024-11-18T03:33:26.665Z [info]: Server is running on port 3000
+2024-11-18T03:33:27.587Z [info]: MongoDB connected successfully
+2024-11-18T03:33:35.982Z [info]: Server is running on port 3000
+2024-11-18T03:33:36.524Z [info]: MongoDB connected successfully
+2024-11-18T03:34:37.810Z [info]: Server is running on port 3000
+2024-11-18T03:34:41.222Z [info]: MongoDB connected successfully
+2024-11-18T03:35:00.492Z [info]: Server is running on port 3000
+2024-11-18T03:35:01.324Z [info]: MongoDB connected successfully
+2024-11-18T03:35:03.448Z [info]: Server is running on port 3000
+2024-11-18T03:35:04.954Z [info]: MongoDB connected successfully
+2024-11-18T03:36:10.614Z [info]: Server is running on port 3000
+2024-11-18T03:36:17.036Z [info]: MongoDB connected successfully
+2024-11-18T03:41:53.199Z [info]: Server is running on port 3000
+2024-11-18T03:41:59.222Z [info]: MongoDB connected successfully
+2024-11-18T03:42:00.889Z [info]: Server is running on port 3000
+2024-11-18T03:42:01.765Z [info]: MongoDB connected successfully
+2024-11-18T03:42:07.396Z [info]: Server is running on port 3000
+2024-11-18T03:42:07.900Z [info]: MongoDB connected successfully
+2024-11-18T03:46:44.196Z [info]: Server is running on port 3000
+2024-11-18T03:46:53.142Z [info]: MongoDB connected successfully
+2024-11-18T03:47:05.723Z [info]: Server is running on port 3000
+2024-11-18T03:47:06.263Z [info]: MongoDB connected successfully
+2024-11-18T03:47:17.148Z [info]: Server is running on port 3000
+2024-11-18T03:47:19.800Z [info]: MongoDB connected successfully
+2024-11-18T03:47:29.279Z [info]: Server is running on port 3000
+2024-11-18T03:47:29.856Z [info]: MongoDB connected successfully
+2024-11-18T03:47:34.301Z [info]: Server is running on port 3000
+2024-11-18T03:47:36.915Z [info]: MongoDB connected successfully
+2024-11-18T03:48:46.244Z [info]: Server is running on port 3000
+2024-11-18T03:48:49.654Z [info]: MongoDB connected successfully
+2024-11-18T03:48:53.662Z [info]: Server is running on port 3000
+2024-11-18T03:48:54.197Z [info]: MongoDB connected successfully
+2024-11-18T03:49:29.216Z [info]: Server is running on port 3000
+2024-11-18T03:49:30.738Z [info]: MongoDB connected successfully
+2024-11-18T03:51:40.315Z [info]: Server is running on port 3000
+2024-11-18T03:51:47.435Z [info]: MongoDB connected successfully
+2024-11-18T03:52:12.736Z [info]: Server is running on port 3000
+2024-11-18T03:52:13.406Z [info]: MongoDB connected successfully
+2024-11-18T03:52:22.972Z [info]: Server is running on port 3000
+2024-11-18T03:52:23.548Z [info]: MongoDB connected successfully
+2024-11-18T03:52:27.575Z [info]: Server is running on port 3000
+2024-11-18T03:52:29.327Z [info]: MongoDB connected successfully
+2024-11-18T03:53:55.976Z [info]: Server is running on port 3000
+2024-11-18T03:53:58.127Z [info]: MongoDB connected successfully
+2024-11-18T03:54:01.284Z [info]: Server is running on port 3000
+2024-11-18T03:54:04.230Z [info]: MongoDB connected successfully
+2024-11-18T03:54:49.891Z [info]: Server is running on port 3000
+2024-11-18T03:54:50.790Z [info]: MongoDB connected successfully
+2024-11-18T03:55:02.506Z [info]: Server is running on port 3000
+2024-11-18T03:55:12.351Z [info]: MongoDB connected successfully
+2024-11-18T03:55:15.715Z [info]: Server is running on port 3000
+2024-11-18T03:55:16.286Z [info]: MongoDB connected successfully
+2024-11-18T03:55:30.027Z [info]: Server is running on port 3000
+2024-11-18T03:55:30.737Z [info]: MongoDB connected successfully
+2024-11-18T03:55:40.748Z [info]: Server is running on port 3000
+2024-11-18T03:55:42.255Z [info]: MongoDB connected successfully
+2024-11-18T03:56:10.281Z [info]: Server is running on port 3000
+2024-11-18T03:56:18.472Z [info]: MongoDB connected successfully
+2024-11-18T03:56:55.336Z [info]: Server is running on port 3000
+2024-11-18T03:56:55.892Z [info]: MongoDB connected successfully
+2024-11-18T03:57:29.313Z [info]: Server is running on port 3000
+2024-11-18T03:57:32.180Z [info]: MongoDB connected successfully
+2024-11-18T03:57:52.817Z [info]: Server is running on port 3000
+2024-11-18T03:57:54.543Z [info]: MongoDB connected successfully
+2024-11-18T04:03:02.680Z [info]: Server is running on port 3000
+2024-11-18T04:03:10.682Z [info]: MongoDB connected successfully
+2024-11-18T04:03:47.676Z [info]: Server is running on port 3000
+2024-11-18T04:03:48.411Z [info]: MongoDB connected successfully
+2024-11-18T04:03:59.623Z [info]: Server is running on port 3000
+2024-11-18T04:04:00.178Z [info]: MongoDB connected successfully
+2024-11-18T04:04:23.429Z [info]: Server is running on port 3000
+2024-11-18T04:04:27.973Z [info]: MongoDB connected successfully
+2024-11-18T04:04:29.202Z [info]: Server is running on port 3000
+2024-11-18T04:04:29.711Z [info]: MongoDB connected successfully
+2024-11-18T04:04:41.412Z [info]: Server is running on port 3000
+2024-11-18T04:04:42.939Z [info]: MongoDB connected successfully
+2024-11-18T04:05:35.792Z [info]: Server is running on port 3000
+2024-11-18T04:05:37.537Z [info]: MongoDB connected successfully
+2024-11-18T04:05:40.009Z [info]: Server is running on port 3000
+2024-11-18T04:05:40.504Z [info]: MongoDB connected successfully
+2024-11-18T04:07:01.140Z [info]: Server is running on port 3000
+2024-11-18T04:07:04.176Z [info]: Server is running on port 3000
+2024-11-18T04:07:04.896Z [info]: MongoDB connected successfully
+2024-11-18T04:07:10.343Z [info]: Server is running on port 3000
+2024-11-18T04:07:11.054Z [info]: MongoDB connected successfully
+2024-11-18T04:07:13.672Z [info]: Server is running on port 3000
+2024-11-18T04:07:14.640Z [info]: MongoDB connected successfully
+2024-11-18T04:07:29.065Z [info]: Server is running on port 3000
+2024-11-18T04:07:29.670Z [info]: MongoDB connected successfully
+2024-11-18T04:07:30.832Z [info]: Server is running on port 3000
+2024-11-18T04:07:31.682Z [info]: MongoDB connected successfully
+2024-11-18T04:07:58.459Z [info]: Server is running on port 3000
+2024-11-18T04:08:00.114Z [info]: MongoDB connected successfully
+2024-11-18T04:08:37.619Z [info]: Server is running on port 3000
+2024-11-18T04:08:38.226Z [info]: MongoDB connected successfully
+2024-11-18T04:09:03.736Z [info]: Server is running on port 3000
+2024-11-18T04:09:05.152Z [info]: MongoDB connected successfully
+2024-11-18T04:09:07.014Z [info]: Server is running on port 3000
+2024-11-18T04:09:07.701Z [info]: MongoDB connected successfully
+2024-11-18T04:09:31.603Z [info]: Server is running on port 3000
+2024-11-18T04:09:32.169Z [info]: MongoDB connected successfully
+2024-11-18T04:09:44.513Z [info]: Server is running on port 3000
+2024-11-18T04:09:45.201Z [info]: MongoDB connected successfully
+2024-11-18T04:10:00.129Z [info]: Server is running on port 3000
+2024-11-18T04:10:01.515Z [info]: MongoDB connected successfully
+2024-11-18T04:10:07.701Z [info]: Server is running on port 3000
+2024-11-18T04:10:11.350Z [info]: MongoDB connected successfully
+2024-11-18T04:10:18.864Z [info]: Server is running on port 3000
+2024-11-18T04:10:19.539Z [info]: MongoDB connected successfully
+2024-11-18T04:10:58.311Z [info]: Server is running on port 3000
+2024-11-18T04:11:00.893Z [info]: MongoDB connected successfully
+2024-11-18T04:11:16.143Z [info]: Server is running on port 3000
+2024-11-18T04:11:18.107Z [info]: Server is running on port 3000
+2024-11-18T04:11:20.699Z [info]: MongoDB connected successfully
+2024-11-18T04:12:47.742Z [info]: Server is running on port 3000
+2024-11-18T04:12:59.781Z [info]: MongoDB connected successfully
+2024-11-18T04:13:14.473Z [info]: Server is running on port 3000
+2024-11-18T04:13:15.068Z [info]: MongoDB connected successfully
+2024-11-18T04:13:18.984Z [info]: Server is running on port 3000
+2024-11-18T04:13:19.555Z [info]: MongoDB connected successfully
+2024-11-18T04:13:27.344Z [info]: Server is running on port 3000
+2024-11-18T04:13:27.972Z [info]: MongoDB connected successfully
+2024-11-18T04:13:38.233Z [info]: Server is running on port 3000
+2024-11-18T04:13:39.413Z [info]: MongoDB connected successfully
+2024-11-18T04:13:44.538Z [info]: Server is running on port 3000
+2024-11-18T04:13:45.490Z [info]: MongoDB connected successfully
+2024-11-18T04:14:08.831Z [info]: Server is running on port 3000
+2024-11-18T04:14:13.822Z [info]: MongoDB connected successfully
+2024-11-18T04:14:29.286Z [info]: Server is running on port 3000
+2024-11-18T04:14:30.982Z [info]: MongoDB connected successfully
+2024-11-18T04:15:01.599Z [info]: Server is running on port 3000
+2024-11-18T04:15:02.255Z [info]: MongoDB connected successfully
+2024-11-18T04:15:12.368Z [info]: Server is running on port 3000
+2024-11-18T04:15:18.098Z [info]: MongoDB connected successfully
+2024-11-18T04:15:24.577Z [info]: Server is running on port 3000
+2024-11-18T04:15:27.537Z [info]: MongoDB connected successfully
+2024-11-18T04:15:28.431Z [info]: Server is running on port 3000
+2024-11-18T04:15:29.138Z [info]: MongoDB connected successfully
+2024-11-18T04:16:07.333Z [info]: Server is running on port 3000
+2024-11-18T04:16:08.046Z [info]: MongoDB connected successfully
+2024-11-18T04:16:15.344Z [info]: Server is running on port 3000
+2024-11-18T04:16:23.864Z [info]: MongoDB connected successfully
+2024-11-18T04:17:27.612Z [info]: Server is running on port 3000
+2024-11-18T04:17:29.376Z [info]: Server is running on port 3000
+2024-11-18T04:17:35.250Z [info]: MongoDB connected successfully
+2024-11-18T04:17:55.213Z [info]: Server is running on port 3000
+2024-11-18T04:17:56.279Z [info]: MongoDB connected successfully
+2024-11-18T04:18:07.076Z [info]: Server is running on port 3000
+2024-11-18T04:18:11.903Z [info]: MongoDB connected successfully
+2024-11-18T04:18:15.320Z [info]: Server is running on port 3000
+2024-11-18T04:18:15.874Z [info]: MongoDB connected successfully
+2024-11-18T04:18:43.639Z [info]: Server is running on port 3000
+2024-11-18T04:18:44.412Z [info]: MongoDB connected successfully
+2024-11-18T04:18:45.466Z [info]: Server is running on port 3000
+2024-11-18T04:18:45.972Z [info]: MongoDB connected successfully
+2024-11-18T04:19:21.241Z [info]: Server is running on port 3000
+2024-11-18T04:19:22.687Z [info]: MongoDB connected successfully
+2024-11-18T04:19:45.997Z [info]: Server is running on port 3000
+2024-11-18T04:19:46.787Z [info]: MongoDB connected successfully
+2024-11-18T04:19:49.856Z [info]: Server is running on port 3000
+2024-11-18T04:19:50.391Z [info]: MongoDB connected successfully
+2024-11-18T04:20:17.069Z [info]: Server is running on port 3000
+2024-11-18T04:20:17.984Z [info]: MongoDB connected successfully
+2024-11-18T04:20:20.333Z [info]: Server is running on port 3000
+2024-11-18T04:20:20.912Z [info]: MongoDB connected successfully
+2024-11-18T04:20:23.539Z [info]: Server is running on port 3000
+2024-11-18T04:20:24.263Z [info]: MongoDB connected successfully
+2024-11-18T04:20:32.187Z [info]: Server is running on port 3000
+2024-11-18T04:20:32.721Z [info]: MongoDB connected successfully
+2024-11-18T04:20:37.752Z [info]: Server is running on port 3000
+2024-11-18T04:20:38.277Z [info]: MongoDB connected successfully
+2024-11-18T04:21:08.543Z [info]: Server is running on port 3000
+2024-11-18T04:21:09.134Z [info]: MongoDB connected successfully
+2024-11-18T04:21:12.097Z [info]: Server is running on port 3000
+2024-11-18T04:21:12.721Z [info]: MongoDB connected successfully
+2024-11-18T04:21:22.512Z [info]: Server is running on port 3000
+2024-11-18T04:21:30.465Z [info]: MongoDB connected successfully
+2024-11-18T04:21:39.841Z [info]: Server is running on port 3000
+2024-11-18T04:21:40.806Z [info]: MongoDB connected successfully
+2024-11-18T04:21:42.252Z [info]: Server is running on port 3000
+2024-11-18T04:21:42.779Z [info]: MongoDB connected successfully
+2024-11-18T04:21:46.813Z [info]: Server is running on port 3000
+2024-11-18T04:21:48.187Z [info]: Server is running on port 3000
+2024-11-18T04:21:48.784Z [info]: MongoDB connected successfully
+2024-11-18T04:23:22.302Z [info]: Server is running on port 3000
+2024-11-18T04:23:23.639Z [info]: MongoDB connected successfully
+2024-11-18T04:23:36.275Z [info]: Server is running on port 3000
+2024-11-18T04:23:36.811Z [info]: MongoDB connected successfully
+2024-11-18T04:23:46.282Z [info]: Server is running on port 3000
+2024-11-18T04:23:46.919Z [info]: MongoDB connected successfully
+2024-11-18T04:24:15.610Z [info]: Server is running on port 3000
+2024-11-18T04:24:16.206Z [info]: MongoDB connected successfully
+2024-11-18T04:24:55.392Z [info]: Server is running on port 3000
+2024-11-18T04:25:01.238Z [info]: MongoDB connected successfully
+2024-11-18T04:25:29.932Z [info]: Server is running on port 3000
+2024-11-18T04:25:30.539Z [info]: MongoDB connected successfully
+2024-11-18T04:26:01.140Z [info]: Server is running on port 3000
+2024-11-18T04:26:08.116Z [info]: Server is running on port 3000
+2024-11-18T04:26:09.010Z [info]: MongoDB connected successfully
+2024-11-18T04:26:10.449Z [info]: Server is running on port 3000
+2024-11-18T04:26:11.109Z [info]: MongoDB connected successfully
+2024-11-18T04:26:13.132Z [info]: Server is running on port 3000
+2024-11-18T04:26:15.861Z [info]: MongoDB connected successfully
+2024-11-18T04:26:18.321Z [info]: Server is running on port 3000
+2024-11-18T04:26:18.875Z [info]: MongoDB connected successfully
+2024-11-18T04:26:54.620Z [info]: Server is running on port 3000
+2024-11-18T04:26:55.358Z [info]: MongoDB connected successfully
+2024-11-18T04:28:16.128Z [info]: Server is running on port 3000
+2024-11-18T04:28:19.362Z [info]: MongoDB connected successfully
+2024-11-18T04:33:00.084Z [info]: Server is running on port 3000
+2024-11-18T04:33:01.901Z [info]: Server is running on port 3000
+2024-11-18T04:33:08.138Z [info]: MongoDB connected successfully
+2024-11-18T04:37:53.528Z [info]: Server is running on port 3000
+2024-11-18T04:38:02.667Z [info]: MongoDB connected successfully
+2024-11-18T04:38:04.107Z [info]: Server is running on port 3000
+2024-11-18T04:38:04.615Z [info]: MongoDB connected successfully
+2024-11-18T04:38:20.885Z [info]: Server is running on port 3000
+2024-11-18T04:38:21.423Z [info]: MongoDB connected successfully
+2024-11-18T04:38:41.614Z [info]: Server is running on port 3000
+2024-11-18T04:38:42.187Z [info]: MongoDB connected successfully
+2024-11-18T04:39:39.422Z [info]: Server is running on port 3000
+2024-11-18T04:39:44.360Z [info]: MongoDB connected successfully
+2024-11-18T04:39:53.988Z [info]: Server is running on port 3000
+2024-11-18T04:39:55.763Z [info]: Server is running on port 3000
+2024-11-18T04:39:59.635Z [info]: MongoDB connected successfully
+2024-11-18T04:40:10.796Z [info]: Server is running on port 3000
+2024-11-18T04:40:11.388Z [info]: MongoDB connected successfully
+2024-11-18T04:40:26.989Z [info]: Server is running on port 3000
+2024-11-18T04:40:27.673Z [info]: MongoDB connected successfully
+2024-11-18T04:40:45.171Z [info]: Server is running on port 3000
+2024-11-18T04:40:54.018Z [info]: MongoDB connected successfully
+2024-11-18T04:41:00.676Z [info]: Server is running on port 3000
+2024-11-18T04:41:01.432Z [info]: MongoDB connected successfully
+2024-11-18T04:41:04.348Z [info]: Server is running on port 3000
+2024-11-18T04:41:04.883Z [info]: MongoDB connected successfully
+2024-11-18T04:41:32.187Z [info]: Server is running on port 3000
+2024-11-18T04:41:32.981Z [info]: MongoDB connected successfully
+2024-11-18T04:41:36.850Z [info]: Server is running on port 3000
+2024-11-18T04:41:37.378Z [info]: MongoDB connected successfully
+2024-11-18T04:41:43.989Z [info]: Server is running on port 3000
+2024-11-18T04:41:46.337Z [info]: Server is running on port 3000
+2024-11-18T04:41:46.898Z [info]: MongoDB connected successfully
+2024-11-18T04:42:14.665Z [info]: Server is running on port 3000
+2024-11-18T04:42:19.856Z [info]: MongoDB connected successfully
+2024-11-18T04:42:29.195Z [info]: Server is running on port 3000
+2024-11-18T04:42:29.786Z [info]: MongoDB connected successfully
+2024-11-18T04:57:02.000Z [info]: Server is running on port 3000
+2024-11-18T04:57:07.579Z [info]: Server is running on port 3000
+2024-11-18T04:57:08.155Z [info]: MongoDB connected successfully
+2024-11-18T04:57:48.891Z [info]: Server is running on port 3000
+2024-11-18T04:57:49.479Z [info]: MongoDB connected successfully
+2024-11-18T04:58:55.670Z [info]: Server is running on port 3000
+2024-11-18T04:58:56.881Z [info]: MongoDB connected successfully
+2024-11-18T04:59:13.625Z [info]: Server is running on port 3000
+2024-11-18T04:59:14.211Z [info]: MongoDB connected successfully
+2024-11-18T05:00:07.053Z [info]: Server is running on port 3000
+2024-11-18T05:00:09.412Z [info]: MongoDB connected successfully
+2024-11-18T05:03:22.518Z [info]: Server is running on port 3000
+2024-11-18T05:03:24.269Z [info]: Server is running on port 3000
+2024-11-18T05:03:24.877Z [info]: MongoDB connected successfully
+2024-11-18T05:03:35.657Z [info]: Server is running on port 3000
+2024-11-18T05:03:36.713Z [info]: MongoDB connected successfully
+2024-11-18T05:12:28.151Z [error]: Error in Save Role: Please Select at least one Resource!
+2024-11-18T05:12:28.156Z [error]: Error: Please Select at least one Resource!
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:42:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-18T05:13:14.329Z [error]: Error in Save Resource: Resource.save is not a function
+2024-11-18T05:13:14.330Z [error]: TypeError: Resource.save is not a function
+    at exports.saveResource (E:\durulhoda\nodetutorial\ecom\repositories\resourceRepository.js:18:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveResource (E:\durulhoda\nodetutorial\ecom\controllers\resourceController.js:12:20)
+2024-11-18T05:13:34.823Z [info]: Server is running on port 3000
+2024-11-18T05:13:36.524Z [info]: MongoDB connected successfully
+2024-11-18T05:14:02.736Z [info]: Server is running on port 3000
+2024-11-18T05:14:07.527Z [info]: MongoDB connected successfully
+2024-11-18T05:14:13.134Z [info]: Server is running on port 3000
+2024-11-18T05:14:13.769Z [info]: MongoDB connected successfully
+2024-11-18T05:14:14.892Z [info]: Server is running on port 3000
+2024-11-18T05:14:15.479Z [info]: MongoDB connected successfully
+2024-11-18T05:16:37.848Z [info]: Server is running on port 3000
+2024-11-18T05:16:45.977Z [info]: MongoDB connected successfully
+2024-11-18T05:16:48.271Z [info]: Server is running on port 3000
+2024-11-18T05:16:48.838Z [info]: MongoDB connected successfully
+2024-11-18T05:17:47.168Z [info]: Server is running on port 3000
+2024-11-18T05:17:48.429Z [info]: MongoDB connected successfully
+2024-11-18T05:18:05.300Z [info]: Server is running on port 3000
+2024-11-18T05:18:05.996Z [info]: MongoDB connected successfully
+2024-11-18T05:18:55.514Z [info]: Server is running on port 3000
+2024-11-18T05:19:01.461Z [info]: MongoDB connected successfully
+2024-11-18T05:19:28.175Z [info]: Server is running on port 3000
+2024-11-18T05:19:28.874Z [info]: MongoDB connected successfully
+2024-11-18T05:19:47.730Z [info]: Server is running on port 3000
+2024-11-18T05:19:48.342Z [info]: MongoDB connected successfully
+2024-11-18T05:20:30.389Z [info]: Server is running on port 3000
+2024-11-18T05:20:31.573Z [info]: Server is running on port 3000
+2024-11-18T05:20:32.155Z [info]: Server is running on port 3000
+2024-11-18T05:20:33.661Z [info]: MongoDB connected successfully
+2024-11-18T05:20:46.414Z [info]: Server is running on port 3000
+2024-11-18T05:20:49.537Z [info]: Server is running on port 3000
+2024-11-18T05:20:52.347Z [info]: Server is running on port 3000
+2024-11-18T05:20:53.210Z [info]: MongoDB connected successfully
+2024-11-18T05:21:00.756Z [info]: Server is running on port 3000
+2024-11-18T05:21:08.384Z [info]: MongoDB connected successfully
+2024-11-18T05:21:10.965Z [info]: Server is running on port 3000
+2024-11-18T05:21:11.512Z [info]: MongoDB connected successfully
+2024-11-18T05:21:16.629Z [info]: Server is running on port 3000
+2024-11-18T05:21:17.192Z [info]: MongoDB connected successfully
+2024-11-18T05:21:23.186Z [info]: Server is running on port 3000
+2024-11-18T05:21:23.841Z [info]: MongoDB connected successfully
+2024-11-18T05:21:24.946Z [info]: Server is running on port 3000
+2024-11-18T05:21:25.488Z [info]: MongoDB connected successfully
+2024-11-18T05:21:30.602Z [info]: Server is running on port 3000
+2024-11-18T05:21:31.172Z [info]: MongoDB connected successfully
+2024-11-18T05:21:33.169Z [info]: Server is running on port 3000
+2024-11-18T05:21:34.417Z [info]: MongoDB connected successfully
+2024-11-18T05:21:43.671Z [info]: Server is running on port 3000
+2024-11-18T05:21:44.272Z [info]: MongoDB connected successfully
+2024-11-18T05:22:10.081Z [info]: Server is running on port 3000
+2024-11-18T05:22:11.001Z [info]: MongoDB connected successfully
+2024-11-18T05:22:15.784Z [error]: Error in Fetch Roles: roleService is not defined
+2024-11-18T05:23:00.631Z [info]: Server is running on port 3000
+2024-11-18T05:23:02.109Z [info]: Server is running on port 3000
+2024-11-18T05:23:06.800Z [info]: MongoDB connected successfully
+2024-11-18T05:23:19.647Z [info]: Server is running on port 3000
+2024-11-18T05:23:22.405Z [info]: MongoDB connected successfully
+2024-11-18T05:23:31.140Z [info]: Server is running on port 3000
+2024-11-18T05:23:31.711Z [info]: MongoDB connected successfully
+2024-11-18T05:23:43.349Z [info]: Server is running on port 3000
+2024-11-18T05:23:43.997Z [info]: MongoDB connected successfully
+2024-11-18T05:24:13.630Z [info]: Server is running on port 3000
+2024-11-18T05:24:17.913Z [info]: Server is running on port 3000
+2024-11-18T05:24:18.496Z [info]: MongoDB connected successfully
+2024-11-18T05:24:19.756Z [info]: Server is running on port 3000
+2024-11-18T05:24:21.290Z [info]: MongoDB connected successfully
+2024-11-18T05:24:31.073Z [info]: Server is running on port 3000
+2024-11-18T05:24:35.672Z [info]: MongoDB connected successfully
+2024-11-18T05:24:57.844Z [info]: Server is running on port 3000
+2024-11-18T05:24:58.389Z [info]: MongoDB connected successfully
+2024-11-18T05:25:32.248Z [info]: Server is running on port 3000
+2024-11-18T05:25:35.560Z [info]: MongoDB connected successfully
+2024-11-18T05:39:56.421Z [info]: Server is running on port 3000
+2024-11-18T05:40:04.681Z [info]: MongoDB connected successfully
+2024-11-18T05:40:07.298Z [info]: Server is running on port 3000
+2024-11-18T05:40:07.817Z [info]: MongoDB connected successfully
+2024-11-18T05:41:57.811Z [info]: Server is running on port 3000
+2024-11-18T05:41:59.555Z [info]: MongoDB connected successfully
+2024-11-18T05:42:14.613Z [info]: Server is running on port 3000
+2024-11-18T05:42:15.251Z [info]: MongoDB connected successfully
+2024-11-18T05:43:06.672Z [info]: Server is running on port 3000
+2024-11-18T05:43:15.087Z [info]: MongoDB connected successfully
+2024-11-18T05:43:38.673Z [info]: Server is running on port 3000
+2024-11-18T05:43:39.510Z [info]: MongoDB connected successfully
+2024-11-18T05:43:42.452Z [info]: Server is running on port 3000
+2024-11-18T05:43:43.021Z [info]: MongoDB connected successfully
+2024-11-18T05:43:54.163Z [info]: Server is running on port 3000
+2024-11-18T05:43:54.725Z [info]: MongoDB connected successfully
+2024-11-18T05:44:05.835Z [info]: Server is running on port 3000
+2024-11-18T05:44:07.154Z [info]: Server is running on port 3000
+2024-11-18T05:44:09.364Z [info]: MongoDB connected successfully
+2024-11-18T05:44:20.670Z [info]: Server is running on port 3000
+2024-11-18T05:44:21.341Z [info]: MongoDB connected successfully
+2024-11-18T05:44:26.239Z [info]: Server is running on port 3000
+2024-11-18T05:44:26.852Z [info]: MongoDB connected successfully
+2024-11-18T05:53:40.884Z [info]: Server is running on port 3000
+2024-11-18T05:53:46.038Z [info]: MongoDB connected successfully
+2024-11-18T05:55:20.076Z [info]: Server is running on port 3000
+2024-11-18T05:55:24.523Z [info]: Server is running on port 3000
+2024-11-18T05:55:29.121Z [info]: MongoDB connected successfully
+2024-11-18T05:55:43.581Z [info]: Server is running on port 3000
+2024-11-18T05:55:44.309Z [info]: MongoDB connected successfully
+2024-11-18T05:56:42.532Z [info]: Server is running on port 3000
+2024-11-18T05:56:44.710Z [info]: MongoDB connected successfully
+2024-11-18T05:58:33.831Z [info]: Server is running on port 3000
+2024-11-18T05:58:43.719Z [info]: MongoDB connected successfully
+2024-11-18T06:00:08.716Z [info]: Server is running on port 3000
+2024-11-18T06:00:16.034Z [info]: MongoDB connected successfully
+2024-11-18T06:00:21.187Z [info]: Server is running on port 3000
+2024-11-18T06:00:21.713Z [info]: MongoDB connected successfully
+2024-11-18T06:00:24.419Z [info]: Server is running on port 3000
+2024-11-18T06:00:25.072Z [info]: MongoDB connected successfully
+2024-11-18T06:01:00.769Z [info]: Server is running on port 3000
+2024-11-18T06:01:01.453Z [info]: MongoDB connected successfully
+2024-11-18T06:01:21.843Z [info]: Server is running on port 3000
+2024-11-18T06:01:25.428Z [info]: MongoDB connected successfully
+2024-11-18T06:01:48.639Z [info]: Server is running on port 3000
+2024-11-18T06:01:49.307Z [info]: MongoDB connected successfully
+2024-11-18T06:02:02.390Z [info]: Server is running on port 3000
+2024-11-18T06:02:03.393Z [info]: MongoDB connected successfully
+2024-11-18T06:12:55.990Z [info]: Server is running on port 3000
+2024-11-18T06:12:57.373Z [info]: MongoDB connected successfully
+2024-11-18T06:13:10.711Z [info]: Server is running on port 3000
+2024-11-18T06:13:15.481Z [info]: MongoDB connected successfully
+2024-11-18T06:13:23.953Z [info]: Server is running on port 3000
+2024-11-18T06:13:24.832Z [info]: MongoDB connected successfully
+2024-11-18T06:13:26.158Z [info]: Server is running on port 3000
+2024-11-18T06:13:26.672Z [info]: MongoDB connected successfully
+2024-11-18T06:13:30.350Z [info]: Server is running on port 3000
+2024-11-18T06:13:30.909Z [info]: Server is running on port 3000
+2024-11-18T06:13:31.495Z [info]: MongoDB connected successfully
+2024-11-18T06:13:49.846Z [info]: Server is running on port 3000
+2024-11-18T06:13:50.593Z [info]: MongoDB connected successfully
+2024-11-18T06:16:42.568Z [info]: Server is running on port 3000
+2024-11-18T06:16:47.809Z [info]: MongoDB connected successfully
+2024-11-18T06:16:59.839Z [info]: Server is running on port 3000
+2024-11-18T06:17:00.489Z [info]: MongoDB connected successfully
+2024-11-18T06:17:07.281Z [info]: Server is running on port 3000
+2024-11-18T06:17:08.055Z [info]: MongoDB connected successfully
+2024-11-18T06:17:15.207Z [info]: Server is running on port 3000
+2024-11-18T06:17:15.726Z [info]: MongoDB connected successfully
+2024-11-18T06:17:24.200Z [info]: Server is running on port 3000
+2024-11-18T06:17:24.729Z [info]: MongoDB connected successfully
+2024-11-18T06:17:25.975Z [info]: Server is running on port 3000
+2024-11-18T06:17:26.499Z [info]: MongoDB connected successfully
+2024-11-18T06:31:32.284Z [info]: Server is running on port 3000
+2024-11-18T06:31:44.038Z [info]: MongoDB connected successfully
+2024-11-18T06:32:02.459Z [info]: Server is running on port 3000
+2024-11-18T06:32:03.536Z [info]: MongoDB connected successfully
+2024-11-18T06:34:58.506Z [info]: Server is running on port 3000
+2024-11-18T06:35:00.464Z [info]: Server is running on port 3000
+2024-11-18T06:35:04.704Z [info]: MongoDB connected successfully
+2024-11-18T06:35:13.824Z [info]: Server is running on port 3000
+2024-11-18T06:35:15.748Z [info]: MongoDB connected successfully
+2024-11-18T06:35:18.884Z [info]: Server is running on port 3000
+2024-11-18T06:35:19.464Z [info]: MongoDB connected successfully
+2024-11-18T06:35:38.029Z [info]: Server is running on port 3000
+2024-11-18T06:35:38.888Z [info]: MongoDB connected successfully
+2024-11-18T06:35:48.331Z [info]: Server is running on port 3000
+2024-11-18T06:35:48.891Z [info]: MongoDB connected successfully
+2024-11-18T06:36:00.235Z [info]: Server is running on port 3000
+2024-11-18T06:36:00.965Z [info]: MongoDB connected successfully
+2024-11-18T06:36:15.864Z [info]: Server is running on port 3000
+2024-11-18T06:36:21.098Z [info]: MongoDB connected successfully
+2024-11-18T06:37:27.846Z [info]: Server is running on port 3000
+2024-11-18T06:37:30.011Z [info]: Server is running on port 3000
+2024-11-18T06:37:37.874Z [info]: MongoDB connected successfully
+2024-11-18T06:38:40.093Z [info]: Server is running on port 3000
+2024-11-18T06:38:47.117Z [info]: MongoDB connected successfully
+2024-11-18T06:38:52.481Z [info]: Server is running on port 3000
+2024-11-18T06:38:53.084Z [info]: MongoDB connected successfully
+2024-11-18T06:38:55.317Z [info]: Server is running on port 3000
+2024-11-18T06:38:55.929Z [info]: MongoDB connected successfully
+2024-11-18T06:38:59.093Z [info]: Server is running on port 3000
+2024-11-18T06:38:59.792Z [info]: MongoDB connected successfully
+2024-11-18T06:49:38.544Z [info]: Server is running on port 3000
+2024-11-18T06:49:42.987Z [info]: MongoDB connected successfully
+2024-11-18T06:50:03.073Z [info]: Server is running on port 3000
+2024-11-18T06:50:03.619Z [info]: MongoDB connected successfully
+2024-11-18T06:50:12.809Z [info]: Server is running on port 3000
+2024-11-18T06:50:19.017Z [info]: MongoDB connected successfully
+2024-11-18T06:50:27.421Z [info]: Server is running on port 3000
+2024-11-18T06:50:28.361Z [info]: MongoDB connected successfully
+2024-11-18T06:50:56.885Z [info]: Server is running on port 3000
+2024-11-18T06:51:06.386Z [info]: MongoDB connected successfully
+2024-11-18T06:51:14.377Z [info]: Server is running on port 3000
+2024-11-18T06:51:14.961Z [info]: MongoDB connected successfully
+2024-11-18T06:52:35.009Z [info]: Server is running on port 3000
+2024-11-18T06:52:41.664Z [info]: MongoDB connected successfully
+2024-11-18T06:53:22.087Z [info]: Server is running on port 3000
+2024-11-18T06:53:27.111Z [info]: Server is running on port 3000
+2024-11-18T06:53:27.664Z [info]: MongoDB connected successfully
+2024-11-18T06:54:03.019Z [info]: Server is running on port 3000
+2024-11-18T06:54:04.305Z [info]: MongoDB connected successfully
+2024-11-18T06:54:08.653Z [info]: Server is running on port 3000
+2024-11-18T06:54:12.238Z [info]: Server is running on port 3000
+2024-11-18T06:54:12.781Z [info]: MongoDB connected successfully
+2024-11-18T06:54:14.938Z [info]: Server is running on port 3000
+2024-11-18T06:54:15.475Z [info]: MongoDB connected successfully
+2024-11-18T06:54:24.874Z [info]: Server is running on port 3000
+2024-11-18T06:54:25.473Z [info]: MongoDB connected successfully
+2024-11-18T06:54:45.269Z [info]: Server is running on port 3000
+2024-11-18T06:54:49.787Z [info]: MongoDB connected successfully
+2024-11-18T06:54:55.092Z [info]: Server is running on port 3000
+2024-11-18T06:54:56.660Z [info]: MongoDB connected successfully
+2024-11-18T06:54:59.256Z [info]: Server is running on port 3000
+2024-11-18T06:55:02.269Z [info]: Server is running on port 3000
+2024-11-18T06:55:04.289Z [info]: Server is running on port 3000
+2024-11-18T06:55:06.954Z [info]: MongoDB connected successfully
+2024-11-18T06:55:12.861Z [info]: Server is running on port 3000
+2024-11-18T06:55:13.575Z [info]: MongoDB connected successfully
+2024-11-18T06:55:23.993Z [info]: Server is running on port 3000
+2024-11-18T06:55:24.864Z [info]: MongoDB connected successfully
+2024-11-18T06:56:14.700Z [info]: Server is running on port 3000
+2024-11-18T06:56:15.654Z [info]: MongoDB connected successfully
+2024-11-18T06:56:19.741Z [info]: Server is running on port 3000
+2024-11-18T06:56:20.335Z [info]: MongoDB connected successfully
+2024-11-18T06:57:39.598Z [info]: Server is running on port 3000
+2024-11-18T06:57:41.929Z [info]: Server is running on port 3000
+2024-11-18T06:57:48.552Z [info]: MongoDB connected successfully
+2024-11-18T06:59:07.378Z [info]: Server is running on port 3000
+2024-11-18T06:59:12.468Z [info]: MongoDB connected successfully
+2024-11-18T07:00:00.736Z [info]: Server is running on port 3000
+2024-11-18T07:00:01.679Z [info]: MongoDB connected successfully
+2024-11-18T07:00:26.003Z [info]: Server is running on port 3000
+2024-11-18T07:00:27.232Z [info]: MongoDB connected successfully
+2024-11-18T07:00:28.413Z [info]: Server is running on port 3000
+2024-11-18T07:00:28.952Z [info]: MongoDB connected successfully
+2024-11-18T07:01:34.013Z [info]: Server is running on port 3000
+2024-11-18T07:01:35.478Z [info]: MongoDB connected successfully
+2024-11-18T07:02:04.334Z [info]: Server is running on port 3000
+2024-11-18T07:02:06.777Z [info]: MongoDB connected successfully
+2024-11-18T07:02:11.158Z [info]: Server is running on port 3000
+2024-11-18T07:02:14.888Z [info]: MongoDB connected successfully
+2024-11-18T07:03:06.945Z [info]: Server is running on port 3000
+2024-11-18T07:03:08.350Z [info]: MongoDB connected successfully
+2024-11-18T07:03:09.815Z [info]: Server is running on port 3000
+2024-11-18T07:03:10.426Z [info]: MongoDB connected successfully
+2024-11-18T07:03:34.160Z [info]: Server is running on port 3000
+2024-11-18T07:03:43.109Z [info]: MongoDB connected successfully
+2024-11-18T07:04:15.788Z [info]: Server is running on port 3000
+2024-11-18T07:04:17.929Z [info]: Server is running on port 3000
+2024-11-18T07:04:18.557Z [info]: MongoDB connected successfully
+2024-11-18T07:05:13.943Z [info]: Server is running on port 3000
+2024-11-18T07:05:18.496Z [info]: MongoDB connected successfully
+2024-11-18T07:05:29.097Z [info]: Server is running on port 3000
+2024-11-18T07:05:34.230Z [info]: MongoDB connected successfully
+2024-11-18T07:05:40.238Z [info]: Server is running on port 3000
+2024-11-18T07:05:40.772Z [info]: MongoDB connected successfully
+2024-11-18T07:05:45.922Z [info]: Server is running on port 3000
+2024-11-18T07:05:46.481Z [info]: MongoDB connected successfully
+2024-11-18T07:05:56.232Z [info]: Server is running on port 3000
+2024-11-18T07:05:56.991Z [info]: MongoDB connected successfully
+2024-11-18T07:06:09.197Z [info]: Server is running on port 3000
+2024-11-18T07:06:09.720Z [info]: MongoDB connected successfully
+2024-11-18T07:06:17.655Z [info]: Server is running on port 3000
+2024-11-18T07:06:18.754Z [info]: MongoDB connected successfully
+2024-11-18T07:06:20.058Z [info]: Server is running on port 3000
+2024-11-18T07:06:20.593Z [info]: MongoDB connected successfully
+2024-11-18T07:06:30.586Z [info]: Server is running on port 3000
+2024-11-18T07:06:31.660Z [info]: MongoDB connected successfully
+2024-11-18T07:06:32.638Z [info]: Server is running on port 3000
+2024-11-18T07:06:33.472Z [info]: MongoDB connected successfully
+2024-11-18T07:06:42.608Z [info]: Server is running on port 3000
+2024-11-18T07:06:45.792Z [info]: MongoDB connected successfully
+2024-11-18T07:06:57.536Z [info]: Server is running on port 3000
+2024-11-18T07:06:59.110Z [info]: MongoDB connected successfully
+2024-11-18T07:07:01.875Z [info]: Server is running on port 3000
+2024-11-18T07:07:02.419Z [info]: MongoDB connected successfully
+2024-11-18T07:07:11.620Z [info]: Server is running on port 3000
+2024-11-18T07:07:16.221Z [info]: MongoDB connected successfully
+2024-11-18T07:07:58.600Z [info]: Server is running on port 3000
+2024-11-18T07:08:03.234Z [info]: MongoDB connected successfully
+2024-11-18T07:08:05.929Z [info]: Server is running on port 3000
+2024-11-18T07:08:06.593Z [info]: MongoDB connected successfully
+2024-11-18T07:08:07.871Z [info]: Server is running on port 3000
+2024-11-18T07:08:08.490Z [info]: MongoDB connected successfully
+2024-11-18T07:08:32.773Z [info]: Server is running on port 3000
+2024-11-18T07:08:33.401Z [info]: MongoDB connected successfully
+2024-11-18T07:09:18.699Z [info]: Server is running on port 3000
+2024-11-18T07:09:20.115Z [info]: MongoDB connected successfully
+2024-11-18T08:01:42.790Z [info]: Server is running on port 3000
+2024-11-18T08:01:45.406Z [info]: MongoDB connected successfully
+2024-11-18T08:03:18.445Z [info]: Server is running on port 3000
+2024-11-18T08:03:25.513Z [info]: MongoDB connected successfully
+2024-11-18T08:03:39.571Z [info]: Server is running on port 3000
+2024-11-18T08:03:40.342Z [info]: MongoDB connected successfully
+2024-11-18T08:04:53.819Z [info]: Server is running on port 3000
+2024-11-18T08:05:04.548Z [info]: MongoDB connected successfully
+2024-11-18T08:05:08.721Z [info]: Server is running on port 3000
+2024-11-18T08:05:09.440Z [info]: MongoDB connected successfully
+2024-11-18T08:05:11.910Z [info]: Server is running on port 3000
+2024-11-18T08:05:12.512Z [info]: MongoDB connected successfully
+2024-11-18T08:05:49.906Z [info]: Server is running on port 3000
+2024-11-18T08:05:50.466Z [info]: MongoDB connected successfully
+2024-11-18T08:06:03.615Z [info]: Server is running on port 3000
+2024-11-18T08:06:06.485Z [info]: MongoDB connected successfully
+2024-11-18T08:06:14.885Z [info]: Server is running on port 3000
+2024-11-18T08:06:15.815Z [info]: MongoDB connected successfully
+2024-11-18T08:06:24.320Z [info]: Server is running on port 3000
+2024-11-18T08:06:24.849Z [info]: MongoDB connected successfully
+2024-11-18T08:07:02.330Z [info]: Server is running on port 3000
+2024-11-18T08:07:03.323Z [info]: MongoDB connected successfully
+2024-11-18T08:07:53.782Z [info]: Server is running on port 3000
+2024-11-18T08:07:54.602Z [info]: MongoDB connected successfully
+2024-11-18T08:08:07.265Z [info]: Server is running on port 3000
+2024-11-18T08:08:12.216Z [info]: MongoDB connected successfully
+2024-11-18T08:08:24.096Z [info]: Server is running on port 3000
+2024-11-18T08:08:25.754Z [info]: MongoDB connected successfully
+2024-11-18T08:08:31.392Z [info]: Server is running on port 3000
+2024-11-18T08:08:31.982Z [info]: MongoDB connected successfully
+2024-11-18T08:08:34.870Z [info]: Server is running on port 3000
+2024-11-18T08:08:36.500Z [info]: MongoDB connected successfully
+2024-11-18T08:08:58.918Z [info]: Server is running on port 3000
+2024-11-18T08:09:00.128Z [info]: MongoDB connected successfully
+2024-11-18T08:09:23.703Z [info]: Server is running on port 3000
+2024-11-18T08:09:24.503Z [info]: MongoDB connected successfully
+2024-11-18T08:09:28.070Z [info]: Server is running on port 3000
+2024-11-18T08:09:31.806Z [info]: Server is running on port 3000
+2024-11-18T08:09:32.464Z [info]: MongoDB connected successfully
+2024-11-18T08:09:34.339Z [info]: Server is running on port 3000
+2024-11-18T08:09:36.919Z [info]: MongoDB connected successfully
+2024-11-18T08:11:43.238Z [info]: Server is running on port 3000
+2024-11-18T08:11:49.013Z [info]: MongoDB connected successfully
+2024-11-18T08:12:19.193Z [info]: Server is running on port 3000
+2024-11-18T08:12:19.721Z [info]: MongoDB connected successfully
+2024-11-18T08:12:21.884Z [info]: Server is running on port 3000
+2024-11-18T08:12:22.413Z [info]: MongoDB connected successfully
+2024-11-18T08:12:25.049Z [info]: Server is running on port 3000
+2024-11-18T08:12:25.571Z [info]: MongoDB connected successfully
+2024-11-18T08:12:38.339Z [info]: Server is running on port 3000
+2024-11-18T08:12:41.460Z [info]: Server is running on port 3000
+2024-11-18T08:12:54.222Z [info]: Server is running on port 3000
+2024-11-18T08:12:59.068Z [info]: MongoDB connected successfully
+2024-11-18T08:13:20.891Z [info]: Server is running on port 3000
+2024-11-18T08:13:21.432Z [info]: MongoDB connected successfully
+2024-11-18T08:13:24.559Z [info]: Server is running on port 3000
+2024-11-18T08:13:25.195Z [info]: MongoDB connected successfully
+2024-11-18T08:13:57.854Z [info]: Server is running on port 3000
+2024-11-18T08:13:59.687Z [info]: MongoDB connected successfully
+2024-11-18T08:14:09.773Z [info]: Server is running on port 3000
+2024-11-18T08:14:11.590Z [info]: Server is running on port 3000
+2024-11-18T08:14:14.472Z [info]: MongoDB connected successfully
+2024-11-18T08:14:15.447Z [info]: Server is running on port 3000
+2024-11-18T08:14:15.977Z [info]: MongoDB connected successfully
+2024-11-18T08:14:19.833Z [info]: Server is running on port 3000
+2024-11-18T08:14:20.675Z [info]: MongoDB connected successfully
+2024-11-18T08:14:28.248Z [info]: Server is running on port 3000
+2024-11-18T08:14:28.848Z [info]: MongoDB connected successfully
+2024-11-18T08:14:43.044Z [info]: Server is running on port 3000
+2024-11-18T08:14:43.599Z [info]: MongoDB connected successfully
+2024-11-18T08:15:30.670Z [info]: Server is running on port 3000
+2024-11-18T08:15:32.342Z [info]: MongoDB connected successfully
+2024-11-18T08:15:43.048Z [info]: Server is running on port 3000
+2024-11-18T08:15:43.615Z [info]: MongoDB connected successfully
+2024-11-18T08:16:23.443Z [info]: Server is running on port 3000
+2024-11-18T08:16:24.310Z [info]: MongoDB connected successfully
+2024-11-18T08:16:49.145Z [info]: Server is running on port 3000
+2024-11-18T08:16:54.595Z [info]: MongoDB connected successfully
+2024-11-18T08:17:07.450Z [info]: Server is running on port 3000
+2024-11-18T08:17:08.014Z [info]: MongoDB connected successfully
+2024-11-18T08:17:09.719Z [info]: Server is running on port 3000
+2024-11-18T08:17:10.311Z [info]: MongoDB connected successfully
+2024-11-18T08:18:25.608Z [info]: Server is running on port 3000
+2024-11-18T08:18:27.617Z [info]: Server is running on port 3000
+2024-11-18T08:18:32.448Z [info]: MongoDB connected successfully
+2024-11-18T08:21:02.077Z [info]: Server is running on port 3000
+2024-11-18T08:21:06.582Z [info]: MongoDB connected successfully
+2024-11-18T08:21:50.969Z [info]: Server is running on port 3000
+2024-11-18T08:21:51.662Z [info]: MongoDB connected successfully
+2024-11-18T08:22:37.847Z [info]: Server is running on port 3000
+2024-11-18T08:22:42.518Z [info]: MongoDB connected successfully
+2024-11-18T08:22:53.476Z [info]: Server is running on port 3000
+2024-11-18T08:22:54.057Z [info]: MongoDB connected successfully
+2024-11-18T08:22:56.362Z [info]: Server is running on port 3000
+2024-11-18T08:22:56.925Z [info]: MongoDB connected successfully
+2024-11-18T08:23:05.917Z [info]: Server is running on port 3000
+2024-11-18T08:23:06.469Z [info]: MongoDB connected successfully
+2024-11-18T08:25:47.590Z [info]: Server is running on port 3000
+2024-11-18T08:25:50.454Z [info]: Server is running on port 3000
+2024-11-18T08:25:53.242Z [info]: Server is running on port 3000
+2024-11-18T08:25:54.709Z [info]: MongoDB connected successfully
+2024-11-18T08:27:21.247Z [info]: Server is running on port 3000
+2024-11-18T08:27:23.294Z [info]: Server is running on port 3000
+2024-11-18T08:27:26.602Z [info]: MongoDB connected successfully
+2024-11-18T08:27:28.336Z [info]: Server is running on port 3000
+2024-11-18T08:27:29.497Z [info]: MongoDB connected successfully
+2024-11-18T08:27:30.488Z [info]: Server is running on port 3000
+2024-11-18T08:27:31.077Z [info]: MongoDB connected successfully
+2024-11-18T08:28:59.282Z [info]: Server is running on port 3000
+2024-11-18T08:29:04.122Z [info]: MongoDB connected successfully
+2024-11-18T08:29:11.691Z [info]: Server is running on port 3000
+2024-11-18T08:29:12.205Z [info]: MongoDB connected successfully
+2024-11-18T08:29:48.885Z [info]: Server is running on port 3000
+2024-11-18T08:29:51.521Z [info]: MongoDB connected successfully
+2024-11-18T08:30:03.089Z [info]: Server is running on port 3000
+2024-11-18T08:30:09.250Z [info]: MongoDB connected successfully
+2024-11-18T08:30:57.635Z [info]: Server is running on port 3000
+2024-11-18T08:30:58.222Z [info]: MongoDB connected successfully
+2024-11-18T08:31:20.667Z [info]: Server is running on port 3000
+2024-11-18T08:31:21.704Z [info]: MongoDB connected successfully
+2024-11-18T08:32:14.433Z [info]: Server is running on port 3000
+2024-11-18T08:32:21.212Z [info]: MongoDB connected successfully
+2024-11-18T08:32:35.912Z [info]: Server is running on port 3000
+2024-11-18T08:32:38.977Z [info]: MongoDB connected successfully
+2024-11-18T08:32:48.240Z [info]: Server is running on port 3000
+2024-11-18T08:32:48.751Z [info]: MongoDB connected successfully
+2024-11-18T08:32:52.354Z [info]: Server is running on port 3000
+2024-11-18T08:32:52.959Z [info]: MongoDB connected successfully
+2024-11-18T08:33:07.649Z [info]: Server is running on port 3000
+2024-11-18T08:33:08.240Z [info]: MongoDB connected successfully
+2024-11-18T08:33:09.823Z [info]: Server is running on port 3000
+2024-11-18T08:33:10.430Z [info]: MongoDB connected successfully
+2024-11-18T08:33:11.898Z [info]: Server is running on port 3000
+2024-11-18T08:33:12.604Z [info]: MongoDB connected successfully
+2024-11-18T08:33:21.037Z [info]: Server is running on port 3000
+2024-11-18T08:33:21.781Z [info]: MongoDB connected successfully
+2024-11-18T08:33:34.683Z [info]: Server is running on port 3000
+2024-11-18T08:33:35.318Z [info]: MongoDB connected successfully
+2024-11-18T08:33:38.837Z [info]: Server is running on port 3000
+2024-11-18T08:33:44.791Z [info]: Server is running on port 3000
+2024-11-18T08:33:45.366Z [info]: MongoDB connected successfully
+2024-11-18T08:33:52.418Z [info]: Server is running on port 3000
+2024-11-18T08:33:52.965Z [info]: MongoDB connected successfully
+2024-11-18T08:33:54.658Z [info]: Server is running on port 3000
+2024-11-18T08:33:55.256Z [info]: MongoDB connected successfully
+2024-11-18T08:34:07.835Z [info]: Server is running on port 3000
+2024-11-18T08:34:08.377Z [info]: MongoDB connected successfully
+2024-11-18T08:34:10.323Z [info]: Server is running on port 3000
+2024-11-18T08:34:10.867Z [info]: MongoDB connected successfully
+2024-11-18T08:34:38.173Z [info]: Server is running on port 3000
+2024-11-18T08:34:39.641Z [info]: MongoDB connected successfully
+2024-11-18T08:34:42.305Z [info]: Server is running on port 3000
+2024-11-18T08:34:43.521Z [info]: MongoDB connected successfully
+2024-11-18T08:34:48.727Z [info]: Server is running on port 3000
+2024-11-18T08:34:49.280Z [info]: MongoDB connected successfully
+2024-11-18T08:34:59.513Z [info]: Server is running on port 3000
+2024-11-18T08:35:00.191Z [info]: MongoDB connected successfully
+2024-11-18T08:35:10.431Z [info]: Server is running on port 3000
+2024-11-18T08:35:10.944Z [info]: MongoDB connected successfully
+2024-11-18T08:35:18.020Z [info]: Server is running on port 3000
+2024-11-18T08:35:18.613Z [info]: MongoDB connected successfully
+2024-11-18T08:35:21.750Z [info]: Server is running on port 3000
+2024-11-18T08:35:23.125Z [info]: Server is running on port 3000
+2024-11-18T08:35:23.713Z [info]: MongoDB connected successfully
+2024-11-18T08:35:32.698Z [info]: Server is running on port 3000
+2024-11-18T08:35:33.258Z [info]: MongoDB connected successfully
+2024-11-18T08:35:37.251Z [info]: Server is running on port 3000
+2024-11-18T08:35:38.710Z [info]: Server is running on port 3000
+2024-11-18T08:35:39.439Z [info]: MongoDB connected successfully
+2024-11-18T08:35:54.034Z [info]: Server is running on port 3000
+2024-11-18T08:35:55.650Z [info]: MongoDB connected successfully
+2024-11-18T08:38:17.261Z [info]: Server is running on port 3000
+2024-11-18T08:38:20.210Z [info]: MongoDB connected successfully
+2024-11-18T08:38:31.225Z [info]: Server is running on port 3000
+2024-11-18T08:38:31.911Z [info]: MongoDB connected successfully
+2024-11-18T08:38:35.838Z [info]: Server is running on port 3000
+2024-11-18T08:38:38.803Z [info]: MongoDB connected successfully
+2024-11-18T08:40:10.738Z [error]: Error in Save Resource: E11000 duplicate key error collection: sms.resources index: name_1 dup key: { name: "Article" }
+2024-11-18T08:40:10.742Z [error]: MongoServerError: E11000 duplicate key error collection: sms.resources index: name_1 dup key: { name: "Article" }
+    at InsertOneOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async Collection.insertOne (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\collection.js:154:16)
+2024-11-18T08:42:30.286Z [info]: Server is running on port 3000
+2024-11-18T08:42:32.172Z [info]: Server is running on port 3000
+2024-11-18T08:42:34.002Z [info]: Server is running on port 3000
+2024-11-18T08:42:35.208Z [info]: Server is running on port 3000
+2024-11-18T08:42:38.408Z [info]: MongoDB connected successfully
+2024-11-18T08:42:43.721Z [info]: Server is running on port 3000
+2024-11-18T08:42:45.322Z [info]: MongoDB connected successfully
+2024-11-18T08:43:59.919Z [info]: Server is running on port 3000
+2024-11-18T08:44:04.538Z [info]: MongoDB connected successfully
+2024-11-18T08:44:06.879Z [info]: Server is running on port 3000
+2024-11-18T08:44:11.550Z [info]: MongoDB connected successfully
+2024-11-18T08:44:13.340Z [error]: Error in Fetch Roles: Cannot populate path `chld` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-11-18T08:44:13.343Z [error]: StrictPopulateError: Cannot populate path `chld` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4316:21)
+    at _populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4276:5)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4248:5
+    at new Promise (<anonymous>)
+    at Function.populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4247:10)
+    at model.Query._find (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2384:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:63)
+    at async exports.getArticles (E:\durulhoda\nodetutorial\ecom\controllers\articleController.js:6:25)
+2024-11-18T08:45:58.414Z [info]: Server is running on port 3000
+2024-11-18T08:46:03.186Z [info]: MongoDB connected successfully
+2024-11-18T08:46:08.490Z [info]: Server is running on port 3000
+2024-11-18T08:46:09.003Z [info]: MongoDB connected successfully
+2024-11-18T08:47:44.926Z [info]: Server is running on port 3000
+2024-11-18T08:47:47.128Z [info]: Server is running on port 3000
+2024-11-18T08:47:50.180Z [info]: MongoDB connected successfully
+2024-11-18T08:48:15.461Z [info]: Server is running on port 3000
+2024-11-18T08:48:15.992Z [info]: MongoDB connected successfully
+2024-11-18T08:49:16.058Z [info]: Server is running on port 3000
+2024-11-18T08:49:23.198Z [info]: MongoDB connected successfully
+2024-11-18T08:49:26.186Z [info]: Server is running on port 3000
+2024-11-18T08:49:26.755Z [info]: MongoDB connected successfully
+2024-11-18T08:49:36.678Z [info]: Server is running on port 3000
+2024-11-18T08:49:37.265Z [info]: MongoDB connected successfully
+2024-11-18T08:50:17.124Z [info]: Server is running on port 3000
+2024-11-18T08:50:19.393Z [info]: Server is running on port 3000
+2024-11-18T08:50:19.965Z [info]: MongoDB connected successfully
+2024-11-18T08:50:23.304Z [info]: Server is running on port 3000
+2024-11-18T08:50:28.119Z [info]: MongoDB connected successfully
+2024-11-18T08:50:36.161Z [info]: Server is running on port 3000
+2024-11-18T08:50:36.681Z [info]: MongoDB connected successfully
+2024-11-18T08:50:46.746Z [info]: Server is running on port 3000
+2024-11-18T08:50:47.253Z [info]: MongoDB connected successfully
+2024-11-18T08:50:57.166Z [info]: Server is running on port 3000
+2024-11-18T08:50:57.708Z [info]: MongoDB connected successfully
+2024-11-18T08:51:49.479Z [info]: Server is running on port 3000
+2024-11-18T08:51:59.812Z [info]: MongoDB connected successfully
+2024-11-18T08:52:37.395Z [info]: Server is running on port 3000
+2024-11-18T08:52:38.541Z [info]: MongoDB connected successfully
+2024-11-18T08:52:45.851Z [info]: Server is running on port 3000
+2024-11-18T08:52:46.745Z [info]: MongoDB connected successfully
+2024-11-18T08:52:47.631Z [info]: Server is running on port 3000
+2024-11-18T08:52:51.560Z [info]: MongoDB connected successfully
+2024-11-18T08:53:45.917Z [info]: Server is running on port 3000
+2024-11-18T08:53:51.579Z [info]: MongoDB connected successfully
+2024-11-18T08:54:05.592Z [info]: Server is running on port 3000
+2024-11-18T08:54:07.602Z [info]: MongoDB connected successfully
+2024-11-18T08:54:51.245Z [info]: Server is running on port 3000
+2024-11-18T08:55:00.383Z [info]: MongoDB connected successfully
+2024-11-18T08:55:03.855Z [info]: Server is running on port 3000
+2024-11-18T08:55:06.140Z [info]: Server is running on port 3000
+2024-11-18T08:55:08.405Z [info]: Server is running on port 3000
+2024-11-18T08:55:09.207Z [info]: MongoDB connected successfully
+2024-11-18T08:55:16.709Z [info]: Server is running on port 3000
+2024-11-18T08:55:18.742Z [info]: Server is running on port 3000
+2024-11-18T08:55:20.872Z [info]: MongoDB connected successfully
+2024-11-18T08:56:08.442Z [info]: Server is running on port 3000
+2024-11-18T08:56:16.249Z [info]: MongoDB connected successfully
+2024-11-18T08:56:41.594Z [info]: Server is running on port 3000
+2024-11-18T08:56:43.906Z [info]: Server is running on port 3000
+2024-11-18T08:56:47.159Z [info]: MongoDB connected successfully
+2024-11-18T08:56:50.953Z [error]: Error in Save Article: Article Code and Article Name must be unique
+2024-11-18T08:56:50.956Z [error]: Error: Article Code and Article Name must be unique
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveArticle (E:\durulhoda\nodetutorial\ecom\services\articleService.js:23:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveArticle (E:\durulhoda\nodetutorial\ecom\controllers\articleController.js:26:20)
+2024-11-18T09:08:40.338Z [info]: Server is running on port 3000
+2024-11-18T09:08:45.686Z [info]: MongoDB connected successfully
+2024-11-18T09:35:03.231Z [info]: Server is running on port 3000
+2024-11-18T09:35:05.425Z [info]: MongoDB connected successfully
+2024-11-18T09:35:43.551Z [info]: Server is running on port 3000
+2024-11-18T09:35:48.207Z [info]: MongoDB connected successfully
+2024-11-18T09:36:12.243Z [info]: Server is running on port 3000
+2024-11-18T09:36:13.596Z [info]: MongoDB connected successfully
+2024-11-18T09:36:26.596Z [info]: Server is running on port 3000
+2024-11-18T09:36:27.377Z [info]: MongoDB connected successfully
+2024-11-18T09:36:46.842Z [info]: Server is running on port 3000
+2024-11-18T09:36:52.233Z [info]: MongoDB connected successfully
+2024-11-18T09:36:53.423Z [info]: Server is running on port 3000
+2024-11-18T09:36:57.329Z [info]: MongoDB connected successfully
+2024-11-18T09:37:21.315Z [info]: Server is running on port 3000
+2024-11-18T09:37:26.662Z [info]: MongoDB connected successfully
+2024-11-18T09:37:35.604Z [info]: Server is running on port 3000
+2024-11-18T09:37:36.236Z [info]: MongoDB connected successfully
+2024-11-18T09:37:43.087Z [info]: Server is running on port 3000
+2024-11-18T09:37:43.671Z [info]: MongoDB connected successfully
+2024-11-18T09:37:56.716Z [info]: Server is running on port 3000
+2024-11-18T09:38:00.263Z [info]: MongoDB connected successfully
+2024-11-18T09:41:34.048Z [info]: Server is running on port 3000
+2024-11-18T09:41:40.203Z [info]: MongoDB connected successfully
+2024-11-18T09:42:31.335Z [info]: Server is running on port 3000
+2024-11-18T09:42:32.422Z [info]: MongoDB connected successfully
+2024-11-18T09:42:36.865Z [info]: Server is running on port 3000
+2024-11-18T09:42:59.654Z [info]: Server is running on port 3000
+2024-11-18T09:43:01.120Z [info]: MongoDB connected successfully
+2024-11-18T09:43:05.286Z [info]: Server is running on port 3000
+2024-11-18T09:43:07.038Z [info]: MongoDB connected successfully
+2024-11-18T09:43:26.608Z [info]: Server is running on port 3000
+2024-11-18T09:43:28.640Z [info]: Server is running on port 3000
+2024-11-18T09:43:29.505Z [info]: MongoDB connected successfully
+2024-11-18T09:43:49.916Z [info]: Server is running on port 3000
+2024-11-18T09:43:57.244Z [info]: MongoDB connected successfully
+2024-11-18T09:44:12.694Z [info]: Server is running on port 3000
+2024-11-18T09:44:13.194Z [info]: MongoDB connected successfully
+2024-11-18T09:44:21.161Z [info]: Server is running on port 3000
+2024-11-18T09:44:21.689Z [info]: MongoDB connected successfully
+2024-11-18T09:44:27.940Z [info]: Server is running on port 3000
+2024-11-18T09:44:28.581Z [info]: MongoDB connected successfully
+2024-11-18T09:44:36.470Z [info]: Server is running on port 3000
+2024-11-18T09:44:37.019Z [info]: MongoDB connected successfully
+2024-11-18T10:12:20.414Z [info]: Server is running on port 3000
+2024-11-18T10:12:20.989Z [info]: Server is running on port 3000
+2024-11-18T10:12:34.624Z [info]: MongoDB connected successfully
+2024-11-18T10:13:27.579Z [info]: Server is running on port 3000
+2024-11-18T10:13:30.698Z [info]: MongoDB connected successfully
+2024-11-18T10:13:42.529Z [info]: Server is running on port 3000
+2024-11-18T10:13:43.075Z [info]: MongoDB connected successfully
+2024-11-18T10:14:06.631Z [info]: Server is running on port 3000
+2024-11-18T10:14:07.189Z [info]: MongoDB connected successfully
+2024-11-18T10:14:25.831Z [info]: Server is running on port 3000
+2024-11-18T10:14:27.440Z [info]: MongoDB connected successfully
+2024-11-18T10:14:34.146Z [info]: Server is running on port 3000
+2024-11-18T10:14:35.641Z [info]: MongoDB connected successfully
+2024-11-18T10:14:38.606Z [info]: Server is running on port 3000
+2024-11-18T10:14:50.408Z [info]: MongoDB connected successfully
+2024-11-18T10:15:12.622Z [info]: Server is running on port 3000
+2024-11-18T10:15:13.184Z [info]: MongoDB connected successfully
+2024-11-18T10:15:24.176Z [info]: Server is running on port 3000
+2024-11-18T10:15:26.829Z [info]: MongoDB connected successfully
+2024-11-18T10:15:36.392Z [info]: Server is running on port 3000
+2024-11-18T10:15:38.617Z [info]: Server is running on port 3000
+2024-11-18T10:15:40.627Z [info]: MongoDB connected successfully
+2024-11-18T10:15:48.462Z [info]: Server is running on port 3000
+2024-11-18T10:15:51.642Z [info]: MongoDB connected successfully
+2024-11-18T10:16:05.557Z [info]: Server is running on port 3000
+2024-11-18T10:16:06.078Z [info]: MongoDB connected successfully
+2024-11-18T10:16:11.528Z [info]: Server is running on port 3000
+2024-11-18T10:16:12.087Z [info]: MongoDB connected successfully
+2024-11-18T10:16:32.039Z [info]: Server is running on port 3000
+2024-11-18T10:16:33.826Z [info]: MongoDB connected successfully
+2024-11-18T10:16:36.713Z [info]: Server is running on port 3000
+2024-11-18T10:16:37.809Z [info]: Server is running on port 3000
+2024-11-18T10:16:38.715Z [info]: MongoDB connected successfully
+2024-11-18T10:17:23.363Z [info]: Server is running on port 3000
+2024-11-18T10:17:24.524Z [info]: MongoDB connected successfully
+2024-11-18T10:17:33.710Z [info]: Server is running on port 3000
+2024-11-18T10:17:34.433Z [info]: MongoDB connected successfully
+2024-11-18T10:17:44.419Z [info]: Server is running on port 3000
+2024-11-18T10:17:45.031Z [info]: MongoDB connected successfully
+2024-11-18T10:18:42.477Z [info]: Server is running on port 3000
+2024-11-18T10:18:47.665Z [info]: MongoDB connected successfully
+2024-11-18T10:18:49.358Z [info]: Server is running on port 3000
+2024-11-18T10:18:49.930Z [info]: MongoDB connected successfully
+2024-11-18T10:19:23.146Z [info]: Server is running on port 3000
+2024-11-18T10:19:23.702Z [info]: MongoDB connected successfully
+2024-11-18T10:19:40.436Z [info]: Server is running on port 3000
+2024-11-18T10:19:41.344Z [info]: MongoDB connected successfully
+2024-11-18T10:19:45.633Z [info]: Server is running on port 3000
+2024-11-18T10:19:50.843Z [info]: MongoDB connected successfully
+2024-11-18T10:19:55.891Z [info]: Server is running on port 3000
+2024-11-18T10:19:56.712Z [info]: MongoDB connected successfully
+2024-11-18T10:20:39.893Z [info]: Server is running on port 3000
+2024-11-18T10:20:42.744Z [info]: MongoDB connected successfully
+2024-11-18T10:21:18.303Z [info]: Server is running on port 3000
+2024-11-18T10:21:20.993Z [info]: MongoDB connected successfully
+2024-11-18T10:21:31.118Z [info]: Server is running on port 3000
+2024-11-18T10:21:31.685Z [info]: MongoDB connected successfully
+2024-11-18T10:21:42.399Z [info]: Server is running on port 3000
+2024-11-18T10:21:42.903Z [info]: MongoDB connected successfully
+2024-11-18T10:22:31.149Z [info]: Server is running on port 3000
+2024-11-18T10:22:36.579Z [info]: MongoDB connected successfully
+2024-11-18T10:22:59.766Z [info]: Server is running on port 3000
+2024-11-18T10:23:00.611Z [info]: MongoDB connected successfully
+2024-11-18T10:23:03.272Z [info]: Server is running on port 3000
+2024-11-18T10:23:03.868Z [info]: MongoDB connected successfully
+2024-11-18T10:23:05.880Z [info]: Server is running on port 3000
+2024-11-18T10:23:06.719Z [info]: MongoDB connected successfully
+2024-11-18T10:23:16.984Z [info]: Server is running on port 3000
+2024-11-18T10:23:17.569Z [info]: MongoDB connected successfully
+2024-11-18T10:23:28.507Z [info]: Server is running on port 3000
+2024-11-18T10:23:29.346Z [info]: MongoDB connected successfully
+2024-11-18T10:23:30.866Z [info]: Server is running on port 3000
+2024-11-18T10:23:31.478Z [info]: MongoDB connected successfully
+2024-11-18T10:23:35.618Z [info]: Server is running on port 3000
+2024-11-18T10:23:36.435Z [info]: MongoDB connected successfully
+2024-11-18T10:29:00.982Z [info]: Server is running on port 3000
+2024-11-18T10:29:03.362Z [info]: MongoDB connected successfully
+2024-11-18T10:29:20.590Z [info]: Server is running on port 3000
+2024-11-18T10:29:21.232Z [info]: MongoDB connected successfully
+2024-11-18T10:29:43.073Z [info]: Server is running on port 3000
+2024-11-18T10:29:43.626Z [info]: MongoDB connected successfully
+2024-11-18T10:29:56.933Z [info]: Server is running on port 3000
+2024-11-18T10:29:58.165Z [info]: MongoDB connected successfully
+2024-11-18T10:30:03.989Z [info]: Server is running on port 3000
+2024-11-18T10:30:09.077Z [info]: MongoDB connected successfully
+2024-11-18T10:30:11.289Z [info]: Server is running on port 3000
+2024-11-18T10:30:11.801Z [info]: MongoDB connected successfully
+2024-11-18T10:30:26.686Z [info]: Server is running on port 3000
+2024-11-18T10:30:27.183Z [info]: MongoDB connected successfully
+2024-11-18T10:30:41.730Z [info]: Server is running on port 3000
+2024-11-18T10:30:42.614Z [info]: MongoDB connected successfully
+2024-11-18T10:30:48.414Z [info]: Server is running on port 3000
+2024-11-18T10:30:48.963Z [info]: MongoDB connected successfully
+2024-11-18T10:30:52.702Z [info]: Server is running on port 3000
+2024-11-18T10:30:53.298Z [info]: MongoDB connected successfully
+2024-11-18T10:30:54.483Z [info]: Server is running on port 3000
+2024-11-18T10:30:55.248Z [info]: MongoDB connected successfully
+2024-11-18T10:31:16.199Z [info]: Server is running on port 3000
+2024-11-18T10:31:19.720Z [info]: MongoDB connected successfully
+2024-11-18T10:31:57.724Z [info]: Server is running on port 3000
+2024-11-18T10:31:58.230Z [info]: MongoDB connected successfully
+2024-11-18T10:32:06.697Z [info]: Server is running on port 3000
+2024-11-18T10:32:07.640Z [info]: MongoDB connected successfully
+2024-11-18T10:32:15.124Z [info]: Server is running on port 3000
+2024-11-18T10:32:15.986Z [info]: MongoDB connected successfully
+2024-11-18T10:32:22.979Z [info]: Server is running on port 3000
+2024-11-18T10:32:24.067Z [info]: MongoDB connected successfully
+2024-11-18T10:32:35.523Z [info]: Server is running on port 3000
+2024-11-18T10:32:40.026Z [info]: Server is running on port 3000
+2024-11-18T10:32:41.681Z [info]: MongoDB connected successfully
+2024-11-18T10:32:44.424Z [info]: Server is running on port 3000
+2024-11-18T10:32:45.131Z [info]: MongoDB connected successfully
+2024-11-18T10:32:49.111Z [info]: Server is running on port 3000
+2024-11-18T10:32:49.682Z [info]: MongoDB connected successfully
+2024-11-18T10:32:58.859Z [info]: Server is running on port 3000
+2024-11-18T10:32:59.402Z [info]: MongoDB connected successfully
+2024-11-18T10:33:20.976Z [info]: Server is running on port 3000
+2024-11-18T10:33:23.617Z [info]: MongoDB connected successfully
+2024-11-18T10:34:13.935Z [info]: Server is running on port 3000
+2024-11-18T10:34:15.468Z [info]: MongoDB connected successfully
+2024-11-18T10:34:30.261Z [info]: Server is running on port 3000
+2024-11-18T10:34:31.072Z [info]: MongoDB connected successfully
+2024-11-18T10:34:53.402Z [info]: Server is running on port 3000
+2024-11-18T10:34:54.982Z [info]: MongoDB connected successfully
+2024-11-18T10:35:09.858Z [info]: Server is running on port 3000
+2024-11-18T10:35:15.298Z [info]: MongoDB connected successfully
+2024-11-18T10:35:26.522Z [info]: Server is running on port 3000
+2024-11-18T10:35:27.205Z [info]: MongoDB connected successfully
+2024-11-18T10:36:01.380Z [info]: Server is running on port 3000
+2024-11-18T10:36:04.433Z [info]: MongoDB connected successfully
+2024-11-18T10:37:07.027Z [info]: Server is running on port 3000
+2024-11-18T10:37:09.371Z [info]: Server is running on port 3000
+2024-11-18T10:37:11.927Z [info]: Server is running on port 3000
+2024-11-18T10:37:14.491Z [info]: MongoDB connected successfully
+2024-11-18T10:37:37.406Z [info]: Server is running on port 3000
+2024-11-18T10:37:37.961Z [info]: MongoDB connected successfully
+2024-11-18T10:40:27.933Z [info]: Server is running on port 3000
+2024-11-18T10:40:29.923Z [info]: MongoDB connected successfully
+2024-11-18T10:46:05.616Z [info]: Server is running on port 3000
+2024-11-18T10:46:07.672Z [info]: Server is running on port 3000
+2024-11-18T10:46:12.571Z [info]: MongoDB connected successfully
+2024-11-18T10:55:02.609Z [info]: Server is running on port 3000
+2024-11-18T10:55:07.617Z [info]: MongoDB connected successfully
+2024-11-18T10:55:15.349Z [info]: Server is running on port 3000
+2024-11-18T10:55:16.059Z [info]: MongoDB connected successfully
+2024-11-18T10:55:32.090Z [info]: Server is running on port 3000
+2024-11-18T10:55:33.311Z [info]: Server is running on port 3000
+2024-11-18T10:55:33.956Z [info]: MongoDB connected successfully
+2024-11-18T10:55:58.628Z [info]: Server is running on port 3000
+2024-11-18T10:56:00.232Z [info]: MongoDB connected successfully
+2024-11-18T10:56:13.358Z [info]: Server is running on port 3000
+2024-11-18T10:56:20.155Z [info]: MongoDB connected successfully
+2024-11-18T10:56:44.521Z [info]: Server is running on port 3000
+2024-11-18T10:56:46.315Z [info]: Server is running on port 3000
+2024-11-18T10:56:48.699Z [info]: MongoDB connected successfully
+2024-11-18T10:57:31.627Z [info]: Server is running on port 3000
+2024-11-18T10:57:34.098Z [info]: Server is running on port 3000
+2024-11-18T10:57:37.641Z [info]: MongoDB connected successfully
+2024-11-18T10:57:44.046Z [info]: Server is running on port 3000
+2024-11-18T10:57:45.807Z [info]: MongoDB connected successfully
+2024-11-18T10:57:49.586Z [info]: Server is running on port 3000
+2024-11-18T10:57:50.253Z [info]: MongoDB connected successfully
+2024-11-18T10:57:51.739Z [info]: Server is running on port 3000
+2024-11-18T10:57:52.434Z [info]: MongoDB connected successfully
+2024-11-18T10:57:55.985Z [info]: Server is running on port 3000
+2024-11-18T10:57:56.550Z [info]: Server is running on port 3000
+2024-11-18T10:57:57.537Z [info]: MongoDB connected successfully
+2024-11-18T10:58:09.855Z [info]: Server is running on port 3000
+2024-11-18T10:58:10.454Z [info]: MongoDB connected successfully
+2024-11-18T10:58:11.641Z [info]: Server is running on port 3000
+2024-11-18T10:58:13.266Z [info]: MongoDB connected successfully
+2024-11-18T10:59:04.785Z [info]: Server is running on port 3000
+2024-11-18T10:59:12.804Z [info]: MongoDB connected successfully
+2024-11-18T10:59:13.613Z [info]: Server is running on port 3000
+2024-11-18T10:59:14.324Z [info]: MongoDB connected successfully
+2024-11-18T10:59:35.283Z [info]: Server is running on port 3000
+2024-11-18T10:59:37.422Z [info]: MongoDB connected successfully
+2024-11-18T10:59:51.493Z [info]: Server is running on port 3000
+2024-11-18T10:59:54.125Z [info]: MongoDB connected successfully
+2024-11-18T11:01:02.698Z [error]: Error in Save Resource: E11000 duplicate key error collection: sms.resources index: name_1 dup key: { name: "All" }
+2024-11-18T11:01:02.702Z [error]: MongoServerError: E11000 duplicate key error collection: sms.resources index: name_1 dup key: { name: "All" }
+    at InsertOneOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async Collection.insertOne (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\collection.js:154:16)
+2024-11-18T11:01:48.937Z [info]: Server is running on port 3000
+2024-11-18T11:01:54.021Z [info]: MongoDB connected successfully
+2024-11-18T11:02:31.334Z [info]: Server is running on port 3000
+2024-11-18T11:02:31.999Z [info]: MongoDB connected successfully
+2024-11-18T11:02:34.555Z [info]: Server is running on port 3000
+2024-11-18T11:02:39.172Z [info]: MongoDB connected successfully
+2024-11-18T11:03:03.902Z [info]: Server is running on port 3000
+2024-11-18T11:03:05.790Z [info]: MongoDB connected successfully
+2024-11-18T11:03:08.304Z [info]: Server is running on port 3000
+2024-11-18T11:03:08.884Z [info]: MongoDB connected successfully
+2024-11-18T11:03:13.045Z [info]: Server is running on port 3000
+2024-11-18T11:03:18.128Z [info]: MongoDB connected successfully
+2024-11-18T11:03:26.450Z [info]: Server is running on port 3000
+2024-11-18T11:03:27.073Z [info]: MongoDB connected successfully
+2024-11-18T11:03:33.322Z [info]: Server is running on port 3000
+2024-11-18T11:03:33.906Z [info]: MongoDB connected successfully
+2024-11-18T11:03:38.566Z [info]: Server is running on port 3000
+2024-11-18T11:03:39.260Z [info]: MongoDB connected successfully
+2024-11-18T11:03:56.294Z [info]: Server is running on port 3000
+2024-11-18T11:03:59.923Z [info]: MongoDB connected successfully
+2024-11-18T11:04:09.746Z [info]: Server is running on port 3000
+2024-11-18T11:04:12.128Z [info]: MongoDB connected successfully
+2024-11-18T11:04:24.919Z [info]: Server is running on port 3000
+2024-11-18T11:04:25.796Z [info]: MongoDB connected successfully
+2024-11-18T11:04:34.592Z [info]: Server is running on port 3000
+2024-11-18T11:04:35.189Z [info]: MongoDB connected successfully
+2024-11-18T11:04:39.376Z [info]: Server is running on port 3000
+2024-11-18T11:04:39.969Z [info]: MongoDB connected successfully
+2024-11-18T11:05:13.440Z [info]: Server is running on port 3000
+2024-11-18T11:05:14.999Z [info]: MongoDB connected successfully
+2024-11-18T11:06:33.552Z [info]: Server is running on port 3000
+2024-11-18T11:06:40.366Z [info]: MongoDB connected successfully
+2024-11-18T11:08:05.537Z [info]: Server is running on port 3000
+2024-11-18T11:08:09.232Z [info]: MongoDB connected successfully
+2024-11-18T11:08:10.963Z [info]: Server is running on port 3000
+2024-11-18T11:08:11.640Z [info]: MongoDB connected successfully
+2024-11-18T11:09:07.812Z [info]: Server is running on port 3000
+2024-11-18T11:09:08.470Z [info]: MongoDB connected successfully
+2024-11-18T11:11:01.376Z [info]: Server is running on port 3000
+2024-11-18T11:11:02.863Z [info]: MongoDB connected successfully
+2024-11-18T11:11:13.725Z [info]: Server is running on port 3000
+2024-11-18T11:11:16.737Z [info]: MongoDB connected successfully
+2024-11-18T11:11:22.771Z [info]: Server is running on port 3000
+2024-11-18T11:11:23.375Z [info]: MongoDB connected successfully
+2024-11-18T11:11:29.595Z [info]: Server is running on port 3000
+2024-11-18T11:11:30.145Z [info]: MongoDB connected successfully
+2024-11-18T11:11:46.042Z [info]: Server is running on port 3000
+2024-11-18T11:11:46.860Z [info]: MongoDB connected successfully
+2024-11-18T11:12:02.422Z [info]: Server is running on port 3000
+2024-11-18T11:12:04.813Z [info]: Server is running on port 3000
+2024-11-18T11:12:05.521Z [info]: MongoDB connected successfully
+2024-11-18T11:12:12.963Z [info]: Server is running on port 3000
+2024-11-18T11:12:13.541Z [info]: MongoDB connected successfully
+2024-11-18T11:12:19.235Z [info]: Server is running on port 3000
+2024-11-18T11:12:24.039Z [info]: MongoDB connected successfully
+2024-11-18T11:14:39.900Z [info]: Server is running on port 3000
+2024-11-18T11:14:41.995Z [info]: Server is running on port 3000
+2024-11-18T11:14:45.297Z [info]: MongoDB connected successfully
+2024-11-18T11:16:13.611Z [error]: Error in Save Article: Article Code and Article Name must be unique
+2024-11-18T11:16:13.615Z [error]: Error: Article Code and Article Name must be unique
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveArticle (E:\durulhoda\nodetutorial\ecom\services\articleService.js:23:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveArticle (E:\durulhoda\nodetutorial\ecom\controllers\articleController.js:26:20)
+2024-11-18T11:32:28.627Z [info]: Server is running on port 3000
+2024-11-18T11:32:33.934Z [info]: Server is running on port 3000
+2024-11-18T11:32:35.313Z [info]: MongoDB connected successfully
+2024-11-18T11:33:23.430Z [info]: Server is running on port 3000
+2024-11-18T11:33:23.986Z [info]: MongoDB connected successfully
+2024-11-18T11:33:35.132Z [info]: Server is running on port 3000
+2024-11-18T11:33:36.303Z [info]: MongoDB connected successfully
+2024-11-18T11:33:43.893Z [info]: Server is running on port 3000
+2024-11-18T11:33:47.515Z [info]: MongoDB connected successfully
+2024-11-18T11:33:54.549Z [info]: Server is running on port 3000
+2024-11-18T11:33:55.112Z [info]: MongoDB connected successfully
+2024-11-18T11:34:27.061Z [info]: Server is running on port 3000
+2024-11-18T11:34:27.625Z [info]: MongoDB connected successfully
+2024-11-18T11:36:31.390Z [info]: Server is running on port 3000
+2024-11-18T11:36:32.963Z [info]: MongoDB connected successfully
+2024-11-18T11:36:37.738Z [info]: Server is running on port 3000
+2024-11-18T11:36:38.339Z [info]: MongoDB connected successfully
+2024-11-18T11:36:44.124Z [info]: Server is running on port 3000
+2024-11-18T11:36:45.442Z [info]: MongoDB connected successfully
+2024-11-18T11:36:55.239Z [info]: Server is running on port 3000
+2024-11-18T11:36:56.131Z [info]: MongoDB connected successfully
+2024-11-18T11:37:30.187Z [info]: Server is running on port 3000
+2024-11-18T11:37:30.992Z [info]: MongoDB connected successfully
+2024-11-18T11:37:32.335Z [info]: Server is running on port 3000
+2024-11-18T11:37:39.680Z [info]: MongoDB connected successfully
+2024-11-18T11:37:46.534Z [info]: Server is running on port 3000
+2024-11-18T11:37:47.153Z [info]: MongoDB connected successfully
+2024-11-18T11:38:22.505Z [info]: Server is running on port 3000
+2024-11-18T11:38:23.077Z [info]: MongoDB connected successfully
+2024-11-18T11:38:27.831Z [info]: Server is running on port 3000
+2024-11-18T11:38:28.513Z [info]: MongoDB connected successfully
+2024-11-18T11:38:30.409Z [info]: Server is running on port 3000
+2024-11-18T11:38:31.006Z [info]: MongoDB connected successfully
+2024-11-18T11:38:40.366Z [info]: Server is running on port 3000
+2024-11-18T11:38:46.345Z [info]: MongoDB connected successfully
+2024-11-18T11:39:12.277Z [info]: Server is running on port 3000
+2024-11-18T11:39:12.880Z [info]: MongoDB connected successfully
+2024-11-18T11:39:22.062Z [info]: Server is running on port 3000
+2024-11-18T11:39:22.714Z [info]: MongoDB connected successfully
+2024-11-18T11:39:32.737Z [info]: Server is running on port 3000
+2024-11-18T11:39:33.369Z [info]: MongoDB connected successfully
+2024-11-18T11:39:36.185Z [info]: Server is running on port 3000
+2024-11-18T11:39:37.455Z [info]: MongoDB connected successfully
+2024-11-18T11:39:41.777Z [info]: Server is running on port 3000
+2024-11-18T11:39:42.709Z [info]: MongoDB connected successfully
+2024-11-18T11:39:49.704Z [info]: Server is running on port 3000
+2024-11-18T11:39:51.337Z [info]: MongoDB connected successfully
+2024-11-18T11:41:47.907Z [error]: Error in Save Book: Author with the given id 673b221b7a7d41d4cf86f9fc
+2024-11-18T11:41:47.908Z [error]: Error: Author with the given id 673b221b7a7d41d4cf86f9fc
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:42:08.250Z [info]: Server is running on port 3000
+2024-11-18T11:42:13.104Z [info]: MongoDB connected successfully
+2024-11-18T11:42:13.845Z [error]: Error in Save Book: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+2024-11-18T11:42:13.847Z [error]: Error: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:42:28.977Z [info]: Server is running on port 3000
+2024-11-18T11:42:29.546Z [info]: MongoDB connected successfully
+2024-11-18T11:42:41.562Z [info]: Server is running on port 3000
+2024-11-18T11:42:42.137Z [info]: MongoDB connected successfully
+2024-11-18T11:42:43.330Z [info]: Server is running on port 3000
+2024-11-18T11:42:43.917Z [info]: MongoDB connected successfully
+2024-11-18T11:42:47.175Z [error]: Error in Save Book: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+2024-11-18T11:42:47.179Z [error]: Error: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:44:08.883Z [info]: Server is running on port 3000
+2024-11-18T11:44:10.039Z [info]: Server is running on port 3000
+2024-11-18T11:44:10.955Z [info]: Server is running on port 3000
+2024-11-18T11:44:12.847Z [info]: Server is running on port 3000
+2024-11-18T11:44:16.982Z [info]: Server is running on port 3000
+2024-11-18T11:44:17.568Z [info]: MongoDB connected successfully
+2024-11-18T11:44:19.445Z [info]: Server is running on port 3000
+2024-11-18T11:44:21.089Z [info]: MongoDB connected successfully
+2024-11-18T11:44:52.265Z [info]: Server is running on port 3000
+2024-11-18T11:44:52.865Z [info]: MongoDB connected successfully
+2024-11-18T11:44:54.643Z [info]: Server is running on port 3000
+2024-11-18T11:44:55.294Z [info]: MongoDB connected successfully
+2024-11-18T11:45:09.658Z [info]: Server is running on port 3000
+2024-11-18T11:45:10.584Z [info]: MongoDB connected successfully
+2024-11-18T11:45:11.969Z [error]: Error in Save Book: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+2024-11-18T11:45:11.971Z [error]: Error: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:46:21.575Z [error]: Error in Save Book: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+2024-11-18T11:46:21.578Z [error]: Error: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:46:57.437Z [info]: Server is running on port 3000
+2024-11-18T11:46:59.605Z [info]: MongoDB connected successfully
+2024-11-18T11:47:18.386Z [info]: Server is running on port 3000
+2024-11-18T11:47:23.404Z [info]: MongoDB connected successfully
+2024-11-18T11:47:26.189Z [info]: Server is running on port 3000
+2024-11-18T11:47:27.058Z [info]: MongoDB connected successfully
+2024-11-18T11:47:29.518Z [info]: Server is running on port 3000
+2024-11-18T11:47:30.122Z [info]: MongoDB connected successfully
+2024-11-18T11:47:31.853Z [error]: Error in Save Book: mongoose is not defined
+2024-11-18T11:47:31.854Z [error]: ReferenceError: mongoose is not defined
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\repositories\bookRepository.js:7:19)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:25:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:48:02.754Z [info]: Server is running on port 3000
+2024-11-18T11:48:03.962Z [info]: MongoDB connected successfully
+2024-11-18T11:48:13.208Z [info]: Server is running on port 3000
+2024-11-18T11:48:13.862Z [info]: MongoDB connected successfully
+2024-11-18T11:48:20.186Z [info]: Server is running on port 3000
+2024-11-18T11:48:20.803Z [info]: MongoDB connected successfully
+2024-11-18T11:48:33.827Z [info]: Server is running on port 3000
+2024-11-18T11:48:36.762Z [info]: MongoDB connected successfully
+2024-11-18T11:48:39.110Z [error]: Error in Save Book: No transaction started
+2024-11-18T11:48:39.111Z [error]: MongoTransactionError: No transaction started
+    at ClientSession.abortTransaction (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\sessions.js:367:19)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\repositories\bookRepository.js:21:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:49:31.371Z [info]: Server is running on port 3000
+2024-11-18T11:49:32.737Z [info]: MongoDB connected successfully
+2024-11-19T06:48:12.998Z [info]: Server is running on port 3000
+2024-11-19T06:48:14.215Z [info]: MongoDB connected successfully
+2024-11-19T08:14:21.427Z [info]: Server is running on port 3000
+2024-11-19T08:14:26.020Z [info]: MongoDB connected successfully
+2024-11-19T08:14:40.276Z [info]: Server is running on port 3000
+2024-11-19T08:14:41.449Z [info]: MongoDB connected successfully
+2024-11-19T08:15:55.012Z [info]: Server is running on port 3000
+2024-11-19T08:15:59.837Z [info]: MongoDB connected successfully
+2024-11-19T08:17:17.090Z [info]: Server is running on port 3000
+2024-11-19T08:17:19.039Z [info]: MongoDB connected successfully
+2024-11-19T08:19:02.275Z [info]: Server is running on port 3000
+2024-11-19T08:19:08.117Z [info]: MongoDB connected successfully
+2024-11-19T08:20:09.014Z [info]: Server is running on port 3000
+2024-11-19T08:20:11.847Z [info]: Server is running on port 3000
+2024-11-19T08:20:12.381Z [info]: MongoDB connected successfully
+2024-11-19T08:20:17.253Z [info]: Server is running on port 3000
+2024-11-19T08:20:17.803Z [info]: MongoDB connected successfully
+2024-11-19T08:20:27.571Z [info]: Server is running on port 3000
+2024-11-19T08:20:28.124Z [info]: MongoDB connected successfully
+2024-11-19T08:21:24.373Z [info]: Server is running on port 3000
+2024-11-19T08:21:31.231Z [info]: MongoDB connected successfully
+2024-11-19T08:21:39.276Z [info]: Server is running on port 3000
+2024-11-19T08:21:39.830Z [info]: MongoDB connected successfully
+2024-11-19T08:22:41.548Z [info]: Server is running on port 3000
+2024-11-19T08:22:45.863Z [info]: MongoDB connected successfully
+2024-11-19T08:22:48.840Z [info]: Server is running on port 3000
+2024-11-19T08:22:49.392Z [info]: MongoDB connected successfully
+2024-11-19T08:22:54.059Z [info]: Server is running on port 3000
+2024-11-19T08:22:55.638Z [info]: MongoDB connected successfully
+2024-11-19T08:22:59.019Z [info]: Server is running on port 3000
+2024-11-19T08:22:59.826Z [info]: MongoDB connected successfully
+2024-11-19T08:23:05.673Z [info]: Server is running on port 3000
+2024-11-19T08:23:06.248Z [info]: MongoDB connected successfully
+2024-11-19T08:26:29.345Z [info]: Server is running on port 3000
+2024-11-19T08:26:31.598Z [info]: Server is running on port 3000
+2024-11-19T08:26:34.946Z [info]: MongoDB connected successfully
+2024-11-19T08:26:47.593Z [info]: Server is running on port 3000
+2024-11-19T08:26:48.226Z [info]: MongoDB connected successfully
+2024-11-19T08:27:24.644Z [info]: Server is running on port 3000
+2024-11-19T08:27:25.809Z [info]: MongoDB connected successfully
+2024-11-19T08:28:01.368Z [info]: Server is running on port 3000
+2024-11-19T08:28:02.364Z [info]: MongoDB connected successfully
+2024-11-19T08:30:21.522Z [info]: Server is running on port 3000
+2024-11-19T08:30:22.984Z [info]: MongoDB connected successfully
+2024-11-19T08:30:47.374Z [info]: Server is running on port 3000
+2024-11-19T08:30:48.296Z [info]: MongoDB connected successfully
+2024-11-19T08:30:51.677Z [info]: Server is running on port 3000
+2024-11-19T08:30:52.216Z [info]: MongoDB connected successfully
+2024-11-19T08:31:09.262Z [info]: Server is running on port 3000
+2024-11-19T08:31:11.925Z [info]: MongoDB connected successfully
+2024-11-19T08:31:27.829Z [info]: Server is running on port 3000
+2024-11-19T08:31:28.842Z [info]: MongoDB connected successfully
+2024-11-19T08:32:01.166Z [info]: Server is running on port 3000
+2024-11-19T08:32:03.930Z [info]: Server is running on port 3000
+2024-11-19T08:32:04.524Z [info]: MongoDB connected successfully
+2024-11-19T08:32:10.231Z [info]: Server is running on port 3000
+2024-11-19T08:32:10.776Z [info]: MongoDB connected successfully
+2024-11-19T08:32:14.627Z [info]: Server is running on port 3000
+2024-11-19T08:32:15.226Z [info]: MongoDB connected successfully
+2024-11-19T08:32:32.037Z [info]: Server is running on port 3000
+2024-11-19T08:32:32.935Z [info]: MongoDB connected successfully
+2024-11-19T08:32:34.280Z [info]: Server is running on port 3000
+2024-11-19T08:32:38.773Z [info]: MongoDB connected successfully
+2024-11-19T08:32:41.656Z [info]: Server is running on port 3000
+2024-11-19T08:32:42.306Z [info]: MongoDB connected successfully
+2024-11-19T08:32:48.488Z [info]: Server is running on port 3000
+2024-11-19T08:32:49.023Z [info]: MongoDB connected successfully
+2024-11-19T08:32:50.676Z [info]: Server is running on port 3000
+2024-11-19T08:32:51.240Z [info]: MongoDB connected successfully
+2024-11-19T08:42:14.663Z [info]: Server is running on port 3000
+2024-11-19T08:42:16.075Z [info]: MongoDB connected successfully
+2024-11-19T08:42:39.845Z [info]: Server is running on port 3000
+2024-11-19T08:42:40.480Z [info]: MongoDB connected successfully
+2024-11-19T08:44:08.746Z [info]: Server is running on port 3000
+2024-11-19T08:44:11.599Z [info]: Server is running on port 3000
+2024-11-19T08:44:12.206Z [info]: MongoDB connected successfully
+2024-11-19T08:44:45.824Z [error]: Error in Save Book: E11000 duplicate key error collection: sms.books index: title_1 dup key: { title: "Physics" }
+2024-11-19T08:44:45.825Z [error]: MongoServerError: E11000 duplicate key error collection: sms.books index: title_1 dup key: { title: "Physics" }
+    at InsertOneOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async Collection.insertOne (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\collection.js:154:16)
+2024-11-19T08:44:57.490Z [info]: Server is running on port 3000
+2024-11-19T08:44:58.222Z [info]: MongoDB connected successfully
+2024-11-19T08:45:02.333Z [info]: Server is running on port 3000
+2024-11-19T08:45:03.219Z [info]: MongoDB connected successfully
+2024-11-19T08:45:18.842Z [info]: Server is running on port 3000
+2024-11-19T08:45:21.354Z [info]: MongoDB connected successfully
+2024-11-19T08:45:32.916Z [info]: Server is running on port 3000
+2024-11-19T08:45:33.472Z [info]: MongoDB connected successfully
+2024-11-19T08:45:34.897Z [info]: Server is running on port 3000
+2024-11-19T08:45:35.508Z [info]: MongoDB connected successfully
+2024-11-19T08:47:07.028Z [info]: Server is running on port 3000
+2024-11-19T08:47:07.782Z [info]: MongoDB connected successfully
+2024-11-19T08:47:15.347Z [info]: Server is running on port 3000
+2024-11-19T08:47:16.278Z [info]: MongoDB connected successfully
+2024-11-19T08:47:17.606Z [info]: Server is running on port 3000
+2024-11-19T08:47:18.129Z [info]: MongoDB connected successfully
+2024-11-19T08:47:25.112Z [info]: Server is running on port 3000
+2024-11-19T08:47:25.633Z [info]: MongoDB connected successfully
+2024-11-19T08:47:45.898Z [info]: Server is running on port 3000
+2024-11-19T08:47:46.421Z [info]: MongoDB connected successfully
+2024-11-19T08:47:51.900Z [info]: Server is running on port 3000
+2024-11-19T08:47:52.482Z [info]: MongoDB connected successfully
+2024-11-19T08:47:53.145Z [info]: Server is running on port 3000
+2024-11-19T08:47:53.752Z [info]: Server is running on port 3000
+2024-11-19T08:47:55.305Z [info]: MongoDB connected successfully
+2024-11-19T08:48:12.516Z [info]: Server is running on port 3000
+2024-11-19T08:48:15.392Z [info]: Server is running on port 3000
+2024-11-19T08:48:15.928Z [info]: MongoDB connected successfully
+2024-11-19T08:48:24.635Z [info]: Server is running on port 3000
+2024-11-19T08:48:25.537Z [info]: MongoDB connected successfully
+2024-11-19T08:48:27.377Z [info]: Server is running on port 3000
+2024-11-19T08:48:27.932Z [info]: MongoDB connected successfully
+2024-11-19T08:49:48.129Z [info]: Server is running on port 3000
+2024-11-19T08:49:50.505Z [info]: Server is running on port 3000
+2024-11-19T08:49:51.609Z [info]: MongoDB connected successfully
+2024-11-19T08:50:03.291Z [info]: Server is running on port 3000
+2024-11-19T08:50:04.075Z [info]: MongoDB connected successfully
+2024-11-19T08:50:07.545Z [info]: Server is running on port 3000
+2024-11-19T08:50:09.511Z [info]: MongoDB connected successfully
+2024-11-19T08:50:11.650Z [error]: Error in Save Book: TThis Physics already exists!
+2024-11-19T08:50:11.654Z [error]: Error: TThis Physics already exists!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-19T08:52:22.140Z [info]: Server is running on port 3000
+2024-11-19T08:52:23.705Z [info]: MongoDB connected successfully
+2024-11-19T08:52:56.315Z [info]: Server is running on port 3000
+2024-11-19T08:52:56.958Z [info]: MongoDB connected successfully
+2024-11-19T08:53:08.671Z [info]: Server is running on port 3000
+2024-11-19T08:53:13.644Z [info]: MongoDB connected successfully
+2024-11-19T08:53:31.294Z [info]: Server is running on port 3000
+2024-11-19T08:53:32.586Z [info]: MongoDB connected successfully
+2024-11-19T08:53:36.526Z [info]: Server is running on port 3000
+2024-11-19T08:53:37.087Z [info]: MongoDB connected successfully
+2024-11-19T08:54:00.189Z [info]: Server is running on port 3000
+2024-11-19T08:54:00.678Z [info]: MongoDB connected successfully
+2024-11-19T08:54:06.085Z [info]: Server is running on port 3000
+2024-11-19T08:54:06.771Z [info]: MongoDB connected successfully
+2024-11-19T08:55:04.221Z [info]: Server is running on port 3000
+2024-11-19T08:55:06.626Z [info]: MongoDB connected successfully
+2024-11-19T08:55:20.138Z [info]: Server is running on port 3000
+2024-11-19T08:55:21.575Z [info]: Server is running on port 3000
+2024-11-19T08:55:22.687Z [info]: MongoDB connected successfully
+2024-11-19T08:55:44.410Z [info]: Server is running on port 3000
+2024-11-19T08:55:44.957Z [info]: MongoDB connected successfully
+2024-11-19T08:55:58.861Z [info]: Server is running on port 3000
+2024-11-19T08:55:59.798Z [info]: MongoDB connected successfully
+2024-11-19T08:56:30.842Z [info]: Server is running on port 3000
+2024-11-19T08:56:32.663Z [info]: MongoDB connected successfully
+2024-11-19T08:56:40.045Z [info]: Server is running on port 3000
+2024-11-19T08:56:40.614Z [info]: MongoDB connected successfully
+2024-11-19T08:57:07.006Z [info]: Server is running on port 3000
+2024-11-19T08:57:07.539Z [info]: MongoDB connected successfully
+2024-11-19T08:57:15.900Z [info]: Server is running on port 3000
+2024-11-19T08:57:18.682Z [info]: MongoDB connected successfully
+2024-11-19T08:58:08.695Z [info]: Server is running on port 3000
+2024-11-19T08:58:10.122Z [info]: MongoDB connected successfully
+2024-11-19T08:58:34.242Z [info]: Server is running on port 3000
+2024-11-19T08:58:34.840Z [info]: MongoDB connected successfully
+2024-11-19T08:58:48.171Z [info]: Server is running on port 3000
+2024-11-19T08:58:48.728Z [info]: MongoDB connected successfully
+2024-11-19T08:58:56.039Z [info]: Server is running on port 3000
+2024-11-19T08:58:56.575Z [info]: MongoDB connected successfully
+2024-11-19T08:59:02.117Z [info]: Server is running on port 3000
+2024-11-19T08:59:02.678Z [info]: MongoDB connected successfully
+2024-11-19T08:59:04.328Z [info]: Server is running on port 3000
+2024-11-19T08:59:04.881Z [info]: MongoDB connected successfully
+2024-11-19T08:59:11.245Z [info]: Server is running on port 3000
+2024-11-19T08:59:12.605Z [info]: MongoDB connected successfully
+2024-11-19T09:00:48.670Z [info]: Server is running on port 3000
+2024-11-19T09:00:50.315Z [info]: MongoDB connected successfully
+2024-11-19T09:00:58.049Z [info]: Server is running on port 3000
+2024-11-19T09:00:58.617Z [info]: MongoDB connected successfully
+2024-11-19T09:01:07.839Z [info]: Server is running on port 3000
+2024-11-19T09:01:08.732Z [info]: MongoDB connected successfully
+2024-11-19T09:01:10.852Z [info]: Server is running on port 3000
+2024-11-19T09:01:11.455Z [info]: MongoDB connected successfully
+2024-11-19T09:05:06.359Z [info]: Server is running on port 3000
+2024-11-19T09:05:08.303Z [info]: MongoDB connected successfully
+2024-11-19T09:05:49.548Z [info]: Server is running on port 3000
+2024-11-19T09:05:50.349Z [info]: MongoDB connected successfully
+2024-11-19T09:07:55.001Z [info]: Server is running on port 3000
+2024-11-19T09:07:57.343Z [info]: Server is running on port 3000
+2024-11-19T09:07:59.443Z [info]: MongoDB connected successfully
+2024-11-19T09:08:09.503Z [info]: Server is running on port 3000
+2024-11-19T09:08:11.102Z [info]: MongoDB connected successfully
+2024-11-19T09:08:26.915Z [info]: Server is running on port 3000
+2024-11-19T09:08:27.445Z [info]: MongoDB connected successfully
+2024-11-19T09:08:40.667Z [info]: Server is running on port 3000
+2024-11-19T09:08:41.187Z [info]: MongoDB connected successfully
+2024-11-19T09:08:49.350Z [info]: Server is running on port 3000
+2024-11-19T09:08:49.973Z [info]: MongoDB connected successfully
+2024-11-19T09:08:52.197Z [info]: Server is running on port 3000
+2024-11-19T09:08:52.734Z [info]: MongoDB connected successfully
+2024-11-19T09:09:06.668Z [info]: Server is running on port 3000
+2024-11-19T09:09:07.605Z [info]: MongoDB connected successfully
+2024-11-19T09:09:08.720Z [info]: Server is running on port 3000
+2024-11-19T09:09:09.272Z [info]: MongoDB connected successfully
+2024-11-19T09:09:16.242Z [info]: Server is running on port 3000
+2024-11-19T09:09:16.781Z [info]: MongoDB connected successfully
+2024-11-19T09:10:23.006Z [info]: Server is running on port 3000
+2024-11-19T09:10:27.052Z [info]: MongoDB connected successfully
+2024-11-19T09:10:59.534Z [info]: Server is running on port 3000
+2024-11-19T09:11:00.400Z [info]: MongoDB connected successfully
+2024-11-19T09:11:35.092Z [info]: Server is running on port 3000
+2024-11-19T09:11:37.400Z [info]: MongoDB connected successfully
+2024-11-19T09:11:52.926Z [info]: Server is running on port 3000
+2024-11-19T09:11:53.480Z [info]: MongoDB connected successfully
+2024-11-19T09:11:56.901Z [info]: Server is running on port 3000
+2024-11-19T09:11:57.520Z [info]: MongoDB connected successfully
+2024-11-19T09:12:23.942Z [info]: Server is running on port 3000
+2024-11-19T09:12:24.746Z [info]: MongoDB connected successfully
+2024-11-19T09:13:24.149Z [info]: Server is running on port 3000
+2024-11-19T09:13:25.615Z [info]: MongoDB connected successfully
+2024-11-19T09:13:42.581Z [info]: Server is running on port 3000
+2024-11-19T09:13:43.141Z [info]: MongoDB connected successfully
+2024-11-19T09:13:55.263Z [info]: Server is running on port 3000
+2024-11-19T09:13:57.041Z [info]: MongoDB connected successfully
+2024-11-19T09:14:36.563Z [info]: Server is running on port 3000
+2024-11-19T09:14:44.643Z [info]: MongoDB connected successfully
+2024-11-19T09:14:48.436Z [info]: Server is running on port 3000
+2024-11-19T09:14:48.966Z [info]: MongoDB connected successfully
+2024-11-19T09:14:58.815Z [info]: Server is running on port 3000
+2024-11-19T09:14:59.841Z [info]: MongoDB connected successfully
+2024-11-19T09:15:05.624Z [info]: Server is running on port 3000
+2024-11-19T09:15:06.205Z [info]: MongoDB connected successfully
+2024-11-19T09:15:10.142Z [info]: Server is running on port 3000
+2024-11-19T09:15:10.815Z [info]: MongoDB connected successfully
+2024-11-19T09:15:29.687Z [info]: Server is running on port 3000
+2024-11-19T09:15:30.328Z [info]: MongoDB connected successfully
+2024-11-19T09:15:31.908Z [info]: Server is running on port 3000
+2024-11-19T09:15:32.452Z [info]: MongoDB connected successfully
+2024-11-19T09:15:45.357Z [info]: Server is running on port 3000
+2024-11-19T09:15:50.192Z [info]: MongoDB connected successfully
+2024-11-19T09:15:59.926Z [info]: Server is running on port 3000
+2024-11-19T09:16:00.807Z [info]: MongoDB connected successfully
+2024-11-19T09:16:08.229Z [info]: Server is running on port 3000
+2024-11-19T09:16:08.796Z [info]: MongoDB connected successfully
+2024-11-19T09:16:18.001Z [info]: Server is running on port 3000
+2024-11-19T09:16:18.963Z [info]: MongoDB connected successfully
+2024-11-19T09:16:22.800Z [info]: Server is running on port 3000
+2024-11-19T09:16:23.302Z [info]: MongoDB connected successfully
+2024-11-19T09:16:26.145Z [info]: Server is running on port 3000
+2024-11-19T09:16:26.709Z [info]: MongoDB connected successfully
+2024-11-19T09:17:00.341Z [info]: Server is running on port 3000
+2024-11-19T09:17:01.242Z [info]: MongoDB connected successfully
+2024-11-19T09:17:14.761Z [info]: Server is running on port 3000
+2024-11-19T09:17:15.483Z [info]: MongoDB connected successfully
+2024-11-19T09:17:32.064Z [info]: Server is running on port 3000
+2024-11-19T09:17:32.625Z [info]: MongoDB connected successfully
+2024-11-19T09:17:47.537Z [info]: Server is running on port 3000
+2024-11-19T09:17:48.223Z [info]: MongoDB connected successfully
+2024-11-19T09:18:05.392Z [info]: Server is running on port 3000
+2024-11-19T09:18:08.903Z [info]: Server is running on port 3000
+2024-11-19T09:18:09.454Z [info]: MongoDB connected successfully
+2024-11-19T09:18:30.498Z [info]: Server is running on port 3000
+2024-11-19T09:18:31.043Z [info]: MongoDB connected successfully
+2024-11-19T09:20:51.719Z [error]: Error in Save bookAuthor: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+2024-11-19T09:20:51.722Z [error]: Error: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:13:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:26:22)
+2024-11-19T09:21:03.830Z [info]: Server is running on port 3000
+2024-11-19T09:21:07.237Z [info]: MongoDB connected successfully
+2024-11-19T09:21:19.380Z [info]: Server is running on port 3000
+2024-11-19T09:21:21.888Z [info]: MongoDB connected successfully
+2024-11-19T09:21:44.020Z [info]: Server is running on port 3000
+2024-11-19T09:21:44.737Z [info]: MongoDB connected successfully
+2024-11-19T09:21:53.610Z [info]: Server is running on port 3000
+2024-11-19T09:21:54.176Z [info]: MongoDB connected successfully
+2024-11-19T09:21:59.334Z [info]: Server is running on port 3000
+2024-11-19T09:21:59.882Z [info]: MongoDB connected successfully
+2024-11-19T09:23:05.381Z [info]: Server is running on port 3000
+2024-11-19T09:23:07.339Z [info]: MongoDB connected successfully
+2024-11-19T09:23:12.319Z [error]: Error in Save bookAuthor: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+2024-11-19T09:23:12.323Z [error]: Error: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:13:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:26:22)
+2024-11-19T09:23:40.150Z [error]: Error in Save bookAuthor: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+2024-11-19T09:23:40.152Z [error]: Error: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:13:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:26:22)
+2024-11-19T09:23:53.580Z [info]: Server is running on port 3000
+2024-11-19T09:23:54.384Z [info]: MongoDB connected successfully
+2024-11-19T09:23:56.205Z [error]: Error in Save bookAuthor: BookAuthor validation failed: author: Path `author` is required., book: Path `book` is required.
+2024-11-19T09:23:56.207Z [error]: ValidationError: BookAuthor validation failed: author: Path `author` is required., book: Path `book` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-19T09:25:13.555Z [info]: Server is running on port 3000
+2024-11-19T09:25:14.693Z [info]: MongoDB connected successfully
+2024-11-19T09:25:21.645Z [info]: Server is running on port 3000
+2024-11-19T09:25:22.178Z [info]: MongoDB connected successfully
+2024-11-19T09:25:24.572Z [error]: Error in Save bookAuthor: BookAuthor validation failed: book: Path `book` is required.
+2024-11-19T09:25:24.574Z [error]: ValidationError: BookAuthor validation failed: book: Path `book` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-19T09:25:46.187Z [info]: Server is running on port 3000
+2024-11-19T09:25:46.716Z [info]: MongoDB connected successfully
+2024-11-19T09:31:02.648Z [info]: Server is running on port 3000
+2024-11-19T09:31:09.242Z [info]: Server is running on port 3000
+2024-11-19T09:31:09.792Z [info]: MongoDB connected successfully
+2024-11-19T09:31:23.984Z [info]: Server is running on port 3000
+2024-11-19T09:31:24.601Z [info]: MongoDB connected successfully
+2024-11-19T09:31:34.122Z [info]: Server is running on port 3000
+2024-11-19T09:31:34.674Z [info]: MongoDB connected successfully
+2024-11-19T09:31:35.482Z [info]: Server is running on port 3000
+2024-11-19T09:31:36.173Z [info]: MongoDB connected successfully
+2024-11-19T09:31:39.703Z [info]: Server is running on port 3000
+2024-11-19T09:31:40.264Z [info]: MongoDB connected successfully
+2024-11-19T09:32:13.985Z [info]: Server is running on port 3000
+2024-11-19T09:32:17.173Z [info]: MongoDB connected successfully
+2024-11-19T09:33:04.229Z [info]: Server is running on port 3000
+2024-11-19T09:33:04.723Z [info]: MongoDB connected successfully
+2024-11-19T09:33:15.897Z [info]: Server is running on port 3000
+2024-11-19T09:33:17.699Z [info]: Server is running on port 3000
+2024-11-19T09:33:18.270Z [info]: MongoDB connected successfully
+2024-11-19T09:34:09.547Z [info]: Server is running on port 3000
+2024-11-19T09:34:10.748Z [info]: MongoDB connected successfully
+2024-11-19T09:34:12.738Z [error]: Error in Save bookAuthor: The Author with this Book already assigned!
+2024-11-19T09:34:12.742Z [error]: Error: The Author with this Book already assigned!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:29:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:26:22)
+2024-11-19T09:39:42.655Z [info]: Server is running on port 3000
+2024-11-19T09:39:44.741Z [info]: Server is running on port 3000
+2024-11-19T09:39:45.567Z [info]: MongoDB connected successfully
+2024-11-19T09:40:47.945Z [info]: Server is running on port 3000
+2024-11-19T09:40:48.926Z [info]: MongoDB connected successfully
+2024-11-19T09:41:19.340Z [info]: Server is running on port 3000
+2024-11-19T09:41:22.338Z [info]: MongoDB connected successfully
+2024-11-19T09:41:46.820Z [info]: Server is running on port 3000
+2024-11-19T09:41:47.530Z [info]: MongoDB connected successfully
+2024-11-19T10:18:00.929Z [info]: Server is running on port 3000
+2024-11-19T10:18:04.229Z [info]: MongoDB connected successfully
+2024-11-19T10:18:13.569Z [info]: Server is running on port 3000
+2024-11-19T10:18:14.109Z [info]: MongoDB connected successfully
+2024-11-19T10:18:19.630Z [info]: Server is running on port 3000
+2024-11-19T10:18:20.161Z [info]: MongoDB connected successfully
+2024-11-19T10:18:37.027Z [info]: Server is running on port 3000
+2024-11-19T10:18:37.780Z [info]: MongoDB connected successfully
+2024-11-19T10:18:42.856Z [info]: Server is running on port 3000
+2024-11-19T10:18:43.394Z [info]: MongoDB connected successfully
+2024-11-19T10:19:58.554Z [info]: Server is running on port 3000
+2024-11-19T10:20:05.280Z [info]: MongoDB connected successfully
+2024-11-19T10:20:08.682Z [info]: Server is running on port 3000
+2024-11-19T10:20:09.290Z [info]: MongoDB connected successfully
+2024-11-19T10:20:47.881Z [info]: Server is running on port 3000
+2024-11-19T10:20:48.399Z [info]: MongoDB connected successfully
+2024-11-19T10:22:52.026Z [info]: Server is running on port 3000
+2024-11-19T10:22:55.486Z [info]: MongoDB connected successfully
+2024-11-19T10:22:57.884Z [info]: Server is running on port 3000
+2024-11-19T10:22:58.421Z [info]: MongoDB connected successfully
+2024-11-19T10:23:13.142Z [info]: Server is running on port 3000
+2024-11-19T10:23:14.101Z [info]: MongoDB connected successfully
+2024-11-19T10:23:23.700Z [info]: Server is running on port 3000
+2024-11-19T10:23:24.261Z [info]: MongoDB connected successfully
+2024-11-19T10:23:44.599Z [info]: Server is running on port 3000
+2024-11-19T10:23:45.164Z [info]: MongoDB connected successfully
+2024-11-19T10:23:47.674Z [info]: Server is running on port 3000
+2024-11-19T10:23:48.273Z [info]: MongoDB connected successfully
+2024-11-19T10:24:04.917Z [info]: Server is running on port 3000
+2024-11-19T10:24:06.782Z [info]: MongoDB connected successfully
+2024-11-19T10:25:12.643Z [info]: Server is running on port 3000
+2024-11-19T10:25:14.812Z [info]: MongoDB connected successfully
+2024-11-19T10:25:17.514Z [info]: Server is running on port 3000
+2024-11-19T10:25:18.037Z [info]: MongoDB connected successfully
+2024-11-19T10:25:20.294Z [info]: Server is running on port 3000
+2024-11-19T10:25:20.920Z [info]: MongoDB connected successfully
+2024-11-19T10:25:22.459Z [info]: Server is running on port 3000
+2024-11-19T10:25:23.018Z [info]: MongoDB connected successfully
+2024-11-19T10:25:47.724Z [info]: Server is running on port 3000
+2024-11-19T10:25:48.614Z [info]: MongoDB connected successfully
+2024-11-19T10:25:49.809Z [info]: Server is running on port 3000
+2024-11-19T10:25:51.454Z [info]: MongoDB connected successfully
+2024-11-19T10:26:02.403Z [info]: Server is running on port 3000
+2024-11-19T10:26:04.079Z [info]: MongoDB connected successfully
+2024-11-19T10:26:56.623Z [info]: Server is running on port 3000
+2024-11-19T10:26:57.800Z [info]: MongoDB connected successfully
+2024-11-19T10:27:19.704Z [info]: Server is running on port 3000
+2024-11-19T10:27:20.371Z [info]: MongoDB connected successfully
+2024-11-19T10:27:21.495Z [info]: Server is running on port 3000
+2024-11-19T10:27:22.104Z [info]: MongoDB connected successfully
+2024-11-19T10:29:26.990Z [info]: Server is running on port 3000
+2024-11-19T10:29:29.507Z [info]: Server is running on port 3000
+2024-11-19T10:29:32.697Z [info]: MongoDB connected successfully
+2024-11-19T10:29:43.960Z [info]: Server is running on port 3000
+2024-11-19T10:29:46.868Z [info]: MongoDB connected successfully
+2024-11-19T10:30:17.740Z [info]: Server is running on port 3000
+2024-11-19T10:30:28.478Z [info]: MongoDB connected successfully
+2024-11-19T10:30:52.091Z [info]: Server is running on port 3000
+2024-11-19T10:30:53.909Z [info]: MongoDB connected successfully
+2024-11-19T10:31:15.658Z [info]: Server is running on port 3000
+2024-11-19T10:31:19.460Z [info]: MongoDB connected successfully
+2024-11-19T10:31:23.978Z [info]: Server is running on port 3000
+2024-11-19T10:31:25.651Z [info]: MongoDB connected successfully
+2024-11-19T10:31:52.169Z [info]: Server is running on port 3000
+2024-11-19T10:31:52.772Z [info]: MongoDB connected successfully
+2024-11-19T10:32:13.134Z [info]: Server is running on port 3000
+2024-11-19T10:32:17.177Z [info]: MongoDB connected successfully
+2024-11-19T10:34:19.908Z [info]: Server is running on port 3000
+2024-11-19T10:34:34.056Z [info]: Server is running on port 3000
+2024-11-19T10:34:38.369Z [info]: MongoDB connected successfully
+2024-11-19T10:35:36.658Z [info]: Server is running on port 3000
+2024-11-19T10:35:37.880Z [info]: MongoDB connected successfully
+2024-11-19T10:36:02.190Z [info]: Server is running on port 3000
+2024-11-19T10:36:05.715Z [info]: MongoDB connected successfully
+2024-11-19T10:36:12.558Z [info]: Server is running on port 3000
+2024-11-19T10:36:17.498Z [info]: Server is running on port 3000
+2024-11-19T10:36:20.212Z [info]: Server is running on port 3000
+2024-11-19T10:36:21.784Z [info]: MongoDB connected successfully
+2024-11-19T10:36:55.566Z [info]: Server is running on port 3000
+2024-11-19T10:36:57.336Z [info]: Server is running on port 3000
+2024-11-19T10:37:01.165Z [info]: MongoDB connected successfully
+2024-11-19T10:37:08.463Z [info]: Server is running on port 3000
+2024-11-19T10:37:09.060Z [info]: MongoDB connected successfully
+2024-11-19T10:37:10.695Z [info]: Server is running on port 3000
+2024-11-19T10:37:11.441Z [info]: MongoDB connected successfully
+2024-11-19T10:37:20.074Z [info]: Server is running on port 3000
+2024-11-19T10:37:21.690Z [info]: MongoDB connected successfully
+2024-11-19T10:37:39.668Z [info]: Server is running on port 3000
+2024-11-19T10:37:40.261Z [info]: MongoDB connected successfully
+2024-11-19T10:37:41.383Z [error]: Error in Fetch Books: bookAuthorData is not defined
+2024-11-19T10:37:41.386Z [error]: ReferenceError: bookAuthorData is not defined
+    at exports.getBooksByAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:28:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.getBookAuthors (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:8:28)
+2024-11-19T10:38:41.872Z [info]: Server is running on port 3000
+2024-11-19T10:38:44.660Z [info]: MongoDB connected successfully
+2024-11-19T10:38:52.050Z [info]: Server is running on port 3000
+2024-11-19T10:38:53.599Z [info]: MongoDB connected successfully
+2024-11-19T10:39:02.198Z [info]: Server is running on port 3000
+2024-11-19T10:39:02.752Z [info]: MongoDB connected successfully
+2024-11-19T10:39:08.807Z [info]: Server is running on port 3000
+2024-11-19T10:39:09.674Z [info]: MongoDB connected successfully
+2024-11-19T10:39:10.866Z [error]: Error in Fetch Books: The Author with this id 673c4d600bc44b6530cd2459 is not found!
+2024-11-19T10:39:10.868Z [error]: Error: The Author with this id 673c4d600bc44b6530cd2459 is not found!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.getBooksByAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:24:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.getBookAuthors (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:8:28)
+2024-11-19T10:39:43.313Z [info]: Server is running on port 3000
+2024-11-19T10:39:44.587Z [info]: MongoDB connected successfully
+2024-11-19T10:39:46.069Z [info]: Server is running on port 3000
+2024-11-19T10:39:49.773Z [info]: MongoDB connected successfully
+2024-11-19T10:39:51.520Z [info]: Server is running on port 3000
+2024-11-19T10:39:53.102Z [info]: MongoDB connected successfully
+2024-11-19T10:40:25.458Z [info]: Server is running on port 3000
+2024-11-19T10:40:27.293Z [info]: MongoDB connected successfully
+2024-11-19T10:40:44.093Z [info]: Server is running on port 3000
+2024-11-19T10:40:44.707Z [info]: MongoDB connected successfully
+2024-11-19T10:41:03.667Z [info]: Server is running on port 3000
+2024-11-19T10:41:08.601Z [info]: MongoDB connected successfully
+2024-11-19T10:41:28.597Z [info]: Server is running on port 3000
+2024-11-19T10:41:30.166Z [info]: MongoDB connected successfully
+2024-11-19T10:41:48.246Z [info]: Server is running on port 3000
+2024-11-19T10:41:51.295Z [info]: Server is running on port 3000
+2024-11-19T10:41:51.923Z [info]: MongoDB connected successfully
+2024-11-19T11:15:40.047Z [error]: Error in Save Article: Article Code and Article Name must be unique
+2024-11-19T11:15:40.049Z [error]: Error: Article Code and Article Name must be unique
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveArticle (E:\durulhoda\nodetutorial\ecom\services\articleService.js:23:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveArticle (E:\durulhoda\nodetutorial\ecom\controllers\articleController.js:26:20)
+2024-11-20T03:10:03.094Z [info]: Server is running on port 3000
+2024-11-20T03:10:05.997Z [info]: MongoDB connected successfully
+2024-11-20T05:40:58.480Z [info]: Server is running on port 3000
+2024-11-20T05:41:02.401Z [info]: MongoDB connected successfully
+2024-11-20T06:04:43.127Z [info]: Server is running on port 3000
+2024-11-20T06:04:44.451Z [info]: MongoDB connected successfully
+2024-11-20T06:06:58.628Z [info]: Server is running on port 3000
+2024-11-20T06:06:59.794Z [info]: MongoDB connected successfully
+2024-11-20T06:07:01.621Z [info]: Server is running on port 3000
+2024-11-20T06:07:02.147Z [info]: MongoDB connected successfully

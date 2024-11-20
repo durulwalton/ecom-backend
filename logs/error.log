@@ -1,0 +1,353 @@
+2024-11-16T09:03:11.787Z [error]: Error in Edit Role:
+2024-11-16T09:03:11.790Z [error]: Error: Role With the given id 67346f5748bd211a3824adb8 is not found!
+    at Object.editRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:40:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async editRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:79:18)
+2024-11-16T09:04:12.132Z [error]: Error in Edit Role:
+2024-11-16T09:04:12.133Z [error]: Error: Role With the given id 67346f5748bd211a3824adb8 is not found!
+    at Object.editRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:35:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async editRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:79:18)
+2024-11-16T09:05:37.614Z [error]: Error in Edit Role:
+2024-11-16T09:05:37.614Z [error]: Error: Role With the given id 67346f5748bd211a3824adb8 is not found!
+    at Object.editRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:35:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async editRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:79:18)
+2024-11-16T09:06:51.573Z [error]: Error in Edit Role:
+2024-11-16T09:06:51.577Z [error]: Error: Role With the given id 67346f5748bd211a3824adb8 is not found!
+    at Object.editRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:35:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async editRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:79:18)
+2024-11-16T09:23:49.954Z [error]: Error in Save Role: Role With the given id 6738273516de8a83245e2349 is not found!
+2024-11-16T09:23:49.955Z [error]: Error: Role With the given id 6738273516de8a83245e2349 is not found!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:76:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:24:02.499Z [error]: Error in Save Role: Cast to ObjectId failed for value "6738273516de8a832" (type string) at path "_id" for model "Role"
+2024-11-16T09:24:02.500Z [error]: CastError: Cast to ObjectId failed for value "6738273516de8a832" (type string) at path "_id" for model "Role"
+    at SchemaObjectId.cast (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schema\objectId.js:250:11)
+    at SchemaType.applySetters (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1236:12)
+    at SchemaType.castForQuery (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1653:17)
+    at cast (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\cast.js:390:32)
+    at Query.cast (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4908:12)
+    at Query._castConditions (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2302:10)
+    at model.Query._findOne (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2626:8)
+    at model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:80)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:74:16)
+2024-11-16T09:24:28.656Z [error]: Error in Save Role: Role With the given id 6738273516de8a83245e2349 is not found!
+2024-11-16T09:24:28.657Z [error]: Error: Role With the given id 6738273516de8a83245e2349 is not found!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:76:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:36:16.861Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:36:16.864Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:81:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:36:31.258Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:36:31.259Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:81:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:40:24.788Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:40:24.792Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:84:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:40:29.159Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:40:29.160Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:84:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:40:45.949Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:40:45.950Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:84:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:41:02.689Z [error]: Error in Save Role: This Administrator already exists!
+2024-11-16T09:41:02.690Z [error]: Error: This Administrator already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:84:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:41:12.167Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T09:41:12.168Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:84:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T09:43:01.491Z [error]: Error in Save Role: This Administrator already exists!
+2024-11-16T09:43:01.495Z [error]: Error: This Administrator already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:87:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T10:23:11.588Z [error]: Error in Save Role: User is not defined
+2024-11-16T10:23:11.632Z [error]: ReferenceError: User is not defined
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\repositories\roleRepository.js:59:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T10:32:56.884Z [error]: Error in Save Role: Cannot read properties of undefined (reading 'length')
+2024-11-16T10:32:56.888Z [error]: TypeError: Cannot read properties of undefined (reading 'length')
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:91:58)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T10:38:35.840Z [error]: Error in Save Role: Please Select at least one Resource!
+2024-11-16T10:38:35.841Z [error]: Error: Please Select at least one Resource!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:95:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:103:16)
+2024-11-16T10:45:18.401Z [error]: Error in Save Role: session is not defined
+2024-11-16T10:45:18.402Z [error]: ReferenceError: session is not defined
+    at updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:101:63)
+    at Layer.handle [as handle_request] (E:\durulhoda\nodetutorial\ecom\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\durulhoda\nodetutorial\ecom\node_modules\express\lib\router\route.js:149:13)
+    at authMiddleware (E:\durulhoda\nodetutorial\ecom\middlewares\authMiddleware.js:25:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2024-11-16T10:46:26.067Z [error]: Error in Save Role: Permisssion.bulkWrite1 is not a function
+2024-11-16T10:46:26.068Z [error]: TypeError: Permisssion.bulkWrite1 is not a function
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\repositories\roleRepository.js:63:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:101:16)
+2024-11-16T10:50:42.533Z [error]: Error in Save Role: This Admin already exists!
+2024-11-16T10:50:42.537Z [error]: Error: This Admin already exists!
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:51:31.706Z [error]: Error in Save Role: Cannot read properties of null (reading 'name')
+2024-11-16T10:51:31.708Z [error]: TypeError: Cannot read properties of null (reading 'name')
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:33:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:52:48.086Z [error]: Error in Save Role: Cannot read properties of null (reading 'name')
+2024-11-16T10:52:48.091Z [error]: TypeError: Cannot read properties of null (reading 'name')
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:33:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:54:04.764Z [error]: Error in Save Role: Cannot read properties of null (reading 'name')
+2024-11-16T10:54:04.765Z [error]: TypeError: Cannot read properties of null (reading 'name')
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:33:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:54:14.755Z [error]: Error in Save Role: Cannot read properties of undefined (reading 'map')
+2024-11-16T10:54:14.756Z [error]: TypeError: Cannot read properties of undefined (reading 'map')
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\repositories\roleRepository.js:24:46)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:55:25.409Z [error]: Error in Save Role: Please Select at least one Resource!
+2024-11-16T10:55:25.410Z [error]: Error: Please Select at least one Resource!
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:42:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T10:56:31.948Z [error]: Error in Save Role: This Employee already exists!
+2024-11-16T10:56:31.949Z [error]: Error: This Employee already exists!
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-16T11:10:04.250Z [error]: Error in register: User validation failed: createdBy: Path `createdBy` is required., role: Path `role` is required.
+2024-11-16T11:10:04.251Z [error]: ValidationError: User validation failed: createdBy: Path `createdBy` is required., role: Path `role` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-16T11:12:52.505Z [error]: Error in register: User validation failed: role: Path `role` is required.
+2024-11-16T11:12:52.506Z [error]: ValidationError: User validation failed: role: Path `role` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-17T03:33:32.132Z [error]: Error in register: E11000 duplicate key error collection: sms.users index: phoneNumber_1 dup key: { phoneNumber: "01726720773" }
+2024-11-17T03:33:32.132Z [error]: MongoServerError: E11000 duplicate key error collection: sms.users index: phoneNumber_1 dup key: { phoneNumber: "01726720773" }
+    at InsertOneOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async Collection.insertOne (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\collection.js:154:16)
+2024-11-17T03:49:16.941Z [error]: Error in register: This User already Registered!
+2024-11-17T03:49:16.942Z [error]: Error: This User already Registered!
+    at exports.registerUser (E:\durulhoda\nodetutorial\ecom\services\userService.js:9:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.register (E:\durulhoda\nodetutorial\ecom\controllers\userController.js:9:18)
+2024-11-17T03:54:16.142Z [error]: Error in register: This User already Registered!
+2024-11-17T03:54:16.143Z [error]: Error: This User already Registered!
+    at exports.registerUser (E:\durulhoda\nodetutorial\ecom\services\userService.js:9:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.register (E:\durulhoda\nodetutorial\ecom\controllers\userController.js:9:18)
+2024-11-17T05:03:13.044Z [error]: Error in register: This User already Registered!
+2024-11-17T05:03:13.047Z [error]: Error: This User already Registered!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.registerUser (E:\durulhoda\nodetutorial\ecom\services\userService.js:10:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.register (E:\durulhoda\nodetutorial\ecom\controllers\userController.js:9:18)
+2024-11-17T05:03:17.555Z [error]: Error in register: This User already Registered!
+2024-11-17T05:03:17.555Z [error]: Error: This User already Registered!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.registerUser (E:\durulhoda\nodetutorial\ecom\services\userService.js:10:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.register (E:\durulhoda\nodetutorial\ecom\controllers\userController.js:9:18)
+2024-11-17T05:41:52.325Z [error]: Error in register: This User already Registered!
+2024-11-17T05:41:52.326Z [error]: Error: This User already Registered!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.registerUser (E:\durulhoda\nodetutorial\ecom\services\userService.js:10:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.register (E:\durulhoda\nodetutorial\ecom\controllers\userController.js:9:18)
+2024-11-18T03:19:47.616Z [error]: Error in Save Role: This Admin already exists!
+2024-11-18T03:19:47.619Z [error]: Error: This Admin already exists!
+    at Object.updateRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:103:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async updateRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:101:16)
+2024-11-18T05:12:28.151Z [error]: Error in Save Role: Please Select at least one Resource!
+2024-11-18T05:12:28.156Z [error]: Error: Please Select at least one Resource!
+    at Object.saveRole (E:\durulhoda\nodetutorial\ecom\services\roleService.js:42:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async saveRole (E:\durulhoda\nodetutorial\ecom\controllers\roleController.js:61:16)
+2024-11-18T05:13:14.329Z [error]: Error in Save Resource: Resource.save is not a function
+2024-11-18T05:13:14.330Z [error]: TypeError: Resource.save is not a function
+    at exports.saveResource (E:\durulhoda\nodetutorial\ecom\repositories\resourceRepository.js:18:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveResource (E:\durulhoda\nodetutorial\ecom\controllers\resourceController.js:12:20)
+2024-11-18T05:22:15.784Z [error]: Error in Fetch Roles: roleService is not defined
+2024-11-18T08:40:10.738Z [error]: Error in Save Resource: E11000 duplicate key error collection: sms.resources index: name_1 dup key: { name: "Article" }
+2024-11-18T08:40:10.742Z [error]: MongoServerError: E11000 duplicate key error collection: sms.resources index: name_1 dup key: { name: "Article" }
+    at InsertOneOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async Collection.insertOne (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\collection.js:154:16)
+2024-11-18T08:44:13.340Z [error]: Error in Fetch Roles: Cannot populate path `chld` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-11-18T08:44:13.343Z [error]: StrictPopulateError: Cannot populate path `chld` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4316:21)
+    at _populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4276:5)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4248:5
+    at new Promise (<anonymous>)
+    at Function.populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4247:10)
+    at model.Query._find (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2384:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:63)
+    at async exports.getArticles (E:\durulhoda\nodetutorial\ecom\controllers\articleController.js:6:25)
+2024-11-18T08:56:50.953Z [error]: Error in Save Article: Article Code and Article Name must be unique
+2024-11-18T08:56:50.956Z [error]: Error: Article Code and Article Name must be unique
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveArticle (E:\durulhoda\nodetutorial\ecom\services\articleService.js:23:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveArticle (E:\durulhoda\nodetutorial\ecom\controllers\articleController.js:26:20)
+2024-11-18T11:01:02.698Z [error]: Error in Save Resource: E11000 duplicate key error collection: sms.resources index: name_1 dup key: { name: "All" }
+2024-11-18T11:01:02.702Z [error]: MongoServerError: E11000 duplicate key error collection: sms.resources index: name_1 dup key: { name: "All" }
+    at InsertOneOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async Collection.insertOne (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\collection.js:154:16)
+2024-11-18T11:16:13.611Z [error]: Error in Save Article: Article Code and Article Name must be unique
+2024-11-18T11:16:13.615Z [error]: Error: Article Code and Article Name must be unique
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveArticle (E:\durulhoda\nodetutorial\ecom\services\articleService.js:23:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveArticle (E:\durulhoda\nodetutorial\ecom\controllers\articleController.js:26:20)
+2024-11-18T11:41:47.907Z [error]: Error in Save Book: Author with the given id 673b221b7a7d41d4cf86f9fc
+2024-11-18T11:41:47.908Z [error]: Error: Author with the given id 673b221b7a7d41d4cf86f9fc
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:42:13.845Z [error]: Error in Save Book: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+2024-11-18T11:42:13.847Z [error]: Error: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:42:47.175Z [error]: Error in Save Book: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+2024-11-18T11:42:47.179Z [error]: Error: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:45:11.969Z [error]: Error in Save Book: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+2024-11-18T11:45:11.971Z [error]: Error: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:46:21.575Z [error]: Error in Save Book: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+2024-11-18T11:46:21.578Z [error]: Error: Author with the given id 673b221b7a7d41d4cf86f9fc not found
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:47:31.853Z [error]: Error in Save Book: mongoose is not defined
+2024-11-18T11:47:31.854Z [error]: ReferenceError: mongoose is not defined
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\repositories\bookRepository.js:7:19)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:25:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-18T11:48:39.110Z [error]: Error in Save Book: No transaction started
+2024-11-18T11:48:39.111Z [error]: MongoTransactionError: No transaction started
+    at ClientSession.abortTransaction (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\sessions.js:367:19)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\repositories\bookRepository.js:21:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-19T08:44:45.824Z [error]: Error in Save Book: E11000 duplicate key error collection: sms.books index: title_1 dup key: { title: "Physics" }
+2024-11-19T08:44:45.825Z [error]: MongoServerError: E11000 duplicate key error collection: sms.books index: title_1 dup key: { title: "Physics" }
+    at InsertOneOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:51:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async Collection.insertOne (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\collection.js:154:16)
+2024-11-19T08:50:11.650Z [error]: Error in Save Book: TThis Physics already exists!
+2024-11-19T08:50:11.654Z [error]: Error: TThis Physics already exists!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBook (E:\durulhoda\nodetutorial\ecom\services\bookService.js:12:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBook (E:\durulhoda\nodetutorial\ecom\controllers\bookController.js:26:16)
+2024-11-19T09:20:51.719Z [error]: Error in Save bookAuthor: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+2024-11-19T09:20:51.722Z [error]: Error: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:13:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:26:22)
+2024-11-19T09:23:12.319Z [error]: Error in Save bookAuthor: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+2024-11-19T09:23:12.323Z [error]: Error: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:13:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:26:22)
+2024-11-19T09:23:40.150Z [error]: Error in Save bookAuthor: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+2024-11-19T09:23:40.152Z [error]: Error: The Book with this id 673c4d560bc44b6530cd2452 is not found!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:13:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:26:22)
+2024-11-19T09:23:56.205Z [error]: Error in Save bookAuthor: BookAuthor validation failed: author: Path `author` is required., book: Path `book` is required.
+2024-11-19T09:23:56.207Z [error]: ValidationError: BookAuthor validation failed: author: Path `author` is required., book: Path `book` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-19T09:25:24.572Z [error]: Error in Save bookAuthor: BookAuthor validation failed: book: Path `book` is required.
+2024-11-19T09:25:24.574Z [error]: ValidationError: BookAuthor validation failed: book: Path `book` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-19T09:34:12.738Z [error]: Error in Save bookAuthor: The Author with this Book already assigned!
+2024-11-19T09:34:12.742Z [error]: Error: The Author with this Book already assigned!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:29:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveBookAuthor (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:26:22)
+2024-11-19T10:37:41.383Z [error]: Error in Fetch Books: bookAuthorData is not defined
+2024-11-19T10:37:41.386Z [error]: ReferenceError: bookAuthorData is not defined
+    at exports.getBooksByAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:28:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.getBookAuthors (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:8:28)
+2024-11-19T10:39:10.866Z [error]: Error in Fetch Books: The Author with this id 673c4d600bc44b6530cd2459 is not found!
+2024-11-19T10:39:10.868Z [error]: Error: The Author with this id 673c4d600bc44b6530cd2459 is not found!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.getBooksByAuthor (E:\durulhoda\nodetutorial\ecom\services\bookAuthorService.js:24:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.getBookAuthors (E:\durulhoda\nodetutorial\ecom\controllers\bookAuthorController.js:8:28)
+2024-11-19T11:15:40.047Z [error]: Error in Save Article: Article Code and Article Name must be unique
+2024-11-19T11:15:40.049Z [error]: Error: Article Code and Article Name must be unique
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveArticle (E:\durulhoda\nodetutorial\ecom\services\articleService.js:23:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveArticle (E:\durulhoda\nodetutorial\ecom\controllers\articleController.js:26:20)

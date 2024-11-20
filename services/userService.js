@@ -1,22 +1,27 @@
-const userRepository = require('../repositories/userRepository');
+const userRepo = require("../repositories/userRepository");
+const throwError = require("../utils/throwError");
 
-class UserService {
-    async getUserById(userId) {
-        return await userRepository.findById(userId);
-    }
+exports.registerUser = async (userData) => {
+  const { email, phoneNumber } = userData;
+  const user = await userRepo.findByFields({
+    $or: [{ email }, { phoneNumber }],
+  });
+  if (user) {
+    throw throwError(`This User already Registered!`, 400);
+  }
+  return userRepo.createUser(userData);
+};
 
-    async createUser(userData) {
-        // Add any business logic here, e.g., validation or additional data processing
-        return await userRepository.createUser(userData);
-    }
-
-    async updateUser(userId, updateData) {
-        return await userRepository.updateUser(userId, updateData);
-    }
-
-    async deleteUser(userId) {
-        return await userRepository.deleteUser(userId);
-    }
-}
-
-module.exports = new UserService();
+exports.authenticateUser = async (email, password) => {
+  const user = await userRepo.findByEmail(email);
+  if (user && (await user.matchPassword(password))) {
+    return user;
+  }
+  return null;
+};
+exports.getUserById = async (id) => {
+  return userRepo.findUserById(id);
+};
+exports.findAuthUserById = async (id) => {
+  return userRepo.findAuthUserById(id);
+};
