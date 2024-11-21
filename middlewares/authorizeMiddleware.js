@@ -36,7 +36,7 @@ exports.read = async (req, res, next) => {
     return res.status(403).json({
       appStatus: false,
       appCode: 403,
-      appMessage: "Access denied: insufficient permissions.1",
+      appMessage: "Access denied: insufficient permissions.",
       data: null,
     });
   }

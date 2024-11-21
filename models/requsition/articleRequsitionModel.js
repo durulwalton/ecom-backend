@@ -18,6 +18,20 @@ const articleRequsitionSchema = new Schema(
       ref: "Supplier",
       default: null,
     },
+    approvedStage: {
+      type: Number,
+      required: true,
+      default: 1,
+    },
+    totalApprover: {
+      type: Number,
+    },
+    approvedStatus: {
+      type: String,
+      required: true,
+      enum: ["pending", "approved", "rejected"],
+      default: "pending",
+    },
     status: {
       type: Number,
       required: true,

@@ -8,6 +8,7 @@ const articleRoutes = require("./routes/articleRoutes");
 const bookRoutes = require("./routes/bookRoutes");
 const authorRoutes = require("./routes/authorRoutes");
 const bookAuthorRoutes = require("./routes/bookAuthorRoutes");
+const fileApproverRoutes = require("./routes/fileApproverRoutes");
 const errorHandler = require("./middlewares/errorHandler");
 const { connectDB } = require("./config/db");
 const app = express();
@@ -33,6 +34,7 @@ app.use("/api/articles", articleRoutes);
 app.use("/api/books", bookRoutes);
 app.use("/api/authors", authorRoutes);
 app.use("/api/books-authors", bookAuthorRoutes);
+app.use("/api/file-approvers", fileApproverRoutes);
 
 // Error Handling Middleware
 app.use(errorHandler);

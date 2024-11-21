@@ -9,7 +9,7 @@ exports.saveBook = async (bookData) => {
     title: bookData.title,
   });
   if (checkBook) {
-    throw throwError(`TThis ${bookData.title} already exists!`, 400);
+    throw throwError(`This ${bookData.title} already exists!`, 400);
   }
   return bookRepo.saveBook(bookData);
 };
