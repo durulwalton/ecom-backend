@@ -3,21 +3,15 @@ const { Schema } = mongoose;
 
 const articleRequsitionChldSchema = new Schema(
   {
-    articleRequsition: {
-      type: Schema.Types.ObjectId,
-      ref: "ArticleRequsition",
-      required: true,
-    },
     article: {
       type: Schema.Types.ObjectId,
       ref: "Article",
       required: true,
     },
-    size: {
-      type: String,
-    },
-    color: {
-      type: String,
+    articleChld: {
+      type: Schema.Types.ObjectId,
+      ref: "ArticleChld",
+      required: true,
     },
     purchase_rate: {
       type: String,

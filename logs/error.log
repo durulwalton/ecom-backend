@@ -351,3 +351,238 @@
     at exports.saveArticle (E:\durulhoda\nodetutorial\ecom\services\articleService.js:23:11)
     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
     at async exports.saveArticle (E:\durulhoda\nodetutorial\ecom\controllers\articleController.js:26:20)
+2024-11-23T04:24:58.221Z [error]: Error in Save File Approver: This Requsition already assign with User!
+2024-11-23T04:24:58.222Z [error]: Error: This Requsition already assign with User!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:15:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T04:47:42.260Z [error]: Error in Save File Approver: This Requsition already assign with User!
+2024-11-23T04:47:42.261Z [error]: Error: This Requsition already assign with User!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:15:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T04:47:52.621Z [error]: Error in Save File Approver: This Requsition already assign with User!
+2024-11-23T04:47:52.622Z [error]: Error: This Requsition already assign with User!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:15:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T04:57:47.648Z [error]: MongoDB connection failed: querySrv ESERVFAIL _mongodb._tcp.kashfulcluster0.ulwbv.mongodb.net
+2024-11-23T05:15:58.683Z [error]: Error in Save File Approver: User
+2024-11-23T05:15:58.683Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:28:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T05:16:33.471Z [error]: Error in Save File Approver: User
+2024-11-23T05:16:33.474Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:28:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T06:46:21.507Z [error]: MongoDB connection failed: querySrv ESERVFAIL _mongodb._tcp.kashfulcluster0.ulwbv.mongodb.net
+2024-11-23T06:46:46.816Z [error]: Error in Save File Approver: User with Requsition Refcode already Exist!
+2024-11-23T06:46:46.820Z [error]: Error: User with Requsition Refcode already Exist!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:21:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T06:47:24.288Z [error]: Error in Save File Approver: User
+2024-11-23T06:47:24.291Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:05:28.352Z [error]: Error in Save File Approver: User
+2024-11-23T07:05:28.356Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:06:54.630Z [error]: Error in Save File Approver: FileApprover.find(...).count is not a function
+2024-11-23T07:06:54.631Z [error]: TypeError: FileApprover.find(...).count is not a function
+    at exports.getFileApproversByFields (E:\durulhoda\nodetutorial\ecom\repositories\fileApproverRepository.js:7:35)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:23:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:07:48.832Z [error]: Error in Save File Approver: FileApprover.count is not a function
+2024-11-23T07:07:48.833Z [error]: TypeError: FileApprover.count is not a function
+    at exports.getFileApproversByFields (E:\durulhoda\nodetutorial\ecom\repositories\fileApproverRepository.js:7:23)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:23:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:08:07.464Z [error]: Error in Save File Approver: User
+2024-11-23T07:08:07.465Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:09:14.428Z [error]: Error in Save File Approver: User
+2024-11-23T07:09:14.431Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:11:12.749Z [error]: MongoDB connection failed: querySrv ESERVFAIL _mongodb._tcp.kashfulcluster0.ulwbv.mongodb.net
+2024-11-23T08:21:53.636Z [error]: Error in Save File Approver: This Requsition Refcode already Exist!
+2024-11-23T08:21:53.637Z [error]: Error: This Requsition Refcode already Exist!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:14:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:22:40.892Z [error]: Error in Save File Approver: User
+2024-11-23T08:22:40.895Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:22:43.970Z [error]: Error in Save File Approver: User
+2024-11-23T08:22:43.972Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:22:47.409Z [error]: Error in Save File Approver: User
+2024-11-23T08:22:47.410Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:22:49.100Z [error]: Error in Save File Approver: User
+2024-11-23T08:22:49.101Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:22:50.972Z [error]: Error in Save File Approver: User
+2024-11-23T08:22:50.972Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:24:52.628Z [error]: Error in Save File Approver: User
+2024-11-23T08:24:52.629Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:38:50.721Z [error]: Error in Save File Approver: User
+2024-11-23T08:38:50.723Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:34:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:39:25.056Z [error]: Error in Save File Approver: This Requsition Refcode already Exist!
+2024-11-23T08:39:25.059Z [error]: Error: This Requsition Refcode already Exist!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:14:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T09:10:45.438Z [error]: Error in Save Article: E11000 duplicate key error collection: sms.articlechlds index: articleSku_1 dup key: { articleSku: "123456710" }
+2024-11-23T09:10:45.439Z [error]: MongoBulkWriteError: E11000 duplicate key error collection: sms.articlechlds index: articleSku_1 dup key: { articleSku: "123456710" }
+    at OrderedBulkOperation.handleWriteError (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:819:19)
+    at executeCommands (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:348:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async BulkWriteShimOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:523:16)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async OrderedBulkOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:808:16)
+    at async BulkWriteOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\bulk_write.js:29:16)
+    at async InsertManyOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:82:25)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+2024-11-23T09:11:08.693Z [error]: Error in Save Article: E11000 duplicate key error collection: sms.articlechlds index: articleSku_1 dup key: { articleSku: "123456710" }
+2024-11-23T09:11:08.696Z [error]: MongoBulkWriteError: E11000 duplicate key error collection: sms.articlechlds index: articleSku_1 dup key: { articleSku: "123456710" }
+    at OrderedBulkOperation.handleWriteError (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:819:19)
+    at executeCommands (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:348:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async BulkWriteShimOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:523:16)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async OrderedBulkOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:808:16)
+    at async BulkWriteOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\bulk_write.js:29:16)
+    at async InsertManyOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:82:25)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+2024-11-23T10:33:54.567Z [error]: Error in Save Article Requation: ArticleRequsitionChld validation failed: req_qty: Path `req_qty` is required., purchase_rate: Path `purchase_rate` is required., article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+2024-11-23T10:33:54.571Z [error]: ValidationError: ArticleRequsitionChld validation failed: req_qty: Path `req_qty` is required., purchase_rate: Path `purchase_rate` is required., article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T10:35:39.757Z [error]: Error in Save Article Requation: ArticleRequsitionChld validation failed: purchase_rate: Path `purchase_rate` is required., article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+2024-11-23T10:35:39.758Z [error]: ValidationError: ArticleRequsitionChld validation failed: purchase_rate: Path `purchase_rate` is required., article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T10:36:09.663Z [error]: Error in Save Article Requation: ArticleRequsitionChld validation failed: article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+2024-11-23T10:36:09.666Z [error]: ValidationError: ArticleRequsitionChld validation failed: article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T10:38:23.646Z [error]: Error in Save Article Requation: ArticleRequsitionChld validation failed: article: Path `article` is required.
+2024-11-23T10:38:23.648Z [error]: ValidationError: ArticleRequsitionChld validation failed: article: Path `article` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T11:00:30.433Z [error]: Error in Save Article Requation: FilePath validation failed: createdBy: Path `createdBy` is required., user: Path `user` is required.
+2024-11-23T11:00:30.434Z [error]: ValidationError: FilePath validation failed: createdBy: Path `createdBy` is required., user: Path `user` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T11:00:55.490Z [error]: Error in Save Article Requation: FilePath validation failed: user: Path `user` is required.
+2024-11-23T11:00:55.494Z [error]: ValidationError: FilePath validation failed: user: Path `user` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T11:10:10.086Z [error]: Error in Fetch Roles: Cannot populate path `article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-11-23T11:10:10.089Z [error]: StrictPopulateError: Cannot populate path `article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4316:21)
+    at _populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4276:5)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4248:5
+    at new Promise (<anonymous>)
+    at Function.populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4247:10)
+    at model.Query._find (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2384:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:63)
+    at async exports.getArticleRequations (E:\durulhoda\nodetutorial\ecom\controllers\articleRequationController.js:6:25)
+2024-11-23T11:39:47.375Z [error]: Error in Fetch Roles: Cannot do exclusion on field children in inclusion projection
+2024-11-23T11:39:47.378Z [error]: MongoServerError: Cannot do exclusion on field children in inclusion projection
+    at Connection.sendCommand (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\cmap\connection.js:290:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\cmap\connection.js:317:26)
+    at async Server.command (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\sdam\server.js:167:29)
+    at async FindOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\find.js:34:16)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async FindCursor._initialize (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\cursor\find_cursor.js:51:26)
+    at async FindCursor.cursorInit (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\cursor\abstract_cursor.js:495:27)
+    at async FindCursor.fetchBatch (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\cursor\abstract_cursor.js:527:13)
+2024-11-23T12:06:06.637Z [error]: Error in Fetch Roles: Cannot populate path `approvers.article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-11-23T12:06:06.639Z [error]: StrictPopulateError: Cannot populate path `approvers.article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4316:21)
+    at _populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4276:5)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4248:5
+    at new Promise (<anonymous>)
+    at Function.populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4247:10)
+    at model.Query._find (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2384:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:63)
+2024-11-23T12:08:04.022Z [error]: Error in Fetch Roles: Cannot populate path `children.children.article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-11-23T12:08:04.025Z [error]: StrictPopulateError: Cannot populate path `children.children.article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4316:21)
+    at _populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4276:5)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4248:5
+    at new Promise (<anonymous>)
+    at Function.populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4247:10)
+    at model.Query._find (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2384:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:63)

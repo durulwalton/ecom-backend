@@ -14,6 +14,10 @@ const filePathSchema = new Schema(
       enum: ["ArticleRequsition"],
       default: "ArticleRequsition",
     },
+    userRefCode: {
+      type: String,
+      required: true,
+    },
     user: {
       type: Schema.Types.ObjectId,
       ref: "User",
@@ -24,20 +28,14 @@ const filePathSchema = new Schema(
       required: true,
       default: 1,
     },
-    nextSL: {
-      type: Number,
-      required: true,
-      default: 1,
+    currentFileLoc: {
+      type: String,
     },
     approvedStatus: {
       type: String,
       required: true,
       enum: ["pending", "approved", "rejected"],
       default: "pending",
-    },
-    userRefCode: {
-      type: String,
-      required: true,
     },
     createdBy: {
       type: Schema.Types.ObjectId,

@@ -18,20 +18,16 @@ const articleRequsitionSchema = new Schema(
       ref: "Supplier",
       default: null,
     },
-    approvedStage: {
-      type: Number,
-      required: true,
-      default: 1,
-    },
-    totalApprover: {
-      type: Number,
-    },
     approvedStatus: {
       type: String,
       required: true,
       enum: ["pending", "approved", "rejected"],
       default: "pending",
     },
+    children: [
+      { type: mongoose.Schema.Types.ObjectId, ref: "ArticleRequsitionChld" },
+    ],
+    approvers: [{ type: mongoose.Schema.Types.ObjectId, ref: "FilePath" }],
     status: {
       type: Number,
       required: true,

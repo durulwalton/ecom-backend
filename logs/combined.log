@@ -2987,3 +2987,725 @@
 2024-11-21T10:30:43.453Z [info]: MongoDB connected successfully
 2024-11-21T10:49:51.320Z [info]: Server is running on port 3000
 2024-11-21T10:49:53.374Z [info]: MongoDB connected successfully
+2024-11-23T04:16:23.982Z [info]: Server is running on port 3000
+2024-11-23T04:16:32.540Z [info]: MongoDB connected successfully
+2024-11-23T04:24:58.221Z [error]: Error in Save File Approver: This Requsition already assign with User!
+2024-11-23T04:24:58.222Z [error]: Error: This Requsition already assign with User!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:15:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T04:25:31.044Z [info]: Server is running on port 3000
+2024-11-23T04:25:40.608Z [info]: MongoDB connected successfully
+2024-11-23T04:25:58.641Z [info]: Server is running on port 3000
+2024-11-23T04:25:59.275Z [info]: MongoDB connected successfully
+2024-11-23T04:26:00.698Z [info]: Server is running on port 3000
+2024-11-23T04:26:01.390Z [info]: MongoDB connected successfully
+2024-11-23T04:47:29.374Z [info]: Server is running on port 3000
+2024-11-23T04:47:31.691Z [info]: Server is running on port 3000
+2024-11-23T04:47:41.547Z [info]: MongoDB connected successfully
+2024-11-23T04:47:42.260Z [error]: Error in Save File Approver: This Requsition already assign with User!
+2024-11-23T04:47:42.261Z [error]: Error: This Requsition already assign with User!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:15:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T04:47:52.621Z [error]: Error in Save File Approver: This Requsition already assign with User!
+2024-11-23T04:47:52.622Z [error]: Error: This Requsition already assign with User!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:15:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T04:48:34.474Z [info]: Server is running on port 3000
+2024-11-23T04:48:42.368Z [info]: MongoDB connected successfully
+2024-11-23T04:48:58.009Z [info]: Server is running on port 3000
+2024-11-23T04:49:01.398Z [info]: MongoDB connected successfully
+2024-11-23T04:49:05.537Z [info]: Server is running on port 3000
+2024-11-23T04:49:08.557Z [info]: MongoDB connected successfully
+2024-11-23T04:50:14.791Z [info]: Server is running on port 3000
+2024-11-23T04:50:26.695Z [info]: MongoDB connected successfully
+2024-11-23T04:50:31.713Z [info]: Server is running on port 3000
+2024-11-23T04:50:32.337Z [info]: MongoDB connected successfully
+2024-11-23T04:50:52.519Z [info]: Server is running on port 3000
+2024-11-23T04:50:55.312Z [info]: MongoDB connected successfully
+2024-11-23T04:51:54.657Z [info]: Server is running on port 3000
+2024-11-23T04:52:03.643Z [info]: MongoDB connected successfully
+2024-11-23T04:57:38.367Z [info]: Server is running on port 3000
+2024-11-23T04:57:47.648Z [error]: MongoDB connection failed: querySrv ESERVFAIL _mongodb._tcp.kashfulcluster0.ulwbv.mongodb.net
+2024-11-23T04:58:36.776Z [info]: Server is running on port 3000
+2024-11-23T04:58:37.675Z [info]: MongoDB connected successfully
+2024-11-23T04:59:06.666Z [info]: Server is running on port 3000
+2024-11-23T04:59:09.032Z [info]: Server is running on port 3000
+2024-11-23T04:59:17.939Z [info]: Server is running on port 3000
+2024-11-23T04:59:18.768Z [info]: MongoDB connected successfully
+2024-11-23T04:59:26.145Z [info]: Server is running on port 3000
+2024-11-23T04:59:26.742Z [info]: MongoDB connected successfully
+2024-11-23T04:59:28.332Z [info]: Server is running on port 3000
+2024-11-23T04:59:31.109Z [info]: MongoDB connected successfully
+2024-11-23T04:59:42.527Z [info]: Server is running on port 3000
+2024-11-23T04:59:45.871Z [info]: MongoDB connected successfully
+2024-11-23T04:59:48.060Z [info]: Server is running on port 3000
+2024-11-23T04:59:49.837Z [info]: MongoDB connected successfully
+2024-11-23T05:00:00.237Z [info]: Server is running on port 3000
+2024-11-23T05:00:12.823Z [info]: Server is running on port 3000
+2024-11-23T05:00:14.110Z [info]: MongoDB connected successfully
+2024-11-23T05:00:20.843Z [info]: Server is running on port 3000
+2024-11-23T05:00:24.859Z [info]: Server is running on port 3000
+2024-11-23T05:00:28.809Z [info]: MongoDB connected successfully
+2024-11-23T05:01:24.768Z [info]: Server is running on port 3000
+2024-11-23T05:01:34.307Z [info]: MongoDB connected successfully
+2024-11-23T05:02:34.062Z [info]: Server is running on port 3000
+2024-11-23T05:02:46.128Z [info]: MongoDB connected successfully
+2024-11-23T05:03:00.145Z [info]: Server is running on port 3000
+2024-11-23T05:03:00.894Z [info]: MongoDB connected successfully
+2024-11-23T05:03:13.375Z [info]: Server is running on port 3000
+2024-11-23T05:03:14.073Z [info]: MongoDB connected successfully
+2024-11-23T05:11:13.615Z [info]: Server is running on port 3000
+2024-11-23T05:11:21.862Z [info]: Server is running on port 3000
+2024-11-23T05:11:23.518Z [info]: Server is running on port 3000
+2024-11-23T05:11:26.265Z [info]: MongoDB connected successfully
+2024-11-23T05:11:29.567Z [info]: Server is running on port 3000
+2024-11-23T05:11:30.336Z [info]: MongoDB connected successfully
+2024-11-23T05:11:46.736Z [info]: Server is running on port 3000
+2024-11-23T05:11:47.575Z [info]: MongoDB connected successfully
+2024-11-23T05:12:02.574Z [info]: Server is running on port 3000
+2024-11-23T05:12:05.494Z [info]: Server is running on port 3000
+2024-11-23T05:12:08.241Z [info]: MongoDB connected successfully
+2024-11-23T05:12:14.851Z [info]: Server is running on port 3000
+2024-11-23T05:12:20.780Z [info]: Server is running on port 3000
+2024-11-23T05:12:21.414Z [info]: MongoDB connected successfully
+2024-11-23T05:12:25.299Z [info]: Server is running on port 3000
+2024-11-23T05:12:26.663Z [info]: MongoDB connected successfully
+2024-11-23T05:15:18.132Z [info]: Server is running on port 3000
+2024-11-23T05:15:25.456Z [info]: MongoDB connected successfully
+2024-11-23T05:15:58.683Z [error]: Error in Save File Approver: User
+2024-11-23T05:15:58.683Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:28:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T05:16:14.450Z [info]: Server is running on port 3000
+2024-11-23T05:16:15.124Z [info]: MongoDB connected successfully
+2024-11-23T05:16:33.471Z [error]: Error in Save File Approver: User
+2024-11-23T05:16:33.474Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:28:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T06:43:55.484Z [info]: Server is running on port 3000
+2024-11-23T06:44:08.348Z [info]: MongoDB connected successfully
+2024-11-23T06:46:11.813Z [info]: Server is running on port 3000
+2024-11-23T06:46:21.507Z [error]: MongoDB connection failed: querySrv ESERVFAIL _mongodb._tcp.kashfulcluster0.ulwbv.mongodb.net
+2024-11-23T06:46:39.719Z [info]: Server is running on port 3000
+2024-11-23T06:46:42.456Z [info]: MongoDB connected successfully
+2024-11-23T06:46:46.816Z [error]: Error in Save File Approver: User with Requsition Refcode already Exist!
+2024-11-23T06:46:46.820Z [error]: Error: User with Requsition Refcode already Exist!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:21:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T06:47:04.751Z [info]: Server is running on port 3000
+2024-11-23T06:47:05.463Z [info]: MongoDB connected successfully
+2024-11-23T06:47:24.288Z [error]: Error in Save File Approver: User
+2024-11-23T06:47:24.291Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:04:06.224Z [info]: Server is running on port 3000
+2024-11-23T07:04:11.924Z [info]: Server is running on port 3000
+2024-11-23T07:04:16.561Z [info]: MongoDB connected successfully
+2024-11-23T07:04:26.456Z [info]: Server is running on port 3000
+2024-11-23T07:04:27.016Z [info]: MongoDB connected successfully
+2024-11-23T07:05:05.963Z [info]: Server is running on port 3000
+2024-11-23T07:05:06.921Z [info]: MongoDB connected successfully
+2024-11-23T07:05:07.922Z [info]: Server is running on port 3000
+2024-11-23T07:05:11.524Z [info]: MongoDB connected successfully
+2024-11-23T07:05:21.052Z [info]: Server is running on port 3000
+2024-11-23T07:05:22.237Z [info]: MongoDB connected successfully
+2024-11-23T07:05:28.352Z [error]: Error in Save File Approver: User
+2024-11-23T07:05:28.356Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:06:34.304Z [info]: Server is running on port 3000
+2024-11-23T07:06:40.080Z [info]: MongoDB connected successfully
+2024-11-23T07:06:52.785Z [info]: Server is running on port 3000
+2024-11-23T07:06:53.481Z [info]: MongoDB connected successfully
+2024-11-23T07:06:54.630Z [error]: Error in Save File Approver: FileApprover.find(...).count is not a function
+2024-11-23T07:06:54.631Z [error]: TypeError: FileApprover.find(...).count is not a function
+    at exports.getFileApproversByFields (E:\durulhoda\nodetutorial\ecom\repositories\fileApproverRepository.js:7:35)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:23:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:07:27.827Z [info]: Server is running on port 3000
+2024-11-23T07:07:30.308Z [info]: Server is running on port 3000
+2024-11-23T07:07:32.552Z [info]: MongoDB connected successfully
+2024-11-23T07:07:42.167Z [info]: Server is running on port 3000
+2024-11-23T07:07:47.354Z [info]: MongoDB connected successfully
+2024-11-23T07:07:48.832Z [error]: Error in Save File Approver: FileApprover.count is not a function
+2024-11-23T07:07:48.833Z [error]: TypeError: FileApprover.count is not a function
+    at exports.getFileApproversByFields (E:\durulhoda\nodetutorial\ecom\repositories\fileApproverRepository.js:7:23)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:23:44)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:08:03.505Z [info]: Server is running on port 3000
+2024-11-23T07:08:04.129Z [info]: MongoDB connected successfully
+2024-11-23T07:08:07.464Z [error]: Error in Save File Approver: User
+2024-11-23T07:08:07.465Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:09:05.238Z [info]: Server is running on port 3000
+2024-11-23T07:09:13.297Z [info]: MongoDB connected successfully
+2024-11-23T07:09:14.428Z [error]: Error in Save File Approver: User
+2024-11-23T07:09:14.431Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T07:11:03.405Z [info]: Server is running on port 3000
+2024-11-23T07:11:12.749Z [error]: MongoDB connection failed: querySrv ESERVFAIL _mongodb._tcp.kashfulcluster0.ulwbv.mongodb.net
+2024-11-23T07:11:20.585Z [info]: Server is running on port 3000
+2024-11-23T07:11:21.635Z [info]: MongoDB connected successfully
+2024-11-23T07:11:40.406Z [info]: Server is running on port 3000
+2024-11-23T07:11:41.098Z [info]: MongoDB connected successfully
+2024-11-23T08:21:53.636Z [error]: Error in Save File Approver: This Requsition Refcode already Exist!
+2024-11-23T08:21:53.637Z [error]: Error: This Requsition Refcode already Exist!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:14:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:22:15.016Z [info]: Server is running on port 3000
+2024-11-23T08:22:15.600Z [info]: Server is running on port 3000
+2024-11-23T08:22:29.458Z [info]: MongoDB connected successfully
+2024-11-23T08:22:40.892Z [error]: Error in Save File Approver: User
+2024-11-23T08:22:40.895Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:22:43.970Z [error]: Error in Save File Approver: User
+2024-11-23T08:22:43.972Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:22:47.409Z [error]: Error in Save File Approver: User
+2024-11-23T08:22:47.410Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:22:49.100Z [error]: Error in Save File Approver: User
+2024-11-23T08:22:49.101Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:22:50.972Z [error]: Error in Save File Approver: User
+2024-11-23T08:22:50.972Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:24:52.628Z [error]: Error in Save File Approver: User
+2024-11-23T08:24:52.629Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:27:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:32:08.945Z [info]: Server is running on port 3000
+2024-11-23T08:32:13.914Z [info]: MongoDB connected successfully
+2024-11-23T08:35:13.517Z [info]: Server is running on port 3000
+2024-11-23T08:35:21.317Z [info]: MongoDB connected successfully
+2024-11-23T08:37:04.493Z [info]: Server is running on port 3000
+2024-11-23T08:37:12.469Z [info]: MongoDB connected successfully
+2024-11-23T08:37:30.657Z [info]: Server is running on port 3000
+2024-11-23T08:37:31.432Z [info]: MongoDB connected successfully
+2024-11-23T08:37:59.571Z [info]: Server is running on port 3000
+2024-11-23T08:38:08.821Z [info]: Server is running on port 3000
+2024-11-23T08:38:09.814Z [info]: MongoDB connected successfully
+2024-11-23T08:38:40.548Z [info]: Server is running on port 3000
+2024-11-23T08:38:42.866Z [info]: MongoDB connected successfully
+2024-11-23T08:38:48.547Z [info]: Server is running on port 3000
+2024-11-23T08:38:49.158Z [info]: MongoDB connected successfully
+2024-11-23T08:38:50.721Z [error]: Error in Save File Approver: User
+2024-11-23T08:38:50.723Z [error]: Error: User
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:34:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:39:12.568Z [info]: Server is running on port 3000
+2024-11-23T08:39:23.923Z [info]: MongoDB connected successfully
+2024-11-23T08:39:25.056Z [error]: Error in Save File Approver: This Requsition Refcode already Exist!
+2024-11-23T08:39:25.059Z [error]: Error: This Requsition Refcode already Exist!
+    at throwError (E:\durulhoda\nodetutorial\ecom\utils\throwError.js:2:17)
+    at exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\services\fileApproverService.js:14:11)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.saveFileApprover (E:\durulhoda\nodetutorial\ecom\controllers\fileApproverController.js:26:24)
+2024-11-23T08:39:39.593Z [info]: Server is running on port 3000
+2024-11-23T08:39:40.184Z [info]: MongoDB connected successfully
+2024-11-23T09:03:26.304Z [info]: Server is running on port 3000
+2024-11-23T09:03:37.957Z [info]: MongoDB connected successfully
+2024-11-23T09:03:47.450Z [info]: Server is running on port 3000
+2024-11-23T09:03:48.209Z [info]: MongoDB connected successfully
+2024-11-23T09:04:11.886Z [info]: Server is running on port 3000
+2024-11-23T09:04:12.841Z [info]: MongoDB connected successfully
+2024-11-23T09:04:14.404Z [info]: Server is running on port 3000
+2024-11-23T09:04:17.020Z [info]: MongoDB connected successfully
+2024-11-23T09:04:37.596Z [info]: Server is running on port 3000
+2024-11-23T09:04:39.773Z [info]: Server is running on port 3000
+2024-11-23T09:04:44.430Z [info]: MongoDB connected successfully
+2024-11-23T09:05:28.743Z [info]: Server is running on port 3000
+2024-11-23T09:05:30.597Z [info]: Server is running on port 3000
+2024-11-23T09:05:35.427Z [info]: MongoDB connected successfully
+2024-11-23T09:05:40.920Z [info]: Server is running on port 3000
+2024-11-23T09:05:45.882Z [info]: MongoDB connected successfully
+2024-11-23T09:08:08.155Z [info]: Server is running on port 3000
+2024-11-23T09:08:11.238Z [info]: MongoDB connected successfully
+2024-11-23T09:10:45.438Z [error]: Error in Save Article: E11000 duplicate key error collection: sms.articlechlds index: articleSku_1 dup key: { articleSku: "123456710" }
+2024-11-23T09:10:45.439Z [error]: MongoBulkWriteError: E11000 duplicate key error collection: sms.articlechlds index: articleSku_1 dup key: { articleSku: "123456710" }
+    at OrderedBulkOperation.handleWriteError (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:819:19)
+    at executeCommands (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:348:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async BulkWriteShimOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:523:16)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async OrderedBulkOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:808:16)
+    at async BulkWriteOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\bulk_write.js:29:16)
+    at async InsertManyOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:82:25)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+2024-11-23T09:11:08.693Z [error]: Error in Save Article: E11000 duplicate key error collection: sms.articlechlds index: articleSku_1 dup key: { articleSku: "123456710" }
+2024-11-23T09:11:08.696Z [error]: MongoBulkWriteError: E11000 duplicate key error collection: sms.articlechlds index: articleSku_1 dup key: { articleSku: "123456710" }
+    at OrderedBulkOperation.handleWriteError (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:819:19)
+    at executeCommands (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:348:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async BulkWriteShimOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:523:16)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async OrderedBulkOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\bulk\common.js:808:16)
+    at async BulkWriteOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\bulk_write.js:29:16)
+    at async InsertManyOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\insert.js:82:25)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+2024-11-23T09:26:51.068Z [info]: Server is running on port 3000
+2024-11-23T09:27:00.224Z [info]: MongoDB connected successfully
+2024-11-23T09:27:27.837Z [info]: Server is running on port 3000
+2024-11-23T09:27:28.535Z [info]: MongoDB connected successfully
+2024-11-23T09:29:20.846Z [info]: Server is running on port 3000
+2024-11-23T09:29:22.430Z [info]: MongoDB connected successfully
+2024-11-23T09:29:46.785Z [info]: Server is running on port 3000
+2024-11-23T09:29:48.954Z [info]: Server is running on port 3000
+2024-11-23T09:29:53.839Z [info]: MongoDB connected successfully
+2024-11-23T09:29:59.052Z [info]: Server is running on port 3000
+2024-11-23T09:29:59.686Z [info]: MongoDB connected successfully
+2024-11-23T09:38:21.322Z [info]: Server is running on port 3000
+2024-11-23T09:38:29.979Z [info]: Server is running on port 3000
+2024-11-23T09:38:30.618Z [info]: MongoDB connected successfully
+2024-11-23T09:39:26.521Z [info]: Server is running on port 3000
+2024-11-23T09:39:28.761Z [info]: MongoDB connected successfully
+2024-11-23T09:40:23.994Z [info]: Server is running on port 3000
+2024-11-23T09:40:24.667Z [info]: MongoDB connected successfully
+2024-11-23T09:40:47.371Z [info]: Server is running on port 3000
+2024-11-23T09:40:48.545Z [info]: MongoDB connected successfully
+2024-11-23T09:40:52.936Z [info]: Server is running on port 3000
+2024-11-23T09:40:53.552Z [info]: MongoDB connected successfully
+2024-11-23T09:40:58.996Z [info]: Server is running on port 3000
+2024-11-23T09:40:59.666Z [info]: MongoDB connected successfully
+2024-11-23T09:41:36.973Z [info]: Server is running on port 3000
+2024-11-23T09:41:47.694Z [info]: MongoDB connected successfully
+2024-11-23T09:42:00.243Z [info]: Server is running on port 3000
+2024-11-23T09:42:01.996Z [info]: MongoDB connected successfully
+2024-11-23T09:42:08.872Z [info]: Server is running on port 3000
+2024-11-23T09:42:09.628Z [info]: MongoDB connected successfully
+2024-11-23T09:42:12.380Z [info]: Server is running on port 3000
+2024-11-23T09:42:12.956Z [info]: MongoDB connected successfully
+2024-11-23T09:42:25.149Z [info]: Server is running on port 3000
+2024-11-23T09:42:25.792Z [info]: MongoDB connected successfully
+2024-11-23T09:43:28.401Z [info]: Server is running on port 3000
+2024-11-23T09:43:33.974Z [info]: MongoDB connected successfully
+2024-11-23T09:43:58.865Z [info]: Server is running on port 3000
+2024-11-23T09:43:59.563Z [info]: MongoDB connected successfully
+2024-11-23T09:44:14.654Z [info]: Server is running on port 3000
+2024-11-23T09:44:15.365Z [info]: MongoDB connected successfully
+2024-11-23T09:44:59.255Z [info]: Server is running on port 3000
+2024-11-23T09:45:06.144Z [info]: MongoDB connected successfully
+2024-11-23T09:45:17.881Z [info]: Server is running on port 3000
+2024-11-23T09:45:18.477Z [info]: MongoDB connected successfully
+2024-11-23T09:45:20.265Z [info]: Server is running on port 3000
+2024-11-23T09:45:20.919Z [info]: MongoDB connected successfully
+2024-11-23T09:45:32.724Z [info]: Server is running on port 3000
+2024-11-23T09:45:33.299Z [info]: MongoDB connected successfully
+2024-11-23T09:45:44.118Z [info]: Server is running on port 3000
+2024-11-23T09:45:44.798Z [info]: MongoDB connected successfully
+2024-11-23T09:45:52.932Z [info]: Server is running on port 3000
+2024-11-23T09:45:53.588Z [info]: MongoDB connected successfully
+2024-11-23T09:46:11.559Z [info]: Server is running on port 3000
+2024-11-23T09:46:13.050Z [info]: MongoDB connected successfully
+2024-11-23T09:47:12.090Z [info]: Server is running on port 3000
+2024-11-23T09:47:16.719Z [info]: MongoDB connected successfully
+2024-11-23T09:47:32.125Z [info]: Server is running on port 3000
+2024-11-23T09:47:32.894Z [info]: MongoDB connected successfully
+2024-11-23T09:48:19.143Z [info]: Server is running on port 3000
+2024-11-23T09:48:23.731Z [info]: Server is running on port 3000
+2024-11-23T09:48:26.228Z [info]: Server is running on port 3000
+2024-11-23T09:48:35.111Z [info]: MongoDB connected successfully
+2024-11-23T09:48:37.598Z [info]: Server is running on port 3000
+2024-11-23T09:48:41.263Z [info]: MongoDB connected successfully
+2024-11-23T10:19:41.941Z [info]: Server is running on port 3000
+2024-11-23T10:19:44.309Z [info]: Server is running on port 3000
+2024-11-23T10:19:49.415Z [info]: MongoDB connected successfully
+2024-11-23T10:21:56.739Z [info]: Server is running on port 3000
+2024-11-23T10:22:00.295Z [info]: Server is running on port 3000
+2024-11-23T10:22:00.975Z [info]: MongoDB connected successfully
+2024-11-23T10:22:20.510Z [info]: Server is running on port 3000
+2024-11-23T10:22:21.157Z [info]: MongoDB connected successfully
+2024-11-23T10:22:41.153Z [info]: Server is running on port 3000
+2024-11-23T10:22:41.807Z [info]: MongoDB connected successfully
+2024-11-23T10:23:34.223Z [info]: Server is running on port 3000
+2024-11-23T10:23:43.098Z [info]: MongoDB connected successfully
+2024-11-23T10:23:45.379Z [info]: Server is running on port 3000
+2024-11-23T10:23:46.947Z [info]: Server is running on port 3000
+2024-11-23T10:23:49.448Z [info]: MongoDB connected successfully
+2024-11-23T10:26:38.667Z [info]: Server is running on port 3000
+2024-11-23T10:26:46.916Z [info]: Server is running on port 3000
+2024-11-23T10:26:47.562Z [info]: MongoDB connected successfully
+2024-11-23T10:27:12.470Z [info]: Server is running on port 3000
+2024-11-23T10:27:13.170Z [info]: MongoDB connected successfully
+2024-11-23T10:27:37.849Z [info]: Server is running on port 3000
+2024-11-23T10:27:38.609Z [info]: MongoDB connected successfully
+2024-11-23T10:27:53.797Z [info]: Server is running on port 3000
+2024-11-23T10:27:58.609Z [info]: MongoDB connected successfully
+2024-11-23T10:28:11.059Z [info]: Server is running on port 3000
+2024-11-23T10:28:11.876Z [info]: MongoDB connected successfully
+2024-11-23T10:28:32.972Z [info]: Server is running on port 3000
+2024-11-23T10:28:39.178Z [info]: Server is running on port 3000
+2024-11-23T10:28:41.062Z [info]: MongoDB connected successfully
+2024-11-23T10:28:42.212Z [info]: Server is running on port 3000
+2024-11-23T10:28:42.820Z [info]: MongoDB connected successfully
+2024-11-23T10:28:45.810Z [info]: Server is running on port 3000
+2024-11-23T10:29:00.003Z [info]: Server is running on port 3000
+2024-11-23T10:29:01.530Z [info]: MongoDB connected successfully
+2024-11-23T10:29:04.918Z [info]: Server is running on port 3000
+2024-11-23T10:29:05.841Z [info]: MongoDB connected successfully
+2024-11-23T10:29:20.471Z [info]: Server is running on port 3000
+2024-11-23T10:29:21.159Z [info]: MongoDB connected successfully
+2024-11-23T10:29:30.192Z [info]: Server is running on port 3000
+2024-11-23T10:29:32.205Z [info]: MongoDB connected successfully
+2024-11-23T10:29:36.446Z [info]: Server is running on port 3000
+2024-11-23T10:29:37.109Z [info]: MongoDB connected successfully
+2024-11-23T10:29:43.808Z [info]: Server is running on port 3000
+2024-11-23T10:29:46.534Z [info]: Server is running on port 3000
+2024-11-23T10:29:51.439Z [info]: MongoDB connected successfully
+2024-11-23T10:29:55.271Z [info]: Server is running on port 3000
+2024-11-23T10:29:55.961Z [info]: MongoDB connected successfully
+2024-11-23T10:30:05.077Z [info]: Server is running on port 3000
+2024-11-23T10:30:05.682Z [info]: MongoDB connected successfully
+2024-11-23T10:30:10.675Z [info]: Server is running on port 3000
+2024-11-23T10:30:12.882Z [info]: Server is running on port 3000
+2024-11-23T10:30:16.577Z [info]: Server is running on port 3000
+2024-11-23T10:30:17.215Z [info]: MongoDB connected successfully
+2024-11-23T10:30:19.045Z [info]: Server is running on port 3000
+2024-11-23T10:30:20.663Z [info]: Server is running on port 3000
+2024-11-23T10:30:21.349Z [info]: MongoDB connected successfully
+2024-11-23T10:30:27.207Z [info]: Server is running on port 3000
+2024-11-23T10:30:27.922Z [info]: MongoDB connected successfully
+2024-11-23T10:30:29.474Z [info]: Server is running on port 3000
+2024-11-23T10:30:30.123Z [info]: MongoDB connected successfully
+2024-11-23T10:30:44.898Z [info]: Server is running on port 3000
+2024-11-23T10:30:45.686Z [info]: MongoDB connected successfully
+2024-11-23T10:30:49.902Z [info]: Server is running on port 3000
+2024-11-23T10:30:50.620Z [info]: MongoDB connected successfully
+2024-11-23T10:30:55.518Z [info]: Server is running on port 3000
+2024-11-23T10:31:00.428Z [info]: Server is running on port 3000
+2024-11-23T10:31:01.107Z [info]: MongoDB connected successfully
+2024-11-23T10:31:03.144Z [info]: Server is running on port 3000
+2024-11-23T10:31:03.724Z [info]: MongoDB connected successfully
+2024-11-23T10:31:20.904Z [info]: Server is running on port 3000
+2024-11-23T10:31:25.272Z [info]: Server is running on port 3000
+2024-11-23T10:31:27.509Z [info]: Server is running on port 3000
+2024-11-23T10:31:35.183Z [info]: MongoDB connected successfully
+2024-11-23T10:31:36.261Z [info]: Server is running on port 3000
+2024-11-23T10:31:36.876Z [info]: MongoDB connected successfully
+2024-11-23T10:33:01.635Z [info]: Server is running on port 3000
+2024-11-23T10:33:09.692Z [info]: MongoDB connected successfully
+2024-11-23T10:33:28.273Z [info]: Server is running on port 3000
+2024-11-23T10:33:29.273Z [info]: MongoDB connected successfully
+2024-11-23T10:33:30.679Z [info]: Server is running on port 3000
+2024-11-23T10:33:35.438Z [info]: MongoDB connected successfully
+2024-11-23T10:33:45.786Z [info]: Server is running on port 3000
+2024-11-23T10:33:50.851Z [info]: Server is running on port 3000
+2024-11-23T10:33:51.487Z [info]: MongoDB connected successfully
+2024-11-23T10:33:54.567Z [error]: Error in Save Article Requation: ArticleRequsitionChld validation failed: req_qty: Path `req_qty` is required., purchase_rate: Path `purchase_rate` is required., article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+2024-11-23T10:33:54.571Z [error]: ValidationError: ArticleRequsitionChld validation failed: req_qty: Path `req_qty` is required., purchase_rate: Path `purchase_rate` is required., article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T10:34:09.755Z [info]: Server is running on port 3000
+2024-11-23T10:34:11.438Z [info]: Server is running on port 3000
+2024-11-23T10:34:14.119Z [info]: Server is running on port 3000
+2024-11-23T10:34:17.876Z [info]: Server is running on port 3000
+2024-11-23T10:34:18.481Z [info]: MongoDB connected successfully
+2024-11-23T10:35:23.210Z [info]: Server is running on port 3000
+2024-11-23T10:35:31.274Z [info]: MongoDB connected successfully
+2024-11-23T10:35:39.757Z [error]: Error in Save Article Requation: ArticleRequsitionChld validation failed: purchase_rate: Path `purchase_rate` is required., article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+2024-11-23T10:35:39.758Z [error]: ValidationError: ArticleRequsitionChld validation failed: purchase_rate: Path `purchase_rate` is required., article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T10:36:09.663Z [error]: Error in Save Article Requation: ArticleRequsitionChld validation failed: article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+2024-11-23T10:36:09.666Z [error]: ValidationError: ArticleRequsitionChld validation failed: article: Path `article` is required., articleRequsition: Path `articleRequsition` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T10:37:26.497Z [info]: Server is running on port 3000
+2024-11-23T10:37:37.310Z [info]: MongoDB connected successfully
+2024-11-23T10:37:52.011Z [info]: Server is running on port 3000
+2024-11-23T10:37:52.693Z [info]: MongoDB connected successfully
+2024-11-23T10:38:10.183Z [info]: Server is running on port 3000
+2024-11-23T10:38:14.929Z [info]: MongoDB connected successfully
+2024-11-23T10:38:23.646Z [error]: Error in Save Article Requation: ArticleRequsitionChld validation failed: article: Path `article` is required.
+2024-11-23T10:38:23.648Z [error]: ValidationError: ArticleRequsitionChld validation failed: article: Path `article` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T10:39:37.518Z [info]: Server is running on port 3000
+2024-11-23T10:39:41.816Z [info]: Server is running on port 3000
+2024-11-23T10:39:43.796Z [info]: Server is running on port 3000
+2024-11-23T10:39:44.648Z [info]: MongoDB connected successfully
+2024-11-23T10:40:01.130Z [info]: Server is running on port 3000
+2024-11-23T10:40:01.706Z [info]: MongoDB connected successfully
+2024-11-23T10:40:31.289Z [info]: Server is running on port 3000
+2024-11-23T10:40:33.952Z [info]: MongoDB connected successfully
+2024-11-23T10:40:36.518Z [info]: Server is running on port 3000
+2024-11-23T10:40:37.108Z [info]: MongoDB connected successfully
+2024-11-23T10:40:46.271Z [info]: Server is running on port 3000
+2024-11-23T10:40:55.873Z [info]: MongoDB connected successfully
+2024-11-23T10:41:02.067Z [info]: Server is running on port 3000
+2024-11-23T10:41:02.842Z [info]: MongoDB connected successfully
+2024-11-23T10:41:04.848Z [info]: Server is running on port 3000
+2024-11-23T10:41:05.425Z [info]: MongoDB connected successfully
+2024-11-23T10:43:05.863Z [info]: Server is running on port 3000
+2024-11-23T10:43:08.901Z [info]: MongoDB connected successfully
+2024-11-23T10:44:25.001Z [info]: Server is running on port 3000
+2024-11-23T10:44:28.506Z [info]: Server is running on port 3000
+2024-11-23T10:44:32.090Z [info]: Server is running on port 3000
+2024-11-23T10:44:32.688Z [info]: MongoDB connected successfully
+2024-11-23T10:44:49.464Z [info]: Server is running on port 3000
+2024-11-23T10:44:50.106Z [info]: MongoDB connected successfully
+2024-11-23T10:44:52.165Z [info]: Server is running on port 3000
+2024-11-23T10:44:52.848Z [info]: MongoDB connected successfully
+2024-11-23T10:47:32.085Z [info]: Server is running on port 3000
+2024-11-23T10:47:38.535Z [info]: MongoDB connected successfully
+2024-11-23T10:47:45.075Z [info]: Server is running on port 3000
+2024-11-23T10:47:45.619Z [info]: MongoDB connected successfully
+2024-11-23T10:47:50.931Z [info]: Server is running on port 3000
+2024-11-23T10:47:51.593Z [info]: MongoDB connected successfully
+2024-11-23T10:52:17.757Z [info]: Server is running on port 3000
+2024-11-23T10:52:27.486Z [info]: MongoDB connected successfully
+2024-11-23T10:52:48.542Z [info]: Server is running on port 3000
+2024-11-23T10:52:50.940Z [info]: MongoDB connected successfully
+2024-11-23T10:53:14.609Z [info]: Server is running on port 3000
+2024-11-23T10:53:15.295Z [info]: MongoDB connected successfully
+2024-11-23T10:53:36.601Z [info]: Server is running on port 3000
+2024-11-23T10:53:42.651Z [info]: MongoDB connected successfully
+2024-11-23T10:54:04.099Z [info]: Server is running on port 3000
+2024-11-23T10:54:04.664Z [info]: MongoDB connected successfully
+2024-11-23T10:54:12.024Z [info]: Server is running on port 3000
+2024-11-23T10:54:12.768Z [info]: MongoDB connected successfully
+2024-11-23T10:56:29.775Z [info]: Server is running on port 3000
+2024-11-23T10:56:41.851Z [info]: MongoDB connected successfully
+2024-11-23T10:56:44.801Z [info]: Server is running on port 3000
+2024-11-23T10:56:45.448Z [info]: MongoDB connected successfully
+2024-11-23T10:57:15.588Z [info]: Server is running on port 3000
+2024-11-23T10:57:17.927Z [info]: MongoDB connected successfully
+2024-11-23T10:58:00.718Z [info]: Server is running on port 3000
+2024-11-23T10:58:13.442Z [info]: MongoDB connected successfully
+2024-11-23T10:58:37.667Z [info]: Server is running on port 3000
+2024-11-23T10:58:38.587Z [info]: MongoDB connected successfully
+2024-11-23T10:58:40.853Z [info]: Server is running on port 3000
+2024-11-23T10:58:41.698Z [info]: MongoDB connected successfully
+2024-11-23T10:58:54.261Z [info]: Server is running on port 3000
+2024-11-23T10:58:55.171Z [info]: MongoDB connected successfully
+2024-11-23T11:00:06.170Z [info]: Server is running on port 3000
+2024-11-23T11:00:13.771Z [info]: Server is running on port 3000
+2024-11-23T11:00:25.407Z [info]: MongoDB connected successfully
+2024-11-23T11:00:30.433Z [error]: Error in Save Article Requation: FilePath validation failed: createdBy: Path `createdBy` is required., user: Path `user` is required.
+2024-11-23T11:00:30.434Z [error]: ValidationError: FilePath validation failed: createdBy: Path `createdBy` is required., user: Path `user` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T11:00:48.834Z [info]: Server is running on port 3000
+2024-11-23T11:00:54.352Z [info]: MongoDB connected successfully
+2024-11-23T11:00:55.490Z [error]: Error in Save Article Requation: FilePath validation failed: user: Path `user` is required.
+2024-11-23T11:00:55.494Z [error]: ValidationError: FilePath validation failed: user: Path `user` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-23T11:02:27.900Z [info]: Server is running on port 3000
+2024-11-23T11:02:38.181Z [info]: MongoDB connected successfully
+2024-11-23T11:05:42.554Z [info]: Server is running on port 3000
+2024-11-23T11:05:49.792Z [info]: MongoDB connected successfully
+2024-11-23T11:06:55.638Z [info]: Server is running on port 3000
+2024-11-23T11:06:59.577Z [info]: Server is running on port 3000
+2024-11-23T11:07:04.235Z [info]: MongoDB connected successfully
+2024-11-23T11:07:08.978Z [info]: Server is running on port 3000
+2024-11-23T11:07:11.180Z [info]: Server is running on port 3000
+2024-11-23T11:07:11.914Z [info]: MongoDB connected successfully
+2024-11-23T11:07:20.492Z [info]: Server is running on port 3000
+2024-11-23T11:07:23.992Z [info]: Server is running on port 3000
+2024-11-23T11:07:25.040Z [info]: MongoDB connected successfully
+2024-11-23T11:08:36.109Z [info]: Server is running on port 3000
+2024-11-23T11:08:43.972Z [info]: MongoDB connected successfully
+2024-11-23T11:09:54.877Z [info]: Server is running on port 3000
+2024-11-23T11:10:00.430Z [info]: Server is running on port 3000
+2024-11-23T11:10:01.060Z [info]: MongoDB connected successfully
+2024-11-23T11:10:08.025Z [info]: Server is running on port 3000
+2024-11-23T11:10:08.635Z [info]: MongoDB connected successfully
+2024-11-23T11:10:10.086Z [error]: Error in Fetch Roles: Cannot populate path `article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-11-23T11:10:10.089Z [error]: StrictPopulateError: Cannot populate path `article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4316:21)
+    at _populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4276:5)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4248:5
+    at new Promise (<anonymous>)
+    at Function.populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4247:10)
+    at model.Query._find (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2384:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:63)
+    at async exports.getArticleRequations (E:\durulhoda\nodetutorial\ecom\controllers\articleRequationController.js:6:25)
+2024-11-23T11:10:43.460Z [info]: Server is running on port 3000
+2024-11-23T11:10:44.048Z [info]: MongoDB connected successfully
+2024-11-23T11:11:17.101Z [info]: Server is running on port 3000
+2024-11-23T11:11:24.531Z [info]: MongoDB connected successfully
+2024-11-23T11:11:55.926Z [info]: Server is running on port 3000
+2024-11-23T11:11:57.004Z [info]: MongoDB connected successfully
+2024-11-23T11:12:00.049Z [info]: Server is running on port 3000
+2024-11-23T11:12:01.743Z [info]: MongoDB connected successfully
+2024-11-23T11:12:11.342Z [info]: Server is running on port 3000
+2024-11-23T11:12:12.009Z [info]: MongoDB connected successfully
+2024-11-23T11:16:52.637Z [info]: Server is running on port 3000
+2024-11-23T11:16:54.970Z [info]: Server is running on port 3000
+2024-11-23T11:17:08.077Z [info]: MongoDB connected successfully
+2024-11-23T11:33:15.579Z [info]: Server is running on port 3000
+2024-11-23T11:33:26.238Z [info]: MongoDB connected successfully
+2024-11-23T11:34:34.521Z [info]: Server is running on port 3000
+2024-11-23T11:34:36.243Z [info]: MongoDB connected successfully
+2024-11-23T11:34:40.870Z [info]: Server is running on port 3000
+2024-11-23T11:34:45.922Z [info]: MongoDB connected successfully
+2024-11-23T11:35:01.011Z [info]: Server is running on port 3000
+2024-11-23T11:35:01.567Z [info]: MongoDB connected successfully
+2024-11-23T11:35:26.352Z [info]: Server is running on port 3000
+2024-11-23T11:35:27.197Z [info]: MongoDB connected successfully
+2024-11-23T11:35:33.022Z [info]: Server is running on port 3000
+2024-11-23T11:35:34.639Z [info]: MongoDB connected successfully
+2024-11-23T11:35:57.136Z [info]: Server is running on port 3000
+2024-11-23T11:36:04.533Z [info]: MongoDB connected successfully
+2024-11-23T11:36:58.374Z [info]: Server is running on port 3000
+2024-11-23T11:36:59.798Z [info]: MongoDB connected successfully
+2024-11-23T11:39:39.705Z [info]: Server is running on port 3000
+2024-11-23T11:39:46.566Z [info]: MongoDB connected successfully
+2024-11-23T11:39:47.375Z [error]: Error in Fetch Roles: Cannot do exclusion on field children in inclusion projection
+2024-11-23T11:39:47.378Z [error]: MongoServerError: Cannot do exclusion on field children in inclusion projection
+    at Connection.sendCommand (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\cmap\connection.js:290:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async Connection.command (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\cmap\connection.js:317:26)
+    at async Server.command (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\sdam\server.js:167:29)
+    at async FindOperation.execute (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\find.js:34:16)
+    at async tryOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:199:20)
+    at async executeOperation (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\operations\execute_operation.js:69:16)
+    at async FindCursor._initialize (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\cursor\find_cursor.js:51:26)
+    at async FindCursor.cursorInit (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\cursor\abstract_cursor.js:495:27)
+    at async FindCursor.fetchBatch (E:\durulhoda\nodetutorial\ecom\node_modules\mongodb\lib\cursor\abstract_cursor.js:527:13)
+2024-11-23T11:40:03.838Z [info]: Server is running on port 3000
+2024-11-23T11:40:04.510Z [info]: MongoDB connected successfully
+2024-11-23T11:41:14.733Z [info]: Server is running on port 3000
+2024-11-23T11:41:25.073Z [info]: MongoDB connected successfully
+2024-11-23T11:42:39.343Z [info]: Server is running on port 3000
+2024-11-23T11:42:46.967Z [info]: MongoDB connected successfully
+2024-11-23T11:44:29.344Z [info]: Server is running on port 3000
+2024-11-23T11:44:31.695Z [info]: Server is running on port 3000
+2024-11-23T11:44:39.445Z [info]: MongoDB connected successfully
+2024-11-23T11:57:12.601Z [info]: Server is running on port 3000
+2024-11-23T11:57:22.148Z [info]: MongoDB connected successfully
+2024-11-23T11:57:24.676Z [info]: Server is running on port 3000
+2024-11-23T11:57:32.817Z [info]: MongoDB connected successfully
+2024-11-23T11:57:50.352Z [info]: Server is running on port 3000
+2024-11-23T11:57:50.985Z [info]: MongoDB connected successfully
+2024-11-23T11:57:52.920Z [info]: Server is running on port 3000
+2024-11-23T11:57:53.534Z [info]: MongoDB connected successfully
+2024-11-23T11:59:16.230Z [info]: Server is running on port 3000
+2024-11-23T11:59:28.135Z [info]: MongoDB connected successfully
+2024-11-23T11:59:42.300Z [info]: Server is running on port 3000
+2024-11-23T11:59:44.036Z [info]: MongoDB connected successfully
+2024-11-23T11:59:57.874Z [info]: Server is running on port 3000
+2024-11-23T12:00:00.289Z [info]: Server is running on port 3000
+2024-11-23T12:00:01.602Z [info]: MongoDB connected successfully
+2024-11-23T12:01:35.261Z [info]: Server is running on port 3000
+2024-11-23T12:01:43.338Z [info]: Server is running on port 3000
+2024-11-23T12:01:43.958Z [info]: MongoDB connected successfully
+2024-11-23T12:01:56.653Z [info]: Server is running on port 3000
+2024-11-23T12:01:57.227Z [info]: MongoDB connected successfully
+2024-11-23T12:02:12.060Z [info]: Server is running on port 3000
+2024-11-23T12:02:14.695Z [info]: Server is running on port 3000
+2024-11-23T12:02:19.322Z [info]: MongoDB connected successfully
+2024-11-23T12:02:42.543Z [info]: Server is running on port 3000
+2024-11-23T12:02:43.287Z [info]: MongoDB connected successfully
+2024-11-23T12:02:45.419Z [info]: Server is running on port 3000
+2024-11-23T12:02:46.027Z [info]: MongoDB connected successfully
+2024-11-23T12:03:32.815Z [info]: Server is running on port 3000
+2024-11-23T12:03:41.330Z [info]: MongoDB connected successfully
+2024-11-23T12:03:42.361Z [info]: Server is running on port 3000
+2024-11-23T12:03:43.070Z [info]: MongoDB connected successfully
+2024-11-23T12:04:13.507Z [info]: Server is running on port 3000
+2024-11-23T12:04:19.312Z [info]: MongoDB connected successfully
+2024-11-23T12:04:53.671Z [info]: Server is running on port 3000
+2024-11-23T12:04:59.702Z [info]: MongoDB connected successfully
+2024-11-23T12:06:02.670Z [info]: Server is running on port 3000
+2024-11-23T12:06:06.002Z [info]: MongoDB connected successfully
+2024-11-23T12:06:06.637Z [error]: Error in Fetch Roles: Cannot populate path `approvers.article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-11-23T12:06:06.639Z [error]: StrictPopulateError: Cannot populate path `approvers.article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4316:21)
+    at _populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4276:5)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4248:5
+    at new Promise (<anonymous>)
+    at Function.populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4247:10)
+    at model.Query._find (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2384:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:63)
+2024-11-23T12:06:18.065Z [info]: Server is running on port 3000
+2024-11-23T12:06:18.995Z [info]: MongoDB connected successfully
+2024-11-23T12:07:10.051Z [info]: Server is running on port 3000
+2024-11-23T12:07:11.615Z [info]: MongoDB connected successfully
+2024-11-23T12:07:25.898Z [info]: Server is running on port 3000
+2024-11-23T12:07:26.881Z [info]: MongoDB connected successfully
+2024-11-23T12:07:54.073Z [info]: Server is running on port 3000
+2024-11-23T12:08:03.297Z [info]: MongoDB connected successfully
+2024-11-23T12:08:04.022Z [error]: Error in Fetch Roles: Cannot populate path `children.children.article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+2024-11-23T12:08:04.025Z [error]: StrictPopulateError: Cannot populate path `children.children.article` because it is not in your schema. Set the `strictPopulate` option to false to override.
+    at getModelsMapForPopulate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\populate\getModelsMapForPopulate.js:50:12)
+    at populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4316:21)
+    at _populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4276:5)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4248:5
+    at new Promise (<anonymous>)
+    at Function.populate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4247:10)
+    at model.Query._find (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2384:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:63)
+2024-11-23T12:08:13.150Z [info]: Server is running on port 3000
+2024-11-23T12:08:16.608Z [info]: MongoDB connected successfully
+2024-11-23T12:08:44.679Z [info]: Server is running on port 3000
+2024-11-23T12:08:45.471Z [info]: MongoDB connected successfully
+2024-11-23T12:08:49.996Z [info]: Server is running on port 3000
+2024-11-23T12:08:50.709Z [info]: MongoDB connected successfully
+2024-11-23T12:09:10.760Z [info]: Server is running on port 3000
+2024-11-23T12:09:12.041Z [info]: MongoDB connected successfully
