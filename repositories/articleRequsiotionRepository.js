@@ -6,13 +6,16 @@ const FilePath = require("../models/approver/filePathModel");
 exports.getArticleRequations = async () => {
   return ArticleRequsition.find({
     status: true,
-  }).populate({
-    path: "children",
-    populate: {
-      path: "article articleChld",
-      select: "-children",
-    },
-  }).select("children approvers");
+  })
+    .populate({
+      path: "children",
+      populate: {
+        path: "article articleChld",
+        select: "-children",
+      },
+    })
+    .populate("approvers")
+    .select("children approvers");
 };
 exports.findByFields = (query) => {
   return ArticleRequsition.findOne(query);

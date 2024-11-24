@@ -3709,3 +3709,857 @@
 2024-11-23T12:08:50.709Z [info]: MongoDB connected successfully
 2024-11-23T12:09:10.760Z [info]: Server is running on port 3000
 2024-11-23T12:09:12.041Z [info]: MongoDB connected successfully
+2024-11-24T03:27:28.217Z [info]: Server is running on port 3000
+2024-11-24T03:27:37.072Z [info]: MongoDB connected successfully
+2024-11-24T03:30:33.879Z [info]: Server is running on port 3000
+2024-11-24T03:30:36.036Z [info]: MongoDB connected successfully
+2024-11-24T03:31:35.359Z [info]: Server is running on port 3000
+2024-11-24T03:31:46.013Z [info]: MongoDB connected successfully
+2024-11-24T03:32:00.315Z [info]: Server is running on port 3000
+2024-11-24T03:32:01.552Z [info]: MongoDB connected successfully
+2024-11-24T03:32:05.934Z [info]: Server is running on port 3000
+2024-11-24T03:32:07.553Z [info]: MongoDB connected successfully
+2024-11-24T03:35:08.728Z [info]: Server is running on port 3000
+2024-11-24T03:35:28.876Z [info]: MongoDB connected successfully
+2024-11-24T04:00:16.841Z [info]: Server is running on port 3000
+2024-11-24T04:00:19.558Z [info]: MongoDB connected successfully
+2024-11-24T04:00:25.673Z [info]: Server is running on port 3000
+2024-11-24T04:00:30.387Z [info]: MongoDB connected successfully
+2024-11-24T04:00:37.037Z [info]: Server is running on port 3000
+2024-11-24T04:00:37.530Z [info]: MongoDB connected successfully
+2024-11-24T04:01:53.448Z [info]: Server is running on port 3000
+2024-11-24T04:02:04.875Z [info]: MongoDB connected successfully
+2024-11-24T04:02:07.886Z [info]: Server is running on port 3000
+2024-11-24T04:02:08.817Z [info]: MongoDB connected successfully
+2024-11-24T04:02:43.702Z [info]: Server is running on port 3000
+2024-11-24T04:02:44.229Z [info]: MongoDB connected successfully
+2024-11-24T04:03:46.204Z [info]: Server is running on port 3000
+2024-11-24T04:03:50.830Z [info]: MongoDB connected successfully
+2024-11-24T04:03:55.845Z [info]: Server is running on port 3000
+2024-11-24T04:03:58.701Z [info]: Server is running on port 3000
+2024-11-24T04:04:00.942Z [info]: MongoDB connected successfully
+2024-11-24T04:04:02.530Z [info]: Server is running on port 3000
+2024-11-24T04:04:03.067Z [info]: MongoDB connected successfully
+2024-11-24T04:04:19.851Z [info]: Server is running on port 3000
+2024-11-24T04:04:20.378Z [info]: MongoDB connected successfully
+2024-11-24T04:04:21.944Z [info]: Server is running on port 3000
+2024-11-24T04:04:22.495Z [info]: MongoDB connected successfully
+2024-11-24T04:04:46.757Z [info]: Server is running on port 3000
+2024-11-24T04:04:48.845Z [info]: Server is running on port 3000
+2024-11-24T04:04:58.282Z [info]: MongoDB connected successfully
+2024-11-24T04:05:06.769Z [info]: Server is running on port 3000
+2024-11-24T04:05:07.315Z [info]: MongoDB connected successfully
+2024-11-24T04:05:13.398Z [info]: Server is running on port 3000
+2024-11-24T04:05:13.900Z [info]: MongoDB connected successfully
+2024-11-24T04:05:30.334Z [info]: Server is running on port 3000
+2024-11-24T04:05:35.330Z [info]: MongoDB connected successfully
+2024-11-24T04:05:37.109Z [info]: Server is running on port 3000
+2024-11-24T04:05:37.676Z [info]: MongoDB connected successfully
+2024-11-24T04:05:39.296Z [info]: Server is running on port 3000
+2024-11-24T04:05:39.882Z [info]: MongoDB connected successfully
+2024-11-24T04:05:52.412Z [info]: Server is running on port 3000
+2024-11-24T04:05:54.080Z [info]: MongoDB connected successfully
+2024-11-24T04:06:05.300Z [info]: Server is running on port 3000
+2024-11-24T04:06:06.650Z [info]: MongoDB connected successfully
+2024-11-24T04:06:09.787Z [info]: Server is running on port 3000
+2024-11-24T04:06:14.373Z [info]: MongoDB connected successfully
+2024-11-24T04:07:24.560Z [info]: Server is running on port 3000
+2024-11-24T04:07:27.040Z [info]: Server is running on port 3000
+2024-11-24T04:07:42.174Z [info]: MongoDB connected successfully
+2024-11-24T04:08:09.850Z [info]: Server is running on port 3000
+2024-11-24T04:08:10.405Z [info]: MongoDB connected successfully
+2024-11-24T04:08:14.259Z [info]: Server is running on port 3000
+2024-11-24T04:08:14.775Z [info]: MongoDB connected successfully
+2024-11-24T04:09:20.706Z [info]: Server is running on port 3000
+2024-11-24T04:09:23.867Z [info]: Server is running on port 3000
+2024-11-24T04:09:25.185Z [info]: MongoDB connected successfully
+2024-11-24T04:09:32.549Z [info]: Server is running on port 3000
+2024-11-24T04:09:33.075Z [info]: MongoDB connected successfully
+2024-11-24T04:09:34.735Z [info]: Server is running on port 3000
+2024-11-24T04:09:35.274Z [info]: MongoDB connected successfully
+2024-11-24T04:09:57.598Z [info]: Server is running on port 3000
+2024-11-24T04:10:02.297Z [info]: MongoDB connected successfully
+2024-11-24T04:10:04.490Z [info]: Server is running on port 3000
+2024-11-24T04:10:05.078Z [info]: MongoDB connected successfully
+2024-11-24T04:10:10.024Z [info]: Server is running on port 3000
+2024-11-24T04:10:10.523Z [info]: MongoDB connected successfully
+2024-11-24T04:10:14.437Z [info]: Server is running on port 3000
+2024-11-24T04:10:14.979Z [info]: MongoDB connected successfully
+2024-11-24T04:10:21.770Z [info]: Server is running on port 3000
+2024-11-24T04:10:27.434Z [info]: Server is running on port 3000
+2024-11-24T04:10:30.905Z [info]: Server is running on port 3000
+2024-11-24T04:10:36.220Z [info]: MongoDB connected successfully
+2024-11-24T04:12:18.941Z [info]: Server is running on port 3000
+2024-11-24T04:12:26.963Z [info]: MongoDB connected successfully
+2024-11-24T04:21:16.337Z [info]: Server is running on port 3000
+2024-11-24T04:21:26.086Z [info]: Server is running on port 3000
+2024-11-24T04:21:28.147Z [info]: MongoDB connected successfully
+2024-11-24T04:21:37.441Z [info]: Server is running on port 3000
+2024-11-24T04:21:40.501Z [info]: MongoDB connected successfully
+2024-11-24T04:21:45.673Z [info]: Server is running on port 3000
+2024-11-24T04:21:47.264Z [info]: MongoDB connected successfully
+2024-11-24T04:22:10.225Z [info]: Server is running on port 3000
+2024-11-24T04:22:14.525Z [info]: Server is running on port 3000
+2024-11-24T04:22:15.036Z [info]: MongoDB connected successfully
+2024-11-24T04:22:25.336Z [info]: Server is running on port 3000
+2024-11-24T04:22:36.020Z [info]: MongoDB connected successfully
+2024-11-24T04:22:43.889Z [info]: Server is running on port 3000
+2024-11-24T04:22:44.772Z [info]: MongoDB connected successfully
+2024-11-24T04:22:59.662Z [info]: Server is running on port 3000
+2024-11-24T04:23:00.278Z [info]: MongoDB connected successfully
+2024-11-24T04:23:03.140Z [info]: Server is running on port 3000
+2024-11-24T04:23:06.824Z [info]: MongoDB connected successfully
+2024-11-24T04:23:10.397Z [info]: Server is running on port 3000
+2024-11-24T04:23:10.980Z [info]: MongoDB connected successfully
+2024-11-24T04:23:19.737Z [info]: Server is running on port 3000
+2024-11-24T04:23:20.325Z [info]: MongoDB connected successfully
+2024-11-24T04:23:56.153Z [info]: Server is running on port 3000
+2024-11-24T04:24:03.971Z [info]: Server is running on port 3000
+2024-11-24T04:24:06.912Z [info]: MongoDB connected successfully
+2024-11-24T04:24:28.826Z [info]: Server is running on port 3000
+2024-11-24T04:24:30.809Z [info]: Server is running on port 3000
+2024-11-24T04:24:37.852Z [info]: MongoDB connected successfully
+2024-11-24T04:25:04.140Z [info]: Server is running on port 3000
+2024-11-24T04:25:06.396Z [info]: Server is running on port 3000
+2024-11-24T04:25:13.361Z [info]: MongoDB connected successfully
+2024-11-24T04:25:24.190Z [info]: Server is running on port 3000
+2024-11-24T04:25:26.330Z [info]: MongoDB connected successfully
+2024-11-24T04:25:28.208Z [info]: Server is running on port 3000
+2024-11-24T04:25:32.164Z [info]: MongoDB connected successfully
+2024-11-24T04:25:40.781Z [info]: Server is running on port 3000
+2024-11-24T04:25:43.660Z [info]: MongoDB connected successfully
+2024-11-24T04:26:18.814Z [info]: Server is running on port 3000
+2024-11-24T04:26:30.787Z [error]: MongoDB connection failed: querySrv ESERVFAIL _mongodb._tcp.kashfulcluster0.ulwbv.mongodb.net
+2024-11-24T04:26:32.752Z [info]: Server is running on port 3000
+2024-11-24T04:26:37.211Z [info]: MongoDB connected successfully
+2024-11-24T04:26:39.182Z [info]: Server is running on port 3000
+2024-11-24T04:26:40.466Z [info]: MongoDB connected successfully
+2024-11-24T04:26:45.216Z [info]: Server is running on port 3000
+2024-11-24T04:26:46.899Z [info]: Server is running on port 3000
+2024-11-24T04:26:49.238Z [info]: MongoDB connected successfully
+2024-11-24T04:26:57.258Z [info]: Server is running on port 3000
+2024-11-24T04:26:58.709Z [info]: MongoDB connected successfully
+2024-11-24T04:27:28.875Z [info]: Server is running on port 3000
+2024-11-24T04:27:29.983Z [info]: MongoDB connected successfully
+2024-11-24T04:27:41.347Z [info]: Server is running on port 3000
+2024-11-24T04:27:49.362Z [info]: Server is running on port 3000
+2024-11-24T04:27:51.954Z [info]: Server is running on port 3000
+2024-11-24T04:27:54.432Z [info]: MongoDB connected successfully
+2024-11-24T04:29:59.646Z [info]: Server is running on port 3000
+2024-11-24T04:30:15.180Z [info]: MongoDB connected successfully
+2024-11-24T04:30:31.700Z [info]: Server is running on port 3000
+2024-11-24T04:30:32.199Z [info]: MongoDB connected successfully
+2024-11-24T04:30:56.419Z [info]: Server is running on port 3000
+2024-11-24T04:30:56.929Z [info]: MongoDB connected successfully
+2024-11-24T04:30:58.585Z [info]: Server is running on port 3000
+2024-11-24T04:31:01.214Z [info]: MongoDB connected successfully
+2024-11-24T04:31:17.945Z [info]: Server is running on port 3000
+2024-11-24T04:31:18.793Z [info]: MongoDB connected successfully
+2024-11-24T04:31:28.070Z [info]: Server is running on port 3000
+2024-11-24T04:31:30.857Z [info]: MongoDB connected successfully
+2024-11-24T04:31:48.587Z [info]: Server is running on port 3000
+2024-11-24T04:31:49.126Z [info]: MongoDB connected successfully
+2024-11-24T04:31:51.533Z [info]: Server is running on port 3000
+2024-11-24T04:31:52.112Z [info]: MongoDB connected successfully
+2024-11-24T04:32:29.861Z [info]: Server is running on port 3000
+2024-11-24T04:32:37.976Z [info]: MongoDB connected successfully
+2024-11-24T04:33:21.184Z [info]: Server is running on port 3000
+2024-11-24T04:33:21.902Z [info]: MongoDB connected successfully
+2024-11-24T04:34:20.291Z [info]: Server is running on port 3000
+2024-11-24T04:34:22.233Z [info]: Server is running on port 3000
+2024-11-24T04:34:26.812Z [info]: MongoDB connected successfully
+2024-11-24T04:34:51.251Z [info]: Server is running on port 3000
+2024-11-24T04:34:55.863Z [info]: MongoDB connected successfully
+2024-11-24T04:34:57.694Z [info]: Server is running on port 3000
+2024-11-24T04:34:58.221Z [info]: MongoDB connected successfully
+2024-11-24T04:35:36.739Z [info]: Server is running on port 3000
+2024-11-24T04:35:44.836Z [info]: MongoDB connected successfully
+2024-11-24T04:35:56.193Z [info]: Server is running on port 3000
+2024-11-24T04:35:56.716Z [info]: MongoDB connected successfully
+2024-11-24T04:36:18.320Z [info]: Server is running on port 3000
+2024-11-24T04:36:18.992Z [info]: MongoDB connected successfully
+2024-11-24T04:36:24.442Z [info]: Server is running on port 3000
+2024-11-24T04:36:24.977Z [info]: MongoDB connected successfully
+2024-11-24T04:36:28.310Z [info]: Server is running on port 3000
+2024-11-24T04:36:28.837Z [info]: MongoDB connected successfully
+2024-11-24T04:39:07.881Z [info]: Server is running on port 3000
+2024-11-24T04:39:17.459Z [info]: MongoDB connected successfully
+2024-11-24T04:39:21.799Z [info]: Server is running on port 3000
+2024-11-24T04:39:22.350Z [info]: MongoDB connected successfully
+2024-11-24T04:39:39.425Z [info]: Server is running on port 3000
+2024-11-24T04:39:39.993Z [info]: MongoDB connected successfully
+2024-11-24T04:39:58.495Z [info]: Server is running on port 3000
+2024-11-24T04:39:59.123Z [info]: MongoDB connected successfully
+2024-11-24T04:40:01.728Z [info]: Server is running on port 3000
+2024-11-24T04:40:02.210Z [info]: MongoDB connected successfully
+2024-11-24T04:40:16.172Z [info]: Server is running on port 3000
+2024-11-24T04:40:19.159Z [info]: Server is running on port 3000
+2024-11-24T04:40:19.973Z [info]: MongoDB connected successfully
+2024-11-24T04:40:43.035Z [info]: Server is running on port 3000
+2024-11-24T04:40:43.518Z [info]: MongoDB connected successfully
+2024-11-24T04:40:53.528Z [info]: Server is running on port 3000
+2024-11-24T04:40:55.760Z [info]: Server is running on port 3000
+2024-11-24T04:41:03.922Z [info]: MongoDB connected successfully
+2024-11-24T04:41:12.844Z [info]: Server is running on port 3000
+2024-11-24T04:41:13.352Z [info]: MongoDB connected successfully
+2024-11-24T04:41:14.501Z [info]: Server is running on port 3000
+2024-11-24T04:41:15.020Z [info]: MongoDB connected successfully
+2024-11-24T04:42:15.646Z [info]: Server is running on port 3000
+2024-11-24T04:42:20.139Z [info]: Server is running on port 3000
+2024-11-24T04:42:20.726Z [info]: MongoDB connected successfully
+2024-11-24T04:42:27.070Z [info]: Server is running on port 3000
+2024-11-24T04:42:28.540Z [info]: Server is running on port 3000
+2024-11-24T04:42:29.031Z [info]: MongoDB connected successfully
+2024-11-24T04:42:32.105Z [info]: Server is running on port 3000
+2024-11-24T04:42:32.637Z [info]: MongoDB connected successfully
+2024-11-24T04:42:34.057Z [info]: Server is running on port 3000
+2024-11-24T04:42:34.569Z [info]: MongoDB connected successfully
+2024-11-24T04:43:10.529Z [info]: Server is running on port 3000
+2024-11-24T04:43:11.109Z [info]: MongoDB connected successfully
+2024-11-24T04:43:17.693Z [info]: Server is running on port 3000
+2024-11-24T04:43:21.434Z [info]: Server is running on port 3000
+2024-11-24T04:43:29.409Z [info]: MongoDB connected successfully
+2024-11-24T04:43:34.320Z [info]: Server is running on port 3000
+2024-11-24T04:43:34.817Z [info]: MongoDB connected successfully
+2024-11-24T04:43:47.845Z [info]: Server is running on port 3000
+2024-11-24T04:43:48.346Z [info]: MongoDB connected successfully
+2024-11-24T04:44:11.418Z [info]: Server is running on port 3000
+2024-11-24T04:44:16.786Z [info]: Server is running on port 3000
+2024-11-24T04:44:18.169Z [info]: MongoDB connected successfully
+2024-11-24T04:47:03.878Z [info]: Server is running on port 3000
+2024-11-24T04:47:05.316Z [info]: MongoDB connected successfully
+2024-11-24T05:11:11.835Z [info]: Server is running on port 3000
+2024-11-24T05:11:24.738Z [info]: MongoDB connected successfully
+2024-11-24T05:13:54.055Z [info]: Server is running on port 3000
+2024-11-24T05:14:02.703Z [info]: MongoDB connected successfully
+2024-11-24T05:16:02.706Z [info]: Server is running on port 3000
+2024-11-24T05:16:13.581Z [info]: MongoDB connected successfully
+2024-11-24T05:19:45.547Z [info]: Server is running on port 3000
+2024-11-24T05:19:54.074Z [info]: MongoDB connected successfully
+2024-11-24T05:20:23.215Z [info]: Server is running on port 3000
+2024-11-24T05:20:23.739Z [info]: MongoDB connected successfully
+2024-11-24T05:20:57.519Z [info]: Server is running on port 3000
+2024-11-24T05:21:00.198Z [info]: Server is running on port 3000
+2024-11-24T05:21:03.070Z [info]: MongoDB connected successfully
+2024-11-24T05:21:13.950Z [info]: Server is running on port 3000
+2024-11-24T05:21:14.433Z [info]: MongoDB connected successfully
+2024-11-24T05:21:42.684Z [info]: Server is running on port 3000
+2024-11-24T05:21:43.586Z [info]: MongoDB connected successfully
+2024-11-24T05:22:08.017Z [info]: Server is running on port 3000
+2024-11-24T05:22:15.680Z [info]: MongoDB connected successfully
+2024-11-24T05:23:56.301Z [info]: Server is running on port 3000
+2024-11-24T05:24:05.116Z [info]: MongoDB connected successfully
+2024-11-24T05:24:48.535Z [info]: Server is running on port 3000
+2024-11-24T05:24:49.251Z [info]: MongoDB connected successfully
+2024-11-24T05:25:20.115Z [info]: Server is running on port 3000
+2024-11-24T05:25:20.830Z [info]: MongoDB connected successfully
+2024-11-24T05:25:30.757Z [info]: Server is running on port 3000
+2024-11-24T05:25:35.366Z [info]: MongoDB connected successfully
+2024-11-24T05:25:37.766Z [info]: Server is running on port 3000
+2024-11-24T05:25:42.422Z [info]: MongoDB connected successfully
+2024-11-24T05:25:53.587Z [info]: Server is running on port 3000
+2024-11-24T05:25:57.200Z [info]: MongoDB connected successfully
+2024-11-24T05:26:27.273Z [info]: Server is running on port 3000
+2024-11-24T05:26:32.022Z [info]: MongoDB connected successfully
+2024-11-24T05:26:56.497Z [info]: Server is running on port 3000
+2024-11-24T05:26:57.557Z [info]: MongoDB connected successfully
+2024-11-24T05:27:10.182Z [info]: Server is running on port 3000
+2024-11-24T05:27:10.778Z [info]: MongoDB connected successfully
+2024-11-24T05:27:22.075Z [info]: Server is running on port 3000
+2024-11-24T05:27:22.579Z [info]: MongoDB connected successfully
+2024-11-24T05:27:38.901Z [info]: Server is running on port 3000
+2024-11-24T05:27:39.531Z [info]: MongoDB connected successfully
+2024-11-24T05:28:06.091Z [info]: Server is running on port 3000
+2024-11-24T05:28:09.147Z [info]: Server is running on port 3000
+2024-11-24T05:28:11.789Z [info]: Server is running on port 3000
+2024-11-24T05:28:16.702Z [info]: MongoDB connected successfully
+2024-11-24T05:28:22.820Z [info]: Server is running on port 3000
+2024-11-24T05:28:23.338Z [info]: MongoDB connected successfully
+2024-11-24T05:28:25.169Z [info]: Server is running on port 3000
+2024-11-24T05:28:27.792Z [info]: MongoDB connected successfully
+2024-11-24T05:29:05.017Z [info]: Server is running on port 3000
+2024-11-24T05:29:07.582Z [info]: Server is running on port 3000
+2024-11-24T05:29:09.103Z [info]: MongoDB connected successfully
+2024-11-24T05:30:28.313Z [info]: Server is running on port 3000
+2024-11-24T05:30:29.807Z [info]: MongoDB connected successfully
+2024-11-24T05:30:59.723Z [info]: Server is running on port 3000
+2024-11-24T05:31:07.329Z [info]: MongoDB connected successfully
+2024-11-24T05:32:12.941Z [info]: Server is running on port 3000
+2024-11-24T05:32:22.610Z [info]: MongoDB connected successfully
+2024-11-24T05:33:21.161Z [info]: Server is running on port 3000
+2024-11-24T05:33:22.658Z [info]: MongoDB connected successfully
+2024-11-24T05:33:25.502Z [info]: Server is running on port 3000
+2024-11-24T05:33:26.168Z [info]: MongoDB connected successfully
+2024-11-24T05:33:28.293Z [info]: Server is running on port 3000
+2024-11-24T05:33:28.833Z [info]: MongoDB connected successfully
+2024-11-24T05:34:34.098Z [info]: Server is running on port 3000
+2024-11-24T05:34:39.669Z [info]: MongoDB connected successfully
+2024-11-24T05:36:55.419Z [info]: Server is running on port 3000
+2024-11-24T05:37:04.781Z [info]: MongoDB connected successfully
+2024-11-24T05:37:19.177Z [info]: Server is running on port 3000
+2024-11-24T05:37:19.986Z [info]: MongoDB connected successfully
+2024-11-24T05:37:50.946Z [info]: Server is running on port 3000
+2024-11-24T05:37:51.625Z [info]: MongoDB connected successfully
+2024-11-24T05:42:26.917Z [info]: Server is running on port 3000
+2024-11-24T05:42:28.426Z [info]: MongoDB connected successfully
+2024-11-24T05:42:30.170Z [info]: Server is running on port 3000
+2024-11-24T05:42:31.293Z [info]: MongoDB connected successfully
+2024-11-24T05:42:39.991Z [info]: Server is running on port 3000
+2024-11-24T05:42:40.502Z [info]: MongoDB connected successfully
+2024-11-24T05:42:46.870Z [info]: Server is running on port 3000
+2024-11-24T05:42:47.559Z [info]: MongoDB connected successfully
+2024-11-24T05:42:49.623Z [info]: Server is running on port 3000
+2024-11-24T05:42:50.313Z [info]: MongoDB connected successfully
+2024-11-24T05:44:43.523Z [info]: Server is running on port 3000
+2024-11-24T05:44:48.486Z [info]: MongoDB connected successfully
+2024-11-24T05:44:50.271Z [info]: Server is running on port 3000
+2024-11-24T05:44:51.032Z [info]: MongoDB connected successfully
+2024-11-24T05:45:01.638Z [info]: Server is running on port 3000
+2024-11-24T05:45:02.236Z [info]: MongoDB connected successfully
+2024-11-24T05:45:09.080Z [info]: Server is running on port 3000
+2024-11-24T05:45:09.567Z [info]: MongoDB connected successfully
+2024-11-24T05:45:16.802Z [info]: Server is running on port 3000
+2024-11-24T05:45:17.496Z [info]: MongoDB connected successfully
+2024-11-24T05:45:25.226Z [info]: Server is running on port 3000
+2024-11-24T05:45:25.831Z [info]: MongoDB connected successfully
+2024-11-24T05:46:10.401Z [info]: Server is running on port 3000
+2024-11-24T05:46:13.926Z [info]: Server is running on port 3000
+2024-11-24T05:46:25.734Z [info]: MongoDB connected successfully
+2024-11-24T05:46:44.101Z [info]: Server is running on port 3000
+2024-11-24T05:46:44.613Z [info]: MongoDB connected successfully
+2024-11-24T05:46:54.336Z [info]: Server is running on port 3000
+2024-11-24T05:46:54.812Z [info]: MongoDB connected successfully
+2024-11-24T05:47:03.580Z [info]: Server is running on port 3000
+2024-11-24T05:47:04.169Z [info]: MongoDB connected successfully
+2024-11-24T05:47:15.096Z [info]: Server is running on port 3000
+2024-11-24T05:47:18.093Z [info]: Server is running on port 3000
+2024-11-24T05:47:23.066Z [info]: Server is running on port 3000
+2024-11-24T05:47:25.717Z [info]: MongoDB connected successfully
+2024-11-24T05:47:36.010Z [info]: Server is running on port 3000
+2024-11-24T05:47:39.117Z [info]: Server is running on port 3000
+2024-11-24T05:47:42.263Z [info]: MongoDB connected successfully
+2024-11-24T05:48:00.388Z [info]: Server is running on port 3000
+2024-11-24T05:48:00.951Z [info]: MongoDB connected successfully
+2024-11-24T05:49:16.745Z [info]: Server is running on port 3000
+2024-11-24T05:49:20.694Z [info]: Server is running on port 3000
+2024-11-24T05:49:21.361Z [info]: MongoDB connected successfully
+2024-11-24T05:50:02.712Z [info]: Server is running on port 3000
+2024-11-24T05:50:07.596Z [info]: Server is running on port 3000
+2024-11-24T05:50:08.119Z [info]: MongoDB connected successfully
+2024-11-24T05:50:15.373Z [info]: Server is running on port 3000
+2024-11-24T05:50:15.847Z [info]: MongoDB connected successfully
+2024-11-24T05:50:18.982Z [info]: Server is running on port 3000
+2024-11-24T05:50:25.105Z [info]: MongoDB connected successfully
+2024-11-24T05:53:50.688Z [info]: Server is running on port 3000
+2024-11-24T05:54:01.153Z [info]: Server is running on port 3000
+2024-11-24T05:54:02.246Z [info]: MongoDB connected successfully
+2024-11-24T05:54:36.104Z [info]: Server is running on port 3000
+2024-11-24T05:54:36.606Z [info]: MongoDB connected successfully
+2024-11-24T05:54:47.386Z [info]: Server is running on port 3000
+2024-11-24T05:54:47.905Z [info]: MongoDB connected successfully
+2024-11-24T05:55:15.536Z [info]: Server is running on port 3000
+2024-11-24T05:55:20.851Z [info]: MongoDB connected successfully
+2024-11-24T05:55:22.142Z [info]: Server is running on port 3000
+2024-11-24T05:55:22.643Z [info]: MongoDB connected successfully
+2024-11-24T05:55:25.757Z [info]: Server is running on port 3000
+2024-11-24T05:55:26.257Z [info]: MongoDB connected successfully
+2024-11-24T05:56:28.188Z [info]: Server is running on port 3000
+2024-11-24T05:56:40.615Z [info]: Server is running on port 3000
+2024-11-24T05:56:43.255Z [info]: MongoDB connected successfully
+2024-11-24T05:56:52.661Z [info]: Server is running on port 3000
+2024-11-24T05:56:55.161Z [info]: Server is running on port 3000
+2024-11-24T05:56:57.640Z [info]: MongoDB connected successfully
+2024-11-24T05:57:08.479Z [info]: Server is running on port 3000
+2024-11-24T05:57:09.170Z [info]: MongoDB connected successfully
+2024-11-24T05:57:44.256Z [info]: Server is running on port 3000
+2024-11-24T05:57:45.569Z [info]: MongoDB connected successfully
+2024-11-24T05:58:07.758Z [info]: Server is running on port 3000
+2024-11-24T05:58:08.492Z [info]: MongoDB connected successfully
+2024-11-24T05:58:20.304Z [info]: Server is running on port 3000
+2024-11-24T05:58:21.249Z [info]: MongoDB connected successfully
+2024-11-24T05:58:35.380Z [info]: Server is running on port 3000
+2024-11-24T05:58:39.913Z [info]: MongoDB connected successfully
+2024-11-24T05:58:41.515Z [info]: Server is running on port 3000
+2024-11-24T05:58:41.998Z [info]: MongoDB connected successfully
+2024-11-24T05:58:49.675Z [info]: Server is running on port 3000
+2024-11-24T05:58:51.006Z [info]: MongoDB connected successfully
+2024-11-24T05:58:52.472Z [info]: Server is running on port 3000
+2024-11-24T05:58:53.106Z [info]: MongoDB connected successfully
+2024-11-24T05:59:03.013Z [info]: Server is running on port 3000
+2024-11-24T05:59:06.682Z [info]: MongoDB connected successfully
+2024-11-24T05:59:18.071Z [info]: Server is running on port 3000
+2024-11-24T05:59:20.849Z [info]: MongoDB connected successfully
+2024-11-24T05:59:23.444Z [info]: Server is running on port 3000
+2024-11-24T05:59:24.028Z [info]: MongoDB connected successfully
+2024-11-24T06:00:08.415Z [info]: Server is running on port 3000
+2024-11-24T06:00:17.981Z [info]: Server is running on port 3000
+2024-11-24T06:00:18.501Z [info]: MongoDB connected successfully
+2024-11-24T06:00:21.732Z [info]: Server is running on port 3000
+2024-11-24T06:00:22.253Z [info]: MongoDB connected successfully
+2024-11-24T06:00:29.959Z [info]: Server is running on port 3000
+2024-11-24T06:00:31.114Z [info]: Server is running on port 3000
+2024-11-24T06:00:33.116Z [info]: Server is running on port 3000
+2024-11-24T06:00:34.326Z [info]: MongoDB connected successfully
+2024-11-24T06:00:53.711Z [info]: Server is running on port 3000
+2024-11-24T06:00:58.965Z [info]: MongoDB connected successfully
+2024-11-24T06:01:16.625Z [info]: Server is running on port 3000
+2024-11-24T06:01:19.537Z [info]: MongoDB connected successfully
+2024-11-24T06:02:10.573Z [info]: Server is running on port 3000
+2024-11-24T06:02:11.149Z [info]: MongoDB connected successfully
+2024-11-24T06:02:19.241Z [info]: Server is running on port 3000
+2024-11-24T06:02:23.762Z [info]: MongoDB connected successfully
+2024-11-24T06:02:37.233Z [info]: Server is running on port 3000
+2024-11-24T06:02:37.729Z [info]: MongoDB connected successfully
+2024-11-24T06:02:39.999Z [info]: Server is running on port 3000
+2024-11-24T06:02:40.578Z [info]: MongoDB connected successfully
+2024-11-24T06:02:46.813Z [info]: Server is running on port 3000
+2024-11-24T06:02:48.332Z [info]: MongoDB connected successfully
+2024-11-24T06:02:56.550Z [info]: Server is running on port 3000
+2024-11-24T06:02:57.068Z [info]: MongoDB connected successfully
+2024-11-24T06:03:01.736Z [info]: Server is running on port 3000
+2024-11-24T06:03:02.263Z [info]: MongoDB connected successfully
+2024-11-24T06:05:54.399Z [error]: Error in Save Purchase: PurchaseChld validation failed: article: Cast to ObjectId failed for value "123456789" (type string) at path "article" because of "BSONError", articleChld: Cast to ObjectId failed for value "5646" (type number) at path "articleChld" because of "BSONError"
+2024-11-24T06:05:54.400Z [error]: ValidationError: PurchaseChld validation failed: article: Cast to ObjectId failed for value "123456789" (type string) at path "article" because of "BSONError", articleChld: Cast to ObjectId failed for value "5646" (type number) at path "articleChld" because of "BSONError"
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at model.$set (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:1474:12)
+    at model.$set (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:1128:16)
+    at model.Document (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:177:12)
+    at model.Model (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:127:12)
+    at new model (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4682:15)
+    at Array.<anonymous> (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:2905:17)
+    at _start (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\parallelLimit.js:27:37)
+    at parallelLimit (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\parallelLimit.js:23:5)
+    at Model.$__insertMany (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:2936:3)
+2024-11-24T06:07:42.243Z [error]: Error in Save Purchase: Cannot read properties of undefined (reading 'push')
+2024-11-24T06:07:42.245Z [error]: TypeError: Cannot read properties of undefined (reading 'push')
+    at E:\durulhoda\nodetutorial\ecom\repositories\purchaseRepository.js:22:25
+    at Array.forEach (<anonymous>)
+    at exports.savePurchase (E:\durulhoda\nodetutorial\ecom\repositories\purchaseRepository.js:21:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.savePurchase (E:\durulhoda\nodetutorial\ecom\controllers\purchaseController.js:12:20)
+2024-11-24T06:07:54.124Z [info]: Server is running on port 3000
+2024-11-24T06:08:01.084Z [info]: MongoDB connected successfully
+2024-11-24T06:08:28.507Z [info]: Server is running on port 3000
+2024-11-24T06:08:29.041Z [info]: MongoDB connected successfully
+2024-11-24T06:09:41.138Z [info]: Server is running on port 3000
+2024-11-24T06:09:47.644Z [info]: Server is running on port 3000
+2024-11-24T06:09:52.024Z [info]: MongoDB connected successfully
+2024-11-24T06:15:15.944Z [info]: Server is running on port 3000
+2024-11-24T06:15:21.735Z [info]: MongoDB connected successfully
+2024-11-24T06:15:25.236Z [info]: Server is running on port 3000
+2024-11-24T06:15:26.033Z [info]: MongoDB connected successfully
+2024-11-24T06:18:57.606Z [info]: Server is running on port 3000
+2024-11-24T06:18:59.243Z [info]: MongoDB connected successfully
+2024-11-24T06:19:09.889Z [info]: Server is running on port 3000
+2024-11-24T06:19:11.452Z [info]: MongoDB connected successfully
+2024-11-24T06:27:40.418Z [info]: Server is running on port 3000
+2024-11-24T06:27:46.998Z [info]: MongoDB connected successfully
+2024-11-24T06:28:07.571Z [info]: Server is running on port 3000
+2024-11-24T06:28:08.076Z [info]: MongoDB connected successfully
+2024-11-24T06:29:58.623Z [info]: Server is running on port 3000
+2024-11-24T06:30:06.571Z [info]: MongoDB connected successfully
+2024-11-24T06:31:44.919Z [info]: Server is running on port 3000
+2024-11-24T06:31:47.754Z [info]: Server is running on port 3000
+2024-11-24T06:31:52.346Z [info]: MongoDB connected successfully
+2024-11-24T06:34:02.278Z [info]: Server is running on port 3000
+2024-11-24T06:34:10.911Z [info]: MongoDB connected successfully
+2024-11-24T06:48:02.277Z [info]: Server is running on port 3000
+2024-11-24T06:48:11.277Z [info]: MongoDB connected successfully
+2024-11-24T06:56:05.499Z [info]: Server is running on port 3000
+2024-11-24T06:56:14.060Z [info]: MongoDB connected successfully
+2024-11-24T06:56:44.287Z [info]: Server is running on port 3000
+2024-11-24T06:56:44.965Z [info]: MongoDB connected successfully
+2024-11-24T06:57:41.837Z [info]: Server is running on port 3000
+2024-11-24T06:57:50.363Z [info]: MongoDB connected successfully
+2024-11-24T06:58:10.584Z [info]: Server is running on port 3000
+2024-11-24T06:58:11.112Z [info]: MongoDB connected successfully
+2024-11-24T06:58:18.970Z [info]: Server is running on port 3000
+2024-11-24T06:58:19.613Z [info]: MongoDB connected successfully
+2024-11-24T06:58:36.448Z [info]: Server is running on port 3000
+2024-11-24T06:58:37.069Z [info]: MongoDB connected successfully
+2024-11-24T07:04:42.687Z [info]: Server is running on port 3000
+2024-11-24T07:04:51.811Z [info]: Server is running on port 3000
+2024-11-24T07:04:53.621Z [info]: MongoDB connected successfully
+2024-11-24T07:05:09.599Z [info]: Server is running on port 3000
+2024-11-24T07:05:10.375Z [info]: MongoDB connected successfully
+2024-11-24T07:05:22.795Z [info]: Server is running on port 3000
+2024-11-24T07:05:23.592Z [info]: MongoDB connected successfully
+2024-11-24T07:05:33.320Z [info]: Server is running on port 3000
+2024-11-24T07:05:33.829Z [info]: MongoDB connected successfully
+2024-11-24T07:05:57.639Z [info]: Server is running on port 3000
+2024-11-24T07:06:01.075Z [info]: MongoDB connected successfully
+2024-11-24T07:07:13.469Z [info]: Server is running on port 3000
+2024-11-24T07:07:26.722Z [info]: MongoDB connected successfully
+2024-11-24T07:08:06.730Z [info]: Server is running on port 3000
+2024-11-24T07:08:07.474Z [info]: MongoDB connected successfully
+2024-11-24T07:08:17.569Z [info]: Server is running on port 3000
+2024-11-24T07:08:18.448Z [info]: MongoDB connected successfully
+2024-11-24T07:11:03.479Z [info]: Server is running on port 3000
+2024-11-24T07:11:05.178Z [info]: MongoDB connected successfully
+2024-11-24T07:11:38.872Z [info]: Server is running on port 3000
+2024-11-24T07:11:40.941Z [info]: Server is running on port 3000
+2024-11-24T07:12:00.967Z [info]: MongoDB connected successfully
+2024-11-24T07:13:43.535Z [info]: Server is running on port 3000
+2024-11-24T07:13:53.862Z [info]: MongoDB connected successfully
+2024-11-24T07:13:58.027Z [info]: Server is running on port 3000
+2024-11-24T07:13:58.561Z [info]: MongoDB connected successfully
+2024-11-24T07:14:27.811Z [info]: Server is running on port 3000
+2024-11-24T07:14:28.343Z [info]: MongoDB connected successfully
+2024-11-24T07:14:54.511Z [info]: Server is running on port 3000
+2024-11-24T07:14:57.660Z [info]: Server is running on port 3000
+2024-11-24T07:15:02.984Z [info]: MongoDB connected successfully
+2024-11-24T07:15:44.856Z [info]: Server is running on port 3000
+2024-11-24T07:15:45.430Z [info]: MongoDB connected successfully
+2024-11-24T07:16:34.536Z [info]: Server is running on port 3000
+2024-11-24T07:16:43.208Z [info]: MongoDB connected successfully
+2024-11-24T07:17:40.422Z [info]: Server is running on port 3000
+2024-11-24T07:17:47.802Z [info]: MongoDB connected successfully
+2024-11-24T07:18:47.738Z [info]: Server is running on port 3000
+2024-11-24T07:18:49.136Z [info]: MongoDB connected successfully
+2024-11-24T08:10:23.463Z [info]: Server is running on port 3000
+2024-11-24T08:10:39.306Z [info]: MongoDB connected successfully
+2024-11-24T08:11:19.453Z [info]: Server is running on port 3000
+2024-11-24T08:11:19.964Z [info]: MongoDB connected successfully
+2024-11-24T08:33:04.697Z [info]: Server is running on port 3000
+2024-11-24T08:33:11.807Z [info]: MongoDB connected successfully
+2024-11-24T08:33:26.163Z [info]: Server is running on port 3000
+2024-11-24T08:33:26.688Z [info]: MongoDB connected successfully
+2024-11-24T08:34:05.346Z [info]: Server is running on port 3000
+2024-11-24T08:34:16.284Z [info]: MongoDB connected successfully
+2024-11-24T08:35:03.230Z [info]: Server is running on port 3000
+2024-11-24T08:35:08.647Z [info]: Server is running on port 3000
+2024-11-24T08:35:10.325Z [info]: MongoDB connected successfully
+2024-11-24T08:35:42.769Z [info]: Server is running on port 3000
+2024-11-24T08:35:43.725Z [info]: MongoDB connected successfully
+2024-11-24T08:35:48.912Z [info]: Server is running on port 3000
+2024-11-24T08:35:49.436Z [info]: MongoDB connected successfully
+2024-11-24T08:37:44.788Z [info]: Server is running on port 3000
+2024-11-24T08:37:49.768Z [info]: Server is running on port 3000
+2024-11-24T08:37:53.207Z [info]: MongoDB connected successfully
+2024-11-24T08:38:46.194Z [info]: Server is running on port 3000
+2024-11-24T08:38:48.043Z [info]: Server is running on port 3000
+2024-11-24T08:39:02.264Z [info]: MongoDB connected successfully
+2024-11-24T08:39:11.794Z [info]: Server is running on port 3000
+2024-11-24T08:39:14.364Z [info]: MongoDB connected successfully
+2024-11-24T08:40:35.442Z [info]: Server is running on port 3000
+2024-11-24T08:40:36.867Z [info]: MongoDB connected successfully
+2024-11-24T08:41:19.554Z [info]: Server is running on port 3000
+2024-11-24T08:41:20.116Z [info]: MongoDB connected successfully
+2024-11-24T08:41:27.784Z [info]: Server is running on port 3000
+2024-11-24T08:41:28.737Z [info]: MongoDB connected successfully
+2024-11-24T08:41:36.613Z [info]: Server is running on port 3000
+2024-11-24T08:41:39.397Z [info]: Server is running on port 3000
+2024-11-24T08:41:45.469Z [info]: MongoDB connected successfully
+2024-11-24T08:41:58.651Z [info]: Server is running on port 3000
+2024-11-24T08:42:00.149Z [info]: MongoDB connected successfully
+2024-11-24T08:42:07.178Z [info]: Server is running on port 3000
+2024-11-24T08:42:07.705Z [info]: MongoDB connected successfully
+2024-11-24T08:42:25.149Z [error]: Error in Save Purchase: Inventory validation failed: netSock: Path `netSock` is required.
+2024-11-24T08:42:25.152Z [error]: ValidationError: Inventory validation failed: netSock: Path `netSock` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-24T08:42:45.899Z [info]: Server is running on port 3000
+2024-11-24T08:42:47.607Z [info]: MongoDB connected successfully
+2024-11-24T08:42:49.961Z [info]: Server is running on port 3000
+2024-11-24T08:42:50.506Z [info]: MongoDB connected successfully
+2024-11-24T08:42:58.408Z [info]: Server is running on port 3000
+2024-11-24T08:43:00.532Z [info]: Server is running on port 3000
+2024-11-24T08:43:05.522Z [info]: Server is running on port 3000
+2024-11-24T08:43:06.017Z [info]: MongoDB connected successfully
+2024-11-24T08:43:07.175Z [info]: Server is running on port 3000
+2024-11-24T08:43:07.715Z [info]: MongoDB connected successfully
+2024-11-24T08:43:31.042Z [info]: Server is running on port 3000
+2024-11-24T08:43:31.597Z [info]: MongoDB connected successfully
+2024-11-24T08:45:10.035Z [info]: Server is running on port 3000
+2024-11-24T08:45:17.998Z [info]: MongoDB connected successfully
+2024-11-24T08:45:44.582Z [info]: Server is running on port 3000
+2024-11-24T08:45:49.202Z [info]: MongoDB connected successfully
+2024-11-24T08:45:52.643Z [info]: Server is running on port 3000
+2024-11-24T08:45:53.218Z [info]: MongoDB connected successfully
+2024-11-24T08:46:08.213Z [info]: Server is running on port 3000
+2024-11-24T08:46:08.953Z [info]: MongoDB connected successfully
+2024-11-24T08:46:15.104Z [info]: Server is running on port 3000
+2024-11-24T08:46:19.815Z [info]: MongoDB connected successfully
+2024-11-24T08:48:49.355Z [info]: Server is running on port 3000
+2024-11-24T08:48:59.340Z [info]: Server is running on port 3000
+2024-11-24T08:49:03.243Z [info]: MongoDB connected successfully
+2024-11-24T08:49:43.554Z [info]: Server is running on port 3000
+2024-11-24T08:49:44.144Z [info]: MongoDB connected successfully
+2024-11-24T08:49:50.552Z [info]: Server is running on port 3000
+2024-11-24T08:49:58.147Z [info]: MongoDB connected successfully
+2024-11-24T08:50:08.850Z [info]: Server is running on port 3000
+2024-11-24T08:50:09.390Z [info]: MongoDB connected successfully
+2024-11-24T08:50:12.502Z [info]: Server is running on port 3000
+2024-11-24T08:50:13.037Z [info]: MongoDB connected successfully
+2024-11-24T08:50:31.933Z [info]: Server is running on port 3000
+2024-11-24T08:50:38.361Z [info]: MongoDB connected successfully
+2024-11-24T08:52:19.431Z [info]: Server is running on port 3000
+2024-11-24T08:52:28.776Z [info]: MongoDB connected successfully
+2024-11-24T08:55:26.274Z [info]: Server is running on port 3000
+2024-11-24T08:55:33.563Z [info]: MongoDB connected successfully
+2024-11-24T09:02:11.823Z [info]: Server is running on port 3000
+2024-11-24T09:02:14.109Z [info]: Server is running on port 3000
+2024-11-24T09:02:23.388Z [info]: Server is running on port 3000
+2024-11-24T09:02:24.803Z [info]: MongoDB connected successfully
+2024-11-24T09:02:40.686Z [info]: Server is running on port 3000
+2024-11-24T09:02:41.495Z [info]: MongoDB connected successfully
+2024-11-24T09:03:20.442Z [info]: Server is running on port 3000
+2024-11-24T09:03:22.118Z [info]: MongoDB connected successfully
+2024-11-24T09:04:02.209Z [info]: Server is running on port 3000
+2024-11-24T09:04:02.837Z [info]: MongoDB connected successfully
+2024-11-24T09:14:58.469Z [info]: Server is running on port 3000
+2024-11-24T09:15:01.135Z [info]: MongoDB connected successfully
+2024-11-24T09:15:04.993Z [info]: Server is running on port 3000
+2024-11-24T09:15:05.534Z [info]: MongoDB connected successfully
+2024-11-24T09:15:25.186Z [info]: Server is running on port 3000
+2024-11-24T09:15:25.704Z [info]: MongoDB connected successfully
+2024-11-24T09:19:46.180Z [info]: Server is running on port 3000
+2024-11-24T09:19:54.216Z [info]: MongoDB connected successfully
+2024-11-24T09:20:08.370Z [info]: Server is running on port 3000
+2024-11-24T09:20:09.079Z [info]: MongoDB connected successfully
+2024-11-24T09:21:00.436Z [info]: Server is running on port 3000
+2024-11-24T09:21:02.305Z [info]: MongoDB connected successfully
+2024-11-24T09:21:06.126Z [info]: Server is running on port 3000
+2024-11-24T09:21:07.772Z [info]: Server is running on port 3000
+2024-11-24T09:21:12.424Z [info]: MongoDB connected successfully
+2024-11-24T09:21:25.976Z [info]: Server is running on port 3000
+2024-11-24T09:21:26.466Z [info]: MongoDB connected successfully
+2024-11-24T09:21:28.489Z [info]: Server is running on port 3000
+2024-11-24T09:21:29.189Z [info]: MongoDB connected successfully
+2024-11-24T09:21:45.736Z [info]: Server is running on port 3000
+2024-11-24T09:21:46.793Z [info]: MongoDB connected successfully
+2024-11-24T09:22:00.364Z [info]: Server is running on port 3000
+2024-11-24T09:22:00.882Z [info]: MongoDB connected successfully
+2024-11-24T09:22:09.145Z [info]: Server is running on port 3000
+2024-11-24T09:22:13.821Z [info]: MongoDB connected successfully
+2024-11-24T09:22:20.470Z [info]: Server is running on port 3000
+2024-11-24T09:22:21.591Z [info]: MongoDB connected successfully
+2024-11-24T09:22:58.800Z [info]: Server is running on port 3000
+2024-11-24T09:22:59.345Z [info]: MongoDB connected successfully
+2024-11-24T09:23:08.562Z [info]: Server is running on port 3000
+2024-11-24T09:23:12.961Z [info]: MongoDB connected successfully
+2024-11-24T09:23:19.114Z [info]: Server is running on port 3000
+2024-11-24T09:23:22.913Z [info]: Server is running on port 3000
+2024-11-24T09:23:25.490Z [info]: MongoDB connected successfully
+2024-11-24T09:23:29.641Z [info]: Server is running on port 3000
+2024-11-24T09:23:30.157Z [info]: MongoDB connected successfully
+2024-11-24T09:24:01.869Z [info]: Server is running on port 3000
+2024-11-24T09:24:02.606Z [info]: MongoDB connected successfully
+2024-11-24T09:24:58.533Z [info]: Server is running on port 3000
+2024-11-24T09:25:00.919Z [info]: Server is running on port 3000
+2024-11-24T09:25:13.560Z [info]: MongoDB connected successfully
+2024-11-24T09:25:17.493Z [info]: Server is running on port 3000
+2024-11-24T09:25:18.005Z [info]: MongoDB connected successfully
+2024-11-24T09:25:26.224Z [info]: Server is running on port 3000
+2024-11-24T09:25:26.715Z [info]: MongoDB connected successfully
+2024-11-24T09:25:30.365Z [info]: Server is running on port 3000
+2024-11-24T09:25:30.916Z [info]: MongoDB connected successfully
+2024-11-24T09:25:32.236Z [info]: Server is running on port 3000
+2024-11-24T09:25:32.711Z [info]: MongoDB connected successfully
+2024-11-24T09:37:35.151Z [info]: Server is running on port 3000
+2024-11-24T09:37:44.333Z [info]: MongoDB connected successfully
+2024-11-24T09:37:52.733Z [info]: Server is running on port 3000
+2024-11-24T09:37:57.292Z [info]: MongoDB connected successfully
+2024-11-24T09:38:22.437Z [info]: Server is running on port 3000
+2024-11-24T09:38:27.743Z [info]: MongoDB connected successfully
+2024-11-24T09:39:23.602Z [info]: Server is running on port 3000
+2024-11-24T09:39:25.084Z [info]: MongoDB connected successfully
+2024-11-24T09:39:27.429Z [info]: Server is running on port 3000
+2024-11-24T09:39:31.937Z [info]: Server is running on port 3000
+2024-11-24T09:39:32.455Z [info]: MongoDB connected successfully
+2024-11-24T09:39:50.269Z [info]: Server is running on port 3000
+2024-11-24T09:39:53.065Z [info]: MongoDB connected successfully
+2024-11-24T09:39:58.523Z [info]: Server is running on port 3000
+2024-11-24T09:39:59.085Z [info]: MongoDB connected successfully
+2024-11-24T09:40:29.462Z [info]: Server is running on port 3000
+2024-11-24T09:40:32.664Z [info]: MongoDB connected successfully
+2024-11-24T09:40:35.107Z [info]: Server is running on port 3000
+2024-11-24T09:40:37.283Z [info]: MongoDB connected successfully
+2024-11-24T09:40:52.625Z [info]: Server is running on port 3000
+2024-11-24T09:40:55.447Z [info]: MongoDB connected successfully
+2024-11-24T09:40:59.973Z [info]: Server is running on port 3000
+2024-11-24T09:41:00.484Z [info]: MongoDB connected successfully
+2024-11-24T09:41:09.490Z [info]: Server is running on port 3000
+2024-11-24T09:41:09.984Z [info]: MongoDB connected successfully
+2024-11-24T09:41:11.866Z [info]: Server is running on port 3000
+2024-11-24T09:41:12.379Z [info]: MongoDB connected successfully
+2024-11-24T09:42:18.682Z [info]: Server is running on port 3000
+2024-11-24T09:42:23.599Z [info]: MongoDB connected successfully
+2024-11-24T09:42:33.711Z [info]: Server is running on port 3000
+2024-11-24T09:42:34.340Z [info]: MongoDB connected successfully
+2024-11-24T09:43:06.021Z [info]: Server is running on port 3000
+2024-11-24T09:43:06.524Z [info]: MongoDB connected successfully
+2024-11-24T09:43:07.881Z [info]: Server is running on port 3000
+2024-11-24T09:43:08.546Z [info]: MongoDB connected successfully
+2024-11-24T09:43:16.788Z [info]: Server is running on port 3000
+2024-11-24T09:43:17.313Z [info]: MongoDB connected successfully
+2024-11-24T09:43:29.211Z [info]: Server is running on port 3000
+2024-11-24T09:43:36.390Z [info]: MongoDB connected successfully
+2024-11-24T09:43:38.851Z [info]: Server is running on port 3000
+2024-11-24T09:43:39.424Z [info]: MongoDB connected successfully
+2024-11-24T09:43:44.423Z [info]: Server is running on port 3000
+2024-11-24T09:43:44.916Z [info]: MongoDB connected successfully
+2024-11-24T09:43:52.145Z [info]: Server is running on port 3000
+2024-11-24T09:43:52.671Z [info]: MongoDB connected successfully
+2024-11-24T09:44:09.139Z [info]: Server is running on port 3000
+2024-11-24T09:44:09.631Z [info]: MongoDB connected successfully
+2024-11-24T09:44:17.831Z [info]: Server is running on port 3000
+2024-11-24T09:44:18.756Z [info]: MongoDB connected successfully
+2024-11-24T09:44:36.404Z [info]: Server is running on port 3000
+2024-11-24T09:44:45.246Z [info]: MongoDB connected successfully
+2024-11-24T09:45:09.433Z [info]: Server is running on port 3000
+2024-11-24T09:45:09.988Z [info]: MongoDB connected successfully
+2024-11-24T09:45:15.427Z [info]: Server is running on port 3000
+2024-11-24T09:45:15.952Z [info]: MongoDB connected successfully
+2024-11-24T09:45:22.562Z [info]: Server is running on port 3000
+2024-11-24T09:45:27.131Z [info]: MongoDB connected successfully
+2024-11-24T09:46:09.956Z [info]: Server is running on port 3000
+2024-11-24T09:46:12.957Z [info]: Server is running on port 3000
+2024-11-24T09:46:18.050Z [info]: MongoDB connected successfully
+2024-11-24T09:46:36.910Z [info]: Server is running on port 3000
+2024-11-24T09:46:37.667Z [info]: MongoDB connected successfully
+2024-11-24T09:46:53.580Z [info]: Server is running on port 3000
+2024-11-24T09:46:54.231Z [info]: MongoDB connected successfully
+2024-11-24T10:16:16.841Z [info]: Server is running on port 3000
+2024-11-24T10:16:28.640Z [info]: MongoDB connected successfully
+2024-11-24T10:17:16.284Z [info]: Server is running on port 3000
+2024-11-24T10:17:19.533Z [info]: Server is running on port 3000
+2024-11-24T10:17:20.724Z [info]: MongoDB connected successfully
+2024-11-24T10:19:26.604Z [info]: Server is running on port 3000
+2024-11-24T10:19:28.550Z [info]: Server is running on port 3000
+2024-11-24T10:19:39.102Z [info]: MongoDB connected successfully
+2024-11-24T10:19:56.667Z [info]: Server is running on port 3000
+2024-11-24T10:19:57.246Z [info]: MongoDB connected successfully
+2024-11-24T10:19:59.145Z [info]: Server is running on port 3000
+2024-11-24T10:19:59.711Z [info]: MongoDB connected successfully
+2024-11-24T10:22:48.031Z [info]: Server is running on port 3000
+2024-11-24T10:23:01.641Z [info]: MongoDB connected successfully
+2024-11-24T11:13:15.783Z [info]: Server is running on port 3000
+2024-11-24T11:13:18.767Z [info]: MongoDB connected successfully
+2024-11-24T11:15:40.000Z [info]: Server is running on port 3000
+2024-11-24T11:15:43.157Z [info]: Server is running on port 3000
+2024-11-24T11:15:47.611Z [info]: MongoDB connected successfully
+2024-11-24T11:17:02.185Z [info]: Server is running on port 3000
+2024-11-24T11:17:14.055Z [info]: MongoDB connected successfully
+2024-11-24T11:17:18.697Z [info]: Server is running on port 3000
+2024-11-24T11:17:19.264Z [info]: MongoDB connected successfully
+2024-11-24T11:17:52.663Z [info]: Server is running on port 3000
+2024-11-24T11:17:57.602Z [info]: MongoDB connected successfully
+2024-11-24T11:18:06.482Z [info]: Server is running on port 3000
+2024-11-24T11:18:18.297Z [info]: MongoDB connected successfully
+2024-11-24T11:18:51.011Z [info]: Server is running on port 3000
+2024-11-24T11:18:53.645Z [info]: MongoDB connected successfully
+2024-11-24T11:19:22.501Z [info]: Server is running on port 3000
+2024-11-24T11:19:30.067Z [info]: MongoDB connected successfully
+2024-11-24T11:19:33.570Z [info]: Server is running on port 3000
+2024-11-24T11:19:34.138Z [info]: MongoDB connected successfully
+2024-11-24T11:19:36.390Z [info]: Server is running on port 3000
+2024-11-24T11:19:37.988Z [info]: MongoDB connected successfully
+2024-11-24T11:19:41.585Z [info]: Server is running on port 3000
+2024-11-24T11:19:42.182Z [info]: MongoDB connected successfully
+2024-11-24T11:32:30.410Z [info]: Server is running on port 3000
+2024-11-24T11:32:36.768Z [info]: MongoDB connected successfully
+2024-11-24T11:32:44.226Z [info]: Server is running on port 3000
+2024-11-24T11:32:44.846Z [info]: MongoDB connected successfully
+2024-11-24T11:33:02.321Z [info]: Server is running on port 3000
+2024-11-24T11:33:03.925Z [info]: MongoDB connected successfully
+2024-11-24T11:34:13.029Z [info]: Server is running on port 3000
+2024-11-24T11:34:23.088Z [info]: MongoDB connected successfully
+2024-11-24T11:34:33.122Z [info]: Server is running on port 3000
+2024-11-24T11:34:33.775Z [info]: MongoDB connected successfully
+2024-11-24T11:35:01.959Z [info]: Server is running on port 3000
+2024-11-24T11:35:02.597Z [info]: MongoDB connected successfully
+2024-11-24T11:35:04.880Z [info]: Server is running on port 3000
+2024-11-24T11:35:05.466Z [info]: MongoDB connected successfully
+2024-11-24T11:35:24.267Z [info]: Server is running on port 3000
+2024-11-24T11:35:31.872Z [info]: Server is running on port 3000
+2024-11-24T11:35:38.414Z [info]: MongoDB connected successfully
+2024-11-24T11:36:28.032Z [info]: Server is running on port 3000
+2024-11-24T11:36:28.660Z [info]: MongoDB connected successfully
+2024-11-24T11:36:39.105Z [info]: Server is running on port 3000
+2024-11-24T11:36:48.591Z [info]: Server is running on port 3000
+2024-11-24T11:36:51.477Z [info]: MongoDB connected successfully
+2024-11-24T11:37:01.884Z [info]: Server is running on port 3000
+2024-11-24T11:37:02.535Z [info]: MongoDB connected successfully
+2024-11-24T11:37:07.018Z [info]: Server is running on port 3000
+2024-11-24T11:37:07.604Z [info]: MongoDB connected successfully
+2024-11-24T11:37:12.542Z [info]: Server is running on port 3000
+2024-11-24T11:37:14.211Z [info]: MongoDB connected successfully
+2024-11-24T11:37:15.959Z [info]: Server is running on port 3000
+2024-11-24T11:37:16.749Z [info]: MongoDB connected successfully
+2024-11-24T11:37:24.142Z [info]: Server is running on port 3000
+2024-11-24T11:37:28.919Z [info]: MongoDB connected successfully
+2024-11-24T11:39:19.427Z [info]: Server is running on port 3000
+2024-11-24T11:39:20.929Z [info]: MongoDB connected successfully
+2024-11-24T11:42:34.536Z [info]: Server is running on port 3000
+2024-11-24T11:42:42.014Z [info]: MongoDB connected successfully
+2024-11-24T11:42:52.606Z [info]: Server is running on port 3000
+2024-11-24T11:42:54.637Z [info]: Server is running on port 3000
+2024-11-24T11:42:57.551Z [info]: MongoDB connected successfully
+2024-11-24T11:43:51.328Z [info]: Server is running on port 3000
+2024-11-24T11:43:54.799Z [info]: MongoDB connected successfully
+2024-11-24T11:44:11.199Z [info]: Server is running on port 3000
+2024-11-24T11:44:11.799Z [info]: MongoDB connected successfully
+2024-11-24T11:44:18.821Z [info]: Server is running on port 3000
+2024-11-24T11:44:19.420Z [info]: MongoDB connected successfully
+2024-11-24T11:45:48.945Z [info]: Server is running on port 3000
+2024-11-24T11:45:56.653Z [info]: MongoDB connected successfully
+2024-11-24T11:46:03.515Z [info]: Server is running on port 3000
+2024-11-24T11:46:04.119Z [info]: MongoDB connected successfully
+2024-11-24T11:46:28.195Z [info]: Server is running on port 3000
+2024-11-24T11:46:28.764Z [info]: MongoDB connected successfully
+2024-11-24T11:46:32.638Z [info]: Server is running on port 3000
+2024-11-24T11:46:33.223Z [info]: MongoDB connected successfully
+2024-11-24T11:46:35.075Z [info]: Server is running on port 3000
+2024-11-24T11:46:35.698Z [info]: MongoDB connected successfully
+2024-11-24T11:46:42.455Z [info]: Server is running on port 3000
+2024-11-24T11:46:43.006Z [info]: MongoDB connected successfully
+2024-11-24T11:46:49.658Z [info]: Server is running on port 3000
+2024-11-24T11:46:53.881Z [info]: Server is running on port 3000
+2024-11-24T11:47:00.683Z [info]: Server is running on port 3000
+2024-11-24T11:47:03.631Z [info]: MongoDB connected successfully
+2024-11-24T11:47:13.521Z [info]: Server is running on port 3000
+2024-11-24T11:47:14.127Z [info]: MongoDB connected successfully
+2024-11-24T11:47:23.914Z [info]: Server is running on port 3000
+2024-11-24T11:47:24.549Z [info]: MongoDB connected successfully
+2024-11-24T11:47:36.273Z [info]: Server is running on port 3000
+2024-11-24T11:47:36.938Z [info]: MongoDB connected successfully
+2024-11-24T11:47:40.444Z [info]: Server is running on port 3000
+2024-11-24T11:47:41.067Z [info]: MongoDB connected successfully
+2024-11-24T11:47:44.300Z [info]: Server is running on port 3000
+2024-11-24T11:47:44.858Z [info]: MongoDB connected successfully
+2024-11-24T11:47:51.659Z [info]: Server is running on port 3000
+2024-11-24T11:47:53.880Z [info]: Server is running on port 3000
+2024-11-24T11:47:56.717Z [info]: MongoDB connected successfully
+2024-11-24T11:47:58.510Z [info]: Server is running on port 3000
+2024-11-24T11:48:01.320Z [info]: MongoDB connected successfully
+2024-11-24T11:48:11.625Z [info]: Server is running on port 3000
+2024-11-24T11:48:12.359Z [info]: MongoDB connected successfully
+2024-11-24T11:48:14.688Z [info]: Server is running on port 3000
+2024-11-24T11:48:15.304Z [info]: MongoDB connected successfully
+2024-11-24T11:49:52.575Z [info]: Server is running on port 3000
+2024-11-24T11:49:55.907Z [info]: Server is running on port 3000
+2024-11-24T11:49:59.462Z [info]: MongoDB connected successfully
+2024-11-24T11:50:02.659Z [info]: Server is running on port 3000
+2024-11-24T11:50:03.215Z [info]: MongoDB connected successfully
+2024-11-24T11:50:06.849Z [info]: Server is running on port 3000
+2024-11-24T11:50:07.405Z [info]: MongoDB connected successfully
+2024-11-24T11:50:21.269Z [info]: Server is running on port 3000
+2024-11-24T11:50:21.836Z [info]: MongoDB connected successfully
+2024-11-24T11:50:23.268Z [info]: Server is running on port 3000
+2024-11-24T11:50:23.836Z [info]: MongoDB connected successfully
+2024-11-24T11:50:31.196Z [info]: Server is running on port 3000
+2024-11-24T11:50:31.835Z [info]: MongoDB connected successfully
+2024-11-24T11:50:43.355Z [error]: Error in Save Purchase Return: purchase is not defined
+2024-11-24T11:50:43.358Z [error]: ReferenceError: purchase is not defined
+    at E:\durulhoda\nodetutorial\ecom\repositories\purchaseReturnRepository.js:21:7
+    at Array.forEach (<anonymous>)
+    at exports.savePurchaseReturn (E:\durulhoda\nodetutorial\ecom\repositories\purchaseReturnRepository.js:20:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.savePurchaseReturn (E:\durulhoda\nodetutorial\ecom\controllers\purchaseReturnController.js:12:20)
+2024-11-24T11:51:11.400Z [info]: Server is running on port 3000
+2024-11-24T11:51:24.262Z [info]: MongoDB connected successfully
+2024-11-24T11:52:20.978Z [info]: Server is running on port 3000
+2024-11-24T11:52:29.171Z [info]: MongoDB connected successfully

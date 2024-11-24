@@ -586,3 +586,36 @@
     at model.Query._find (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:2384:20)
     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
     at async model.Query.exec (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\query.js:4449:63)
+2024-11-24T04:26:30.787Z [error]: MongoDB connection failed: querySrv ESERVFAIL _mongodb._tcp.kashfulcluster0.ulwbv.mongodb.net
+2024-11-24T06:05:54.399Z [error]: Error in Save Purchase: PurchaseChld validation failed: article: Cast to ObjectId failed for value "123456789" (type string) at path "article" because of "BSONError", articleChld: Cast to ObjectId failed for value "5646" (type number) at path "articleChld" because of "BSONError"
+2024-11-24T06:05:54.400Z [error]: ValidationError: PurchaseChld validation failed: article: Cast to ObjectId failed for value "123456789" (type string) at path "article" because of "BSONError", articleChld: Cast to ObjectId failed for value "5646" (type number) at path "articleChld" because of "BSONError"
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at model.$set (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:1474:12)
+    at model.$set (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:1128:16)
+    at model.Document (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:177:12)
+    at model.Model (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:127:12)
+    at new model (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:4682:15)
+    at Array.<anonymous> (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:2905:17)
+    at _start (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\parallelLimit.js:27:37)
+    at parallelLimit (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\helpers\parallelLimit.js:23:5)
+    at Model.$__insertMany (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\model.js:2936:3)
+2024-11-24T06:07:42.243Z [error]: Error in Save Purchase: Cannot read properties of undefined (reading 'push')
+2024-11-24T06:07:42.245Z [error]: TypeError: Cannot read properties of undefined (reading 'push')
+    at E:\durulhoda\nodetutorial\ecom\repositories\purchaseRepository.js:22:25
+    at Array.forEach (<anonymous>)
+    at exports.savePurchase (E:\durulhoda\nodetutorial\ecom\repositories\purchaseRepository.js:21:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.savePurchase (E:\durulhoda\nodetutorial\ecom\controllers\purchaseController.js:12:20)
+2024-11-24T08:42:25.149Z [error]: Error in Save Purchase: Inventory validation failed: netSock: Path `netSock` is required.
+2024-11-24T08:42:25.152Z [error]: ValidationError: Inventory validation failed: netSock: Path `netSock` is required.
+    at Document.invalidate (E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3318:32)
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\document.js:3079:17
+    at E:\durulhoda\nodetutorial\ecom\node_modules\mongoose\lib\schemaType.js:1388:9
+    at process.processTicksAndRejections (node:internal/process/task_queues:85:11)
+2024-11-24T11:50:43.355Z [error]: Error in Save Purchase Return: purchase is not defined
+2024-11-24T11:50:43.358Z [error]: ReferenceError: purchase is not defined
+    at E:\durulhoda\nodetutorial\ecom\repositories\purchaseReturnRepository.js:21:7
+    at Array.forEach (<anonymous>)
+    at exports.savePurchaseReturn (E:\durulhoda\nodetutorial\ecom\repositories\purchaseReturnRepository.js:20:18)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async exports.savePurchaseReturn (E:\durulhoda\nodetutorial\ecom\controllers\purchaseReturnController.js:12:20)
