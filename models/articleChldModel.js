@@ -14,7 +14,7 @@ const articleChldSchema = new Schema(
       unique: true,
     },
     sell_price: {
-      type: String,
+      type: Number,
       required: true,
     },
     size: {

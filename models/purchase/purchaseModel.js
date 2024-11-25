@@ -1,9 +1,13 @@
 const mongoose = require("mongoose");
 const { Schema } = mongoose;
-const Inventory = require("./inventoryModel");
-const purchaseReturnSchema = new Schema(
+const Inventory = require("../inventoryModel");
+const purchaseSchema = new Schema(
   {
-    return_invoice: {
+    purchase_ref: {
+      type: String,
+      required: true,
+    },
+    purchase_invoice: {
       type: String,
       required: true,
     },
@@ -22,10 +26,10 @@ const purchaseReturnSchema = new Schema(
       ref: "Supplier",
       default: null,
     },
-    return_date: {
+    purchase_date: {
       type: Date,
     },
-    chld: [{ type: mongoose.Schema.Types.ObjectId, ref: "PurchaseReturnChld" }],
+    chld: [{ type: mongoose.Schema.Types.ObjectId, ref: "PurchaseChld" }],
     status: {
       type: Number,
       required: true,
@@ -44,7 +48,7 @@ const purchaseReturnSchema = new Schema(
   },
   { timestamps: true }
 );
-purchaseReturnSchema.post("save", async function (doc, next) {
+purchaseSchema.post("save", async function (doc, next) {
   let inventoryObjs = this._chldData.map((item) => {
     return {
       updateOne: {
@@ -57,8 +61,8 @@ purchaseReturnSchema.post("save", async function (doc, next) {
         },
         update: {
           $inc: {
-            stockOut: item.return_qty,
-            netSock: -item.return_qty,
+            stockIn: item.purchase_qty,
+            netSock: item.purchase_qty,
           },
         },
         upsert: true,
@@ -69,6 +73,6 @@ purchaseReturnSchema.post("save", async function (doc, next) {
   await Inventory.bulkWrite(inventoryObjs, { session });
   next();
 });
-const PurchaseReturn = mongoose.model("PurchaseReturn", purchaseReturnSchema);
+const Purchase = mongoose.model("Purchase", purchaseSchema);
 
-module.exports = PurchaseReturn;
+module.exports = Purchase;

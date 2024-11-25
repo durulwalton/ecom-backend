@@ -3,11 +3,7 @@ const { Schema } = mongoose;
 const Inventory = require("./inventoryModel");
 const purchaseSchema = new Schema(
   {
-    purchase_ref: {
-      type: String,
-      required: true,
-    },
-    purchase_invoice: {
+    sales_invoice: {
       type: String,
       required: true,
     },
@@ -26,8 +22,31 @@ const purchaseSchema = new Schema(
       ref: "Supplier",
       default: null,
     },
-    purchase_date: {
+    customer: {
+      type: Schema.Types.ObjectId,
+      ref: "Customer",
+      default: null,
+    },
+    sales_point: {
+      type: Schema.Types.ObjectId,
+      ref: "SalePoint",
+      default: null,
+    },
+    sales_man: {
+      type: Schema.Types.ObjectId,
+      ref: "User",
+      default: null,
+    },
+    sales_date: {
       type: Date,
+    },
+    total_sale_price: {
+      type: Number,
+    },
+    isStoreOut: {
+      type: Boolean,
+      required: true,
+      default: false,
     },
     chld: [{ type: mongoose.Schema.Types.ObjectId, ref: "PurchaseChld" }],
     status: {
@@ -48,31 +67,3 @@ const purchaseSchema = new Schema(
   },
   { timestamps: true }
 );
-purchaseSchema.post("save", async function (doc, next) {
-  let inventoryObjs = this._chldData.map((item) => {
-    return {
-      updateOne: {
-        filter: {
-          company: item.company,
-          store: item.store,
-          supplier: item.supplier,
-          article: item.article,
-          articleChld: item.articleChld,
-        },
-        update: {
-          $inc: {
-            stockIn: item.purchase_qty,
-            netSock: item.purchase_qty,
-          },
-        },
-        upsert: true,
-      },
-    };
-  });
-  const session = this.$session();
-  await Inventory.bulkWrite(inventoryObjs, { session });
-  next();
-});
-const Purchase = mongoose.model("Purchase", purchaseSchema);
-
-module.exports = Purchase;

@@ -19,7 +19,7 @@ const purchaseChldSchema = new Schema(
       required: true,
     },
     purchase_rate: {
-      type: String,
+      type: Number,
       required: true,
     },
     purchase_qty: {

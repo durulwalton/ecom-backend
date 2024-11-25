@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
-const PurchaseReturn = require("../models/PurchaseReturnModel");
-const PurchaseReturnChld = require("../models/PurchaseReturnChldModel");
+const PurchaseReturn = require("../models/purchase/PurchaseReturnModel");
+const PurchaseReturnChld = require("../models/purchase/PurchaseReturnChldModel");
 
 exports.savePurchaseReturn = async (parentData, chldData) => {
   const session = await mongoose.startSession();

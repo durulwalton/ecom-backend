@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
-const Purchase = require("../models/purchaseModel");
-const PurchaseChld = require("../models/purchaseChldModel");
+const Purchase = require("../models/purchase/purchaseModel");
+const PurchaseChld = require("../models/purchase/purchaseChldModel");
 
 exports.savePurchase = async (parentData, chldData) => {
   const session = await mongoose.startSession();
