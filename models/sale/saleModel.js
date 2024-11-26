@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const { Schema } = mongoose;
 const Inventory = require("./inventoryModel");
-const purchaseSchema = new Schema(
+const saleSchema = new Schema(
   {
     sales_invoice: {
       type: String,
@@ -43,6 +43,18 @@ const purchaseSchema = new Schema(
     total_sale_price: {
       type: Number,
     },
+    offerMinOrderValue: {
+      type: Number,
+    },
+    total_offer_amount: {
+      type: Number,
+    },
+    promoMinOrderValue: {
+      type: Number,
+    },
+    total_promo_amount: {
+      type: Number,
+    },
     isStoreOut: {
       type: Boolean,
       required: true,
@@ -67,3 +79,7 @@ const purchaseSchema = new Schema(
   },
   { timestamps: true }
 );
+
+const Sale = mongoose.model("Sale", saleSchema);
+
+module.exports = Sale;

@@ -8,11 +8,18 @@ const promotionSchema = new mongoose.Schema(
       required: true,
       default: 0,
     },
-    code: {
+    name: {
       type: String,
       required: true,
+      trim: true,
+    },
+    promoCode: {
+      type: String,
+      trim: true,
       unique: true,
-      uppercase: true,
+    },
+    description: {
+      type: String,
       trim: true,
     },
     discountType: {
@@ -25,11 +32,11 @@ const promotionSchema = new mongoose.Schema(
       required: true,
     },
     // For Sale Master Tabe Data Start
-    maxDiscount: {
-      type: Number, // Optional: Maximum discount amount (for percentage discounts)
+    maxDiscountAmount: {
+      type: Number, // Optional: Limits the maximum discount value. For example, if the discount type is a percentage, it could cap the discount to a certain dollar amount.
     },
     minOrderValue: {
-      type: Number, // Optional: Minimum order value to apply the promotion
+      type: Number, // Optional: The minimum order amount that must be met for the promotion to apply
     },
     // For Sale Master Tabe Data End
     usageLimit: {
@@ -47,6 +54,11 @@ const promotionSchema = new mongoose.Schema(
     endDate: {
       type: Date,
       required: true,
+    },
+    userTypes: {
+      type: [String],
+      enum: ["new", "registered", "guest"],
+      default: ["new", "registered"],
     },
     offerOn: [{ type: mongoose.Schema.Types.ObjectId, ref: "PromotionOn" }],
     isActive: {

@@ -30,22 +30,42 @@ const saleChldSchema = new Schema(
       type: Schema.Types.ObjectId,
       ref: "Offer",
     },
-    discountType: {
+    offerTargetType: {
+      type: String,
+    },
+    offerTargetRef: {
+      type: Schema.Types.ObjectId,
+      refPath: "offerTargetType",
+    },
+    offerDiscountType: {
       type: String,
       enum: ["Percentage", "Flat"],
     },
-    discountValue: { type: Number },
+    offerDiscountValue: { type: Number },
+    offerMaxDiscountAmount: {
+      type: Number,
+    },
     offerStartDate: { type: Date },
     offerEndDate: { type: Date },
     promotion: {
       type: Schema.Types.ObjectId,
       ref: "Promotion",
     },
-    promotionType: {
+    promoTargetType: {
+      type: String,
+    },
+    promoTargetRef: {
+      type: Schema.Types.ObjectId,
+      refPath: "promoTargetType",
+    },
+    promoDiscountType: {
       type: String,
       enum: ["Percentage", "Flat"],
     },
-    promotionValue: { type: Number },
+    promoDiscountValue: { type: Number },
+    promoMaxDiscountAmount: {
+      type: Number,
+    },
     promotionStartDate: { type: Date },
     promotionEndDate: { type: Date },
     status: {
